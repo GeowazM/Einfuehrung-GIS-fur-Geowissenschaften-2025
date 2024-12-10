@@ -9,8 +9,12 @@
 Willkommen zu Einführung in GIS!
 ===========================
 
-GIS Einführung
-==============
+
+Der GIS-Kurs vermittelt Ihnen die grundlegenden Konzepte der Geoinformationssysteme (GIS) und der wissenschaftlichen Datenanalyse unter Verwendung der 
+GIS-Software QGIS (keine Vorkenntnisse erforderlich). Jede Lektion ist ein Tutorial zu spezifischen Themen, bei dem das Ziel darin besteht, Fähigkeiten und Verständnis zu erlangen, wie man gängige raumbezogene Aufgaben mit GIS löst. 
+Der Kurs wurde im Rahmen der GIS-Station, der Pädagogischen Hochschule Heidelberg für das Geowissenschaftliche Institut der Uni Heidelberg entwickelt. 
+ <https://www.helsinki.fi/fi/koulutusohjelmat/geotieteiden-kandiohjelma>_ an der Universität Helsinki organisiert.
+
 
 Lernziele
 ---------
@@ -170,63 +174,6 @@ However, the exercises you submit must must clearly reflect your own work (in sh
     Please note that the course is organized completely on site during the 2023 autumn semester.
     Online support for University of Helsinki and Aalto University students will be available in the discussion channels in Discord.
 
-Course topics
--------------
-
-After completing this course, students will (1) understand basic programming concepts, (2) be able to write short programs, and (3) manipulate, analyze, and visualize scientific data using Python.
-Students will also learn to use version control (git) and online repositories (GitHub) for documenting and sharing their work.
-Themes for each week are listed below.
-You can also read more about the weekly :doc:`learning goals <course-info/learning-goals>`.
-
-The course runs for seven weeks in the autumn semester starting on the 4th of September 2023.
-New materials are updated on this course page each Monday.
-
-+----------+----------------------+
-| Week     | Theme                |
-+==========+======================+
-|**1**     | Basic concepts of    |
-|          | Python and computer  |
-|          | programs             |
-|          |                      |
-+----------+----------------------+
-|**2**     | Diving into Python   |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**3**     | Repeating tasks      |
-|          | and making decisions |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**4**     | Creating and using   |
-|          | functions            |
-|          |                      |
-+----------+----------------------+
-|**5**     | Data analysis        |
-|          | Part I               |
-|          |                      |
-+----------+----------------------+
-|**6**     | Data analysis        |
-|          | Part II +            |
-|          | Dealing with errors  |
-+----------+----------------------+
-|**7**     | Data visualization   |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-
-
-.. admonition:: Step by step instructions with cloud computing!
-
-    The materials are presented in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that we provide for you (namely JupyterLab Notebooks using Binder or CSC Cloud computing resources).
-    If you would like, you can find :doc:`more information about our cloud computing environment <lessons/L1/course-environment-components>`.
-    For those planning to work on the course materials on your own computer, please note that you will **need to adjust the file paths to the data** accordingly.
-
-.. admonition:: For teachers
-
-    If you would like to use these materials for your own teaching or develop them further, we highly support that.
-    Please read more about how to do it from :doc:`our licensing terms<course-info/licensing>`.
-
 .. toctree::
     :maxdepth: 2
     :caption: Kursinhalte
@@ -234,6 +181,8 @@ New materials are updated on this course page each Monday.
     course-info/course-info
     course-info/learning-goals
     course-info/grading
+    course-info/resources
+    course-info/theteam
     course-info/licensing
 
 .. toctree::
@@ -241,6 +190,7 @@ New materials are updated on this course page each Monday.
     :caption: Uebung 0
 
     lessons/L0/overview
+    lessons/L0/wiki
     lessons/L0/exercise-0
 
 

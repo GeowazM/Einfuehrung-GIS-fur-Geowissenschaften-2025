@@ -1,45 +1,8 @@
-Das Team
-- Seb
-- Mar
-
-
-The Geo-Python team
+Acknowledgment 
 ===================
 
-The Geo-Python course has been produced by a team of teachers, content creators, and course assistants.
+This courcse was developed with open source data and materials. A special thanks refers to the following persons and institutions:
 
-Teachers and content creators
------------------------------
-
-- `Håvard Aagesen <https://haavardaagesen.github.io/>`__: Former course teacher
-- `Christoph Fink <https://christophfink.com/>`__: Former course teacher
-- `Kamyar Hasanzadeh <https://researchportal.helsinki.fi/en/persons/kamyar-hasanzadeh>`__: Course teacher
-- `Vuokko Heikinheimo <https://www.syke.fi/en-US/Experts/Vuokko_Heikinheimo(60025)>`__: Former course teacher and course assistant
-- `Henrikki Tenkanen <https://htenkanen.org/>`__: Course co-creator and former teacher
-- `Yijun Wang <https://www.mn.uio.no/geo/english/people/aca/phab/yijonw/index.html>`__: Developer of course autograding system
-- `David Whipp <https://davewhipp.github.io/>`__: Course co-creator and teacher
-
-Current and former course assistants
-------------------------------------
-
-- Nino Chkhartishvili
-- Emil Ehnström
-- Antti Kallanranta
-- Mikko Kangasmaa
-- Sonja Koivisto
-- Sanni Laaksonen
-- Hertta Lehvävirta
-- Samuli Massinen
-- Oyelowo Oyedayo
-- Justus Poutanen
-- Aleksi Rantanen
-- Vili Rauhala
-- Sakari Sarjakoski
-- Aino Schulz
-- Jorina Schütt
-- Veeti Sihvola
-- Sara Todorovic
-- Leevi Tuikka
-- Bryan Vallejo
-- Annarosa Whitman
-- Lotta Ylä-Mella
+- `GIS-Station - Research Group for Earth Observation (rgeo), Heidelberg University of Education <https://rgeo.de/>`__
+- `GIScience & HeiGIT of the Heidelberg University <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung>`__
+- `Håvard Aagesen & Team of the University of Helsinki <https://geo-python-site.readthedocs.io/en/latest/course-info/theteam.html>`__

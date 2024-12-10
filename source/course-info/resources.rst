@@ -1,43 +1,21 @@
-Useful books and sites
+Literatur
 ======================
 
-In addition to our course, there are countless of excellent books, tutorials and examples related to programming in Python.
-Here we list some good places to look for further information.
+Zum Thema GIS gibt es unzähliche Anwendungsbeispiele, Quellen, Bücher und Tutorials.
 
-New book: Introduction to Python for Geographic Data Analysis
+Hier eine kurze Zusammenstellung:
+
+Book: Introduction to GIS
 -------------------------------------------------------------
 
-Henrikki Tenkanen, Vuokko Heikinheimo, and David Whipp (all current or past course teachers) are working on a textbook that is based on the Geo-Python and Automating GIS processes courses.
-The book will be openly available online and is currently under development.
-The material in the first part of the book originates from this course and has reached a point where we will be using the book for most of our Python lessons. You can access the current book draft at `<https://python-gis-book.readthedocs.io/en/latest/>`_.
+  - Heywood, I.; Carver, S. et Cornelius, S. (2011) `Introduction to Geographical Information Systems <https://elibrary.pearson.de/book/99.150005/9780273722632>`_,  *Copies of this book are available in the Kumpula Campus library.*
 
-Other books
------------
-
-There are **no required textbooks** for this course. This course uses a wide range of sources for course information and the main textbooks are given below.
-
-- Recommended textbooks and online resources:
-
-  - Zelle, J. (2017) `Python Programming: An Introduction to Computer Science <https://mcsp.wartburg.edu/zelle/python/ppics3/index.html>`_, Third edition. Franklin, Beedle & Associates. *Copies of this book are available in the Kumpula Campus library.*
-  - McKinney, W. (2022) `Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython <https://wesmckinney.com/book/>`_, Third edition. O'Reilly Media, Incorporated.
-  -  `Learn Python the Hard Way <https://learnpythonthehardway.org/python3/>`__ *Free sample of the book is available on the webpage.*
-
-
-Python tutorials
+QGIS channels
 ----------------
 
--  `Codecademy's Learn to program in Python <https://www.codecademy.com/learn/python>`__
--  `Software Carpentry's programming in Python <https://swcarpentry.github.io/python-novice-inflammation/>`__
+-  `Einführung in Geo-Informationssysteme <https://learn.opengeoedu.de/gis>`__
+-  `Geodata Academy <https://learn.opengeoedu.de/gis>`__
+-  `Hans van der Kwast <https://www.youtube.com/@HansvanderKwast>`__
+-  `Klas Karlsson <https://www.youtube.com/@KlasKarlsson>`__
 
 
-Git + Github tutorials
-----------------------
-
-- `Online "Try-Git" tutorial (learn Git in your browser) <https://try.github.io>`__
-- `Git simple guide ("no deep shit") tutorial <http://rogerdudler.github.io/git-guide/>`__
-- `Software Carpentry's Git novice tutorial <https://swcarpentry.github.io/git-novice>`__
-- `Git official documentation <https://git-scm.com/>`__
-- `Screencast series in Youtube for learning GitHub <https://www.youtube.com/playlist?list=PL4Q4HssKcxYsTuqUUvEHJ8XxOVOHTSmle>`__
-- `Tutorial on few extra features of GitHub not (most probably) covered in this course (e.g. branch, pull-request, merge) <https://guides.github.com/activities/hello-world/>`__
-- `A TechCrunch article about 'What is GitHub Anyway?' <https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/>`__
-- `A list of resources for learning Git and GitHub <https://help.github.com/articles/good-resources-for-learning-git-and-github/>`__
