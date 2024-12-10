@@ -1,3 +1,8 @@
+Das Team
+- Seb
+- Mar
+
+
 The Geo-Python team
 ===================
 
