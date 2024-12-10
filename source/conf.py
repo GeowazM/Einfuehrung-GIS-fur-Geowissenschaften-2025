@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Geo-Python"
-copyright = "2016-2024, The Geo-Python team, Department of Geosciences and Geography, University of Helsinki"
+project = "Einführung GIS für Geowissenschaften"
+copyright = "2025"
 # author = 'David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen'
 author = ""
 
@@ -30,7 +30,7 @@ version = "2024"
 release = "site"
 
 # Set documentation language
-language="en"
+language="de"
 
 # -- General configuration ---------------------------------------------------
 
