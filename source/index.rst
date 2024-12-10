@@ -229,18 +229,47 @@ New materials are updated on this course page each Monday.
 
 .. toctree::
     :maxdepth: 2
-    :caption: Course information
+    :caption: Kursinhalte
 
     course-info/course-info
     course-info/learning-goals
     course-info/grading
-    course-info/ai-tools
     course-info/licensing
-    course-info/theteam
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Uebung 0
+
+    lessons/L0/overview
+    lessons/L0/exercise-0
+
 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 1
+
+    lessons/L1/motivation
+    lessons/L1/overview
+    lessons/L1/course-environment-components
+    lessons/L1/discord-usage
+    notebooks/L1/a-taste-of-python.ipynb
+    notebooks/L1/gcp-1-variable-naming.ipynb
+    lessons/L1/exercise-1
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 2
+
+    lessons/L2/overview
+    lessons/L2/intro-to-GitHub
+    lessons/L2/log-in-GitHub
+    lessons/L2/Github-classroom
+    lessons/L2/why-pairs
+    lessons/L2/exercise-2
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 7
 
     lessons/L1/motivation
     lessons/L1/overview
