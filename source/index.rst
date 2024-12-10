@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: img/banner/gworld-map.png
+.. image:: img/banner/world-map.png
     :class: dark-light
 
 Willkommen zu Einführung in GIS!
