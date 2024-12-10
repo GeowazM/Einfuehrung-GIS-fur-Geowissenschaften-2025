@@ -1,4 +1,4 @@
-Lesson overview
+Hintergrund
 ===============
 
 This week we will introduce you to data visualization and some different modules that can be used to make data plots in Python.

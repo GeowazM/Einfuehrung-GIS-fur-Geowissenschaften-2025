@@ -15,16 +15,10 @@ Kurse im Wintersemester 2024/25
    - Die Prüfungsleistung ist in Form einer Projektarbeit zu absolvieren
 
 Dozent
------------
-
-Email: *mario@uni-tuebingen.de*
-
-Lecturers
 ~~~~~~~~~
 
 - Mario Blersch
-
-  - Office: Westbau 1. OG, W402
+  - AG Geoinformatik, Geographisches Institut, Universität Tübingen
 
 Course websites
 ---------------
