@@ -3,15 +3,141 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. image:: img/banner/geo-python-2023.png
+.. image:: img/banner/gworld-map.png
     :class: dark-light
 
-Welcome to Geo-Python 2024!
+Willkommen zu Einführung in GIS!
 ===========================
+
+GIS Einführung
+==============
+
+Lernziele
+---------
+
+-  Übertragung von Konzepten aus der Vorlesung in praktische Abläufe
+-  Betrachtung des Workflows von GIS-Analysen (EVAP ohne Erhebung (E))
+
+   -  Datenmanagement (V)
+   -  Datenanalyse (A)
+   -  Kartenerstellung (P)
+
+-  Einführung in ein Desktop GIS-System: Quantum GIS (open source)
+
+Überblick über den Ablauf und die Inhalte der Übungen
+-----------------------------------------------------
+
+Ablauf
+~~~~~~
+
+-  Die Übungen werden hier in Github bereitgestellt.
+-  Die Inhalte der Übungen sollt ihr euch selbständig erarbeiten. Im
+   `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__
+   findet ihr alle nötigen Informationen um Übungsaufgaben zu meistern.
+   Hier findet ihr Kurzanleitungen, Tipps und Videos. Ein Dankeschön
+   geht hier an die Ersteller:innen der Seite, an die GIScience Group
+   der Uni Heidelberg & das HeiGIT.
+-  Beachtet: Aufgrund technischer Probleme mit dem Gitlab Wiki kann es
+   vorkommen, dass einige Links nicht funktionieren.
+-  Die Vorlesungsfolien wird euch per Mail zugeschickt.
+-  Bei Fragen wendet euch direkt an mich oder schreibt per Mail (siehe
+   Folien).
+
+Inhalte
+~~~~~~~
+
+Anhand der Übungen lernt ihr,\ **wie** ihr praktisch vorgeht. Ihr
+versteht **warum** eure Lösungen funkionieren und erhaltet eine
+Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische
+**Hands-On** Sessions gestaltet.
+
++-----------------------------------+-----------------------------------+
+| Übung                             | Thema                             |
++===================================+===================================+
+| 0                                 | `Ei                               |
+|                                   | nführung <https://github.com/Geow |
+|                                   | azM/Einfuehrung-GIS-fur-Geowissen |
+|                                   | schaften/tree/main/exercise_0>`__ |
++-----------------------------------+-----------------------------------+
+| 1                                 | `Layerkonzept,                    |
+|                                   | Attrib                            |
+|                                   | utdaten <https://github.com/Geowa |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_01>`__ |
++-----------------------------------+-----------------------------------+
+| 2                                 | `Eine Karte                       |
+|                                   | er                                |
+|                                   | stellen <https://github.com/Geowa |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_02>`__ |
++-----------------------------------+-----------------------------------+
+| 3                                 | `Vektor - Mit Attributtabellen    |
+|                                   | a                                 |
+|                                   | rbeiten <https://github.com/Geowa |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_03>`__ |
++-----------------------------------+-----------------------------------+
+| 4                                 | `Vektor - Räumliche Abfrage       |
+|                                   | nutzen <https://github.com/Geowa  |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_04>`__ |
++-----------------------------------+-----------------------------------+
+| 5a                                | `Digitali                         |
+|                                   | sieren <https://github.com/Geowaz |
+|                                   | M/Einfuehrung-GIS-fur-Geowissensc |
+|                                   | haften/tree/main/exercise_05a>`__ |
++-----------------------------------+-----------------------------------+
+| 5a                                | `Georeferen                       |
+|                                   | zieren <https://github.com/Geowaz |
+|                                   | M/Einfuehrung-GIS-fur-Geowissensc |
+|                                   | haften/tree/main/exercise_05b>`__ |
++-----------------------------------+-----------------------------------+
+| 6                                 | `Raster - Klassifizierung von     |
+|                                   | Sentinel-2 Daten & 3D             |
+|                                   | Visualisi                         |
+|                                   | erungen <https://github.com/Geowa |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_06>`__ |
++-----------------------------------+-----------------------------------+
+| 7                                 | `Raster - Digitale Geländemodelle |
+|                                   | nutzen <https://github.com/Geowa  |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_07>`__ |
++-----------------------------------+-----------------------------------+
+| 8                                 | `Räumliche Interpolation          |
+|                                   | durc                              |
+|                                   | hführen <https://github.com/Geowa |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_08>`__ |
++-----------------------------------+-----------------------------------+
+| 9                                 | `Prozesse                         |
+|                                   | automat                           |
+|                                   | isieren <https://github.com/Geowa |
+|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
+|                                   | chaften/tree/main/exercise_09>`__ |
++-----------------------------------+-----------------------------------+
+|                                   | Vorbereitung Abschlussprojekt     |
++-----------------------------------+-----------------------------------+
+
+--------------
+
+**WICHTIG:** \* Die Abgabe des Abschlussprojekts erfolgt ausschließlich
+per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt mit
+allen Layern öffnen kann. \* Die aus der Gesamt-Punktzahl resultierende
+Note wird dem Prüfungssekretariat gemeldet.
+
+Links: \* https://www.geotis.de/geotisapp/geotis.php \*
+https://www.nlog.nl/southern-permian-basin-atlas \*
+https://nibis.lbeg.de/cardomap3/
+
+
 
 The **Geo-Python** course teaches you the basic concepts of programming and scientific data analysis using the Python programming language in a format that is easy to learn and understand (no previous programming experience required).
 Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python.
 Geo-Python is jointly organized by the `Master's Program in Geography <https://www.helsinki.fi/en/degree-programmes/geography-masters-programme>`_ and the `Bachelor's Program in Geoscience <https://www.helsinki.fi/fi/koulutusohjelmat/geotieteiden-kandiohjelma>`_ at the University of Helsinki.
+
+
+
 
 Geo-Python covers the essential skills needed to continue to more advanced courses such as `Automating GIS processes <https://autogis.github.io>`_ and/or `Introduction to Quantitative Geology <https://introqg.github.io>`_.
 
