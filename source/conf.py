@@ -103,16 +103,14 @@ pygments_style = "sphinx"
 # =======================
 
 html_theme = "sphinx_book_theme"
-html_logo = "_static/geopython.png"
+html_logo = "_static/logo-trans.png"
 html_title = ""
 
 html_theme_options = {
     # "external_links": [],
-    "repository_url": "https://github.com/geo-python/site/",
+    "repository_url": "https://github.com/GeowazM/GeoPython-GDM/",
     "repository_branch": "master",
     "path_to_docs": "source/",
-    # "twitter_url": "https://twitter.com/pythongis",
-    # "google_analytics_id": "UA-159257488-1",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
@@ -150,7 +148,7 @@ html_context = {
     "display_github": True,
     # Set the following variables to generate the resulting github URL for each page.
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
-    "github_user": "geo-python",
+    "github_user": "Geo-Python",
     "github_repo": "site",
     "github_version": "master/",
     "conf_py_path": "/source/",
