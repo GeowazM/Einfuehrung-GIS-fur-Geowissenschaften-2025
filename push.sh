@@ -5,7 +5,7 @@
 ORG=geo-python
 REPO=site
 # This probably should match an email for one of your users.
-EMAIL=david.whipp@helsinki.fi
+EMAIL=mario@uni-tuebingen.de
 
 set -e
 
