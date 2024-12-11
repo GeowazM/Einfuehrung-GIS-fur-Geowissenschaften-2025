@@ -72,7 +72,7 @@ Apple menu -> About This Mac
 
     ..  youtube:: pja_EX0tVZA
 
-    Hans can der Kwast @ `Geo-Python channel on Youtube <https://www.youtube.com/@HansvanderKwast>`_.
+    @ `Hans van der Kwast channel on Youtube <https://www.youtube.com/@HansvanderKwast>`_.
 
 
 old

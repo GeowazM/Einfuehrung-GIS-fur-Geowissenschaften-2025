@@ -10,16 +10,22 @@ The main components of today's lesson can be found in the navigation bar to the 
 
     There is a lot of material here but don't worry, you will become familiar with all of these things once we start working in practice.
 
-Learning goals
+Ziel der Übung
 --------------
 
-After this weeks lesson your should be able to:
+-  Die ersten Schritte wagen.
+-  Die Benutzeroberfläche verstehen und das Layer-Konzept kennenlernen.
+-  Vektor-Daten in einem GIS anzeigen und die Attributdaten einsehen.
+-  Vektor-Daten umprojizieren (d.h. die Projektion der Daten ändern).
 
-- know what kind of tools we are using during the course
-- explain the basic concepts of a computer, a program, and a programming language
-- define and use variables
-- describe the concept of a data type
-- determine the data type of a variable in Python
+
+Wiki:
+-----
+
+-  `Interface <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__
+-  `Layer-Konzept <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
+-  `Attributdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Attributdaten>`__
+-  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
 
 Lesson videos
 -------------
@@ -30,20 +36,6 @@ Lesson videos
     ..  youtube:: T09uwbl42N8
     
     Kamyar Hasanzadeh & Dave Whipp, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
-
-.. admonition:: Lesson 1.2 - Course environment and a taste of Python
-    :class: admonition-youtube
-
-    ..  youtube:: FcifInKjmxw
-    
-    Kamyar Hasanzadeh & Dave Whipp, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
-
-.. admonition:: GCP 1 - Selecting "good" variable names
-    :class: admonition-youtube
-
-    ..  youtube:: G0FZkgbQYGg
-    
-    Dave Whipp & Vuokko Heikinheimo, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
 
 Lecture slides
 --------------

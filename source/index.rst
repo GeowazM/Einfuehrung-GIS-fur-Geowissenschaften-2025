@@ -187,7 +187,7 @@ However, the exercises you submit must must clearly reflect your own work (in sh
 
 .. toctree::
     :maxdepth: 2
-    :caption: Uebung 0
+    :caption: Erste Schritte in QGIS
 
     lessons/L0/overview
     lessons/L0/wiki
@@ -198,13 +198,9 @@ However, the exercises you submit must must clearly reflect your own work (in sh
     :maxdepth: 2
     :caption: Lesson 1
 
-    lessons/L1/motivation
     lessons/L1/overview
-    lessons/L1/course-environment-components
-    lessons/L1/discord-usage
-    notebooks/L1/a-taste-of-python.ipynb
-    notebooks/L1/gcp-1-variable-naming.ipynb
-    lessons/L1/exercise-1
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
 
 .. toctree::
     :maxdepth: 2
