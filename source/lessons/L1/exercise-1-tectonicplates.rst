@@ -52,8 +52,11 @@ So (oder ähnlich) sieht’s am Ende aus
 QGIS
 ~~~~
 
-.. image:: exercise_01b_qgis3_screenshot.PNG
+.. figure:: img/dexercise_01b_qgis3_screenshot.PNG
+   :alt: QGIS graphical user interface with layers
+   :width: 800px
 
+   Layer in QGIS zeigen Platten, Plattengrenzen & Erdbeben
 
 .. note::
 

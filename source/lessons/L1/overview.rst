@@ -1,4 +1,4 @@
-Lesson overview
+Ziel & Hintergrund
 ===============
 
 In this lesson we will have our first taste of programming in Python.

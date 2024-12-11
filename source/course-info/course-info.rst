@@ -17,20 +17,6 @@ Kurse im Wintersemester 2024/25
 Dozent
 ~~~~~~~~~
 
-- Mario Blersch
-  - AG Geoinformatik, Geographisches Institut, Universität Tübingen
-
-Course websites
----------------
-
-- Course sites for Period I (Introduction to Python programming):
-
-  - Main course site: `<https://geo-python.github.io>`_
-  - *Introduction to Python for Geographic Data Science* book site: `<https://python-gis-book.readthedocs.io/>`_
-  - Noppe by CSC: `<https://noppe.csc.fi>`_
-  - Discord (Q&A + chat): `<https://discord.com/>`_
-  - Polling / voting (active during lectures only): `<https://geo-python.github.io/poll>`_
-
-- Course websites for Period II
-
-  - Automating GIS processes (GEOG-329-2): `<https://autogis.github.io>`_
+- Mario Blersch, M.Sc.
+  - Doktorand am Institut für Geographie der Pädagogischen Hochschule Heildeberg
+  - Wissenschaftlicher Mitarbeiter der AG Geoinformatik am Geographischen Institut der Universität Tübingen
