@@ -52,7 +52,7 @@ So (oder ähnlich) sieht’s am Ende aus
 QGIS
 ~~~~
 
-.. figure:: img/dexercise_01b_qgis3_screenshot.PNG
+.. figure:: https://en.vedur.is/media/uncategorized/Hazard_map_IMO_9des_2024.png
    :alt: QGIS graphical user interface with layers
    :width: 800px
 

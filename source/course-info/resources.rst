@@ -1,4 +1,4 @@
-Literatur
+📘 Literatur
 ======================
 
 Zum Thema GIS gibt es unzähliche Anwendungsbeispiele, Quellen, Bücher und Tutorials.

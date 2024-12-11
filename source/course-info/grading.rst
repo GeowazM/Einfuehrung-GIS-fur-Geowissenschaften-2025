@@ -1,4 +1,4 @@
-Abschlussaufgabe
+✍ Abschlussaufgabe
 ================
 
 Im Abschlussprojekt sollt ihr eine eigenständige Analyse, inklusive

@@ -1,4 +1,4 @@
-Allgemeine Informationen
+ℹ Allgemeine Informationen
 ============
 
 Dieser Kurs wurde als Einführung in GIS für Studierende der Geowissenschaften entwickelt, der im Rahmen des Bachelor-Studiengangs Geowissenschaften am Institut für Geowissenschaften der Universität Heidleberg wählbar ist.

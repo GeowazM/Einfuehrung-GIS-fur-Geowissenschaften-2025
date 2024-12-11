@@ -1,4 +1,4 @@
-Lizenzierung
+☝ Lizenzierung
 ===============================
 
 It is our hope that the materials provided here will be helpful for others.

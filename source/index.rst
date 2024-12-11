@@ -127,49 +127,14 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
 .. admonition:: Abschlussprojekt
 
-**WICHTIG:** \* Die Abgabe des Abschlussprojekts erfolgt ausschließlich
-per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt mit
-allen Layern öffnen kann. \* Die aus der Gesamt-Punktzahl resultierende
-Note wird dem Prüfungssekretariat gemeldet.
-
-Links: \* https://www.geotis.de/geotisapp/geotis.php \*
-https://www.nlog.nl/southern-permian-basin-atlas \*
-https://nibis.lbeg.de/cardomap3/
+    **WICHTIG:** Die Abgabe des Abschlussprojekts erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt mit allen Layern öffnen kann. Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
 
 
+.. admonition:: Interessante Links
 
-The **Geo-Python** course teaches you the basic concepts of programming and scientific data analysis using the Python programming language in a format that is easy to learn and understand (no previous programming experience required).
-Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding how to solve common data-related tasks using Python.
-Geo-Python is jointly organized by the `Master's Program in Geography <https://www.helsinki.fi/en/degree-programmes/geography-masters-programme>`_ and the `Bachelor's Program in Geoscience <https://www.helsinki.fi/fi/koulutusohjelmat/geotieteiden-kandiohjelma>`_ at the University of Helsinki.
-
-
-
-
-Geo-Python covers the essential skills needed to continue to more advanced courses such as `Automating GIS processes <https://autogis.github.io>`_ and/or `Introduction to Quantitative Geology <https://introqg.github.io>`_.
-
-.. admonition:: Open Access!
-
-    The course is **open for everyone to follow online**.
-    The aim of this course is to share the knowledge and help people to get started with their journey towards doing science more efficiently and in a reproducible manner using Python programming.
-
-.. admonition:: University of Helsinki students
-
-    The Geo-Python course is run under two course codes in teaching period I at the University of Helsinki.
-    Please sign up using only one of these course codes (not both)!
-
-    - GEOG-329-1 for geography students
-    - GEOK3001 for geology students
-
-Course format
--------------
-
-The majority of this course will be spent in front of a computer learning to program in the Python language.
-The course consists of interactive lectures and weekly exercises.
-The exercises will focus on developing basic programming skills using Python and applying those skills to various analytical problems.
-Typical exercises will involve a brief introduction followed by topical computer-based tasks.
-For each exercise, you may be asked to submit the Python codes you have written, output figures and answers to related questions.
-You are encouraged to discuss and work together with other students while working on the weekly exercises.
-However, the exercises you submit must must clearly reflect your own work (in short, don't copy/paste from other students).
+    - https://www.geotis.de/geotisapp/geotis.php
+    - https://www.nlog.nl/southern-permian-basin-atlas
+    - https://nibis.lbeg.de/cardomap3/
 
 .. admonition:: On-site teaching
 
@@ -181,7 +146,6 @@ However, the exercises you submit must must clearly reflect your own work (in sh
     :caption: Kursinhalte
 
     course-info/course-info
-    course-info/learning-goals
     course-info/grading
     course-info/resources
     course-info/theteam
@@ -206,7 +170,7 @@ However, the exercises you submit must must clearly reflect your own work (in sh
 
 .. toctree::
     :maxdepth: 2
-    :caption: Lesson 2
+    :caption: Eine Karte erstellen
 
     lessons/L2/overview
     lessons/L2/intro-to-GitHub
@@ -217,12 +181,65 @@ However, the exercises you submit must must clearly reflect your own work (in sh
 
 .. toctree::
     :maxdepth: 2
-    :caption: Lesson 7
+    :caption: Mit Attributen arbeiten
 
-    lessons/L1/motivation
     lessons/L1/overview
-    lessons/L1/course-environment-components
-    lessons/L1/discord-usage
-    notebooks/L1/a-taste-of-python.ipynb
-    notebooks/L1/gcp-1-variable-naming.ipynb
-    lessons/L1/exercise-1
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Vektorgeometrien verarbeiten
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Vektordaten erfassen
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Rasterdaten erfassen
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Rasterdaten verarbeiten
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Digitale Geländemodelle nutzen
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Vom Punkt zur Fläche
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Prozesse automatisieren
+
+    lessons/L1/overview
+    lessons/L1/exercise-1-germany
+    lessons/L1/exercise-1-tectonicplates
