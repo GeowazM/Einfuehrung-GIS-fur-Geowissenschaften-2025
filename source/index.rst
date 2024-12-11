@@ -6,14 +6,13 @@
 .. image:: img/banner/world-map.png
     :class: dark-light
 
-Willkommen zu Einführung in GIS!
+Willkommen zu Einführung in GIS für Geowissenschaften!
 ===========================
 
 
 Der GIS-Kurs vermittelt Ihnen die grundlegenden Konzepte der Geoinformationssysteme (GIS) und der wissenschaftlichen Datenanalyse unter Verwendung der 
 GIS-Software QGIS (keine Vorkenntnisse erforderlich). Jede Lektion ist ein Tutorial zu spezifischen Themen, bei dem das Ziel darin besteht, Fähigkeiten und Verständnis zu erlangen, wie man gängige raumbezogene Aufgaben mit GIS löst. 
-Der Kurs wurde im Rahmen der GIS-Station, der Pädagogischen Hochschule Heidelberg für das Geowissenschaftliche Institut der Uni Heidelberg entwickelt. 
- <https://www.helsinki.fi/fi/koulutusohjelmat/geotieteiden-kandiohjelma>_ an der Universität Helsinki organisiert.
+Der Kurs wurde in Kooperation mit der GIS-Station, der Pädagogischen Hochschule Heidelberg für das Geowissenschaftliche Institut der Uni Heidelberg entwickelt. 
 
 
 Lernziele
@@ -125,6 +124,9 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
 --------------
 
+
+.. admonition:: Abschlussprojekt
+
 **WICHTIG:** \* Die Abgabe des Abschlussprojekts erfolgt ausschließlich
 per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt mit
 allen Layern öffnen kann. \* Die aus der Gesamt-Punktzahl resultierende
@@ -196,7 +198,7 @@ However, the exercises you submit must must clearly reflect your own work (in sh
 
 .. toctree::
     :maxdepth: 2
-    :caption: Lesson 1
+    :caption: Das Layerprinzip
 
     lessons/L1/overview
     lessons/L1/exercise-1-germany
