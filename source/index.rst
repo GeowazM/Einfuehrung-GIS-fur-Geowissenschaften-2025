@@ -112,7 +112,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
 .. toctree::
     :maxdepth: 2
-    :caption: Kursinhalte
+    :caption: Wissenswertes
 
     gis-info/intro
     gis-info/hinweise
