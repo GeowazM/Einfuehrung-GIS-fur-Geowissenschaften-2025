@@ -169,9 +169,6 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :caption: Eine Karte erstellen
 
     lessons/L2/overview
-    lessons/L2/intro-to-GitHub
-    lessons/L2/log-in-GitHub
-    lessons/L2/Github-classroom
     lessons/L2/why-pairs
     lessons/L2/exercise-2
 
@@ -179,63 +176,48 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :maxdepth: 2
     :caption: Mit Attributen arbeiten
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L3/overview
+    lessons/L3/exercise-3
 
 .. toctree::
     :maxdepth: 2
     :caption: Vektorgeometrien verarbeiten
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L4/overview
+    lessons/L4/exercise-4
 
 .. toctree::
     :maxdepth: 2
-    :caption: Vektordaten erfassen
+    :caption: Geodaten erfassen
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Rasterdaten erfassen
-
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L5/overview
+    lessons/L5/eexercise-5
 
 .. toctree::
     :maxdepth: 2
     :caption: Rasterdaten verarbeiten
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L6/overview
+    lessons/L6/exercise-6
 
 .. toctree::
     :maxdepth: 2
     :caption: Digitale Geländemodelle nutzen
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L7/overview
+    lessons/L7/exercise-7b
 
 .. toctree::
     :maxdepth: 2
     :caption: Vom Punkt zur Fläche
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L8/overview
+    lessons/L8/exercise-8
 
 
 .. toctree::
     :maxdepth: 2
     :caption: Prozesse automatisieren
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
-    lessons/L1/exercise-1-tectonicplates
+    lessons/L9/overview
+    lessons/L9/exercise-9
