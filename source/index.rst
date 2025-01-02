@@ -63,22 +63,22 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2     | Vektor | `Eine Karte erstellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L2/exercise-2.html>`__                                    |
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3     | Vektor | `Vektor - Mit Attributtabellen arbeiten <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L3/exercise-3.html>`__                  |
+| 3     | Vektor | `Mit Attributtabellen arbeiten <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L3/exercise-3.html>`__                           |
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4     | Vektor | `Vektor - Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                       |
-+-------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5     | Vektor & Raster | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                 |
-+-------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 6     | Raster | `Raster - Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__         |
+| 4     | Vektor | `Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                                |
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 7     | Raster | `Raster - Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__                |
+| 5     | Raster | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                          |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6     | Raster | `Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__                  |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7     | Raster | `Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__                         |
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 8     | Raster | `Räumliche Interpolation durchführen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L8/exercise-8.html8>`__                    |
-+-------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9     | Vektor & Raster | `Prozesse automatisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L9/exercise-9.html>`__                        |
-+-------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                | Vorbereitung Abschlussprojekt                                                                                                                                  |
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9     | Vektor | `Prozesse automatisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L9/exercise-9.html>`__                                 |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                | Vorbereitung Abschlussprojekt                                                                                                                                  |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 --------------
 
