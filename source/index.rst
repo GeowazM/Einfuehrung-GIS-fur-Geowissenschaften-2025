@@ -54,39 +54,31 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische
 **Hands-On** Sessions gestaltet.
 
-.. csv-table:: Übungen
-   :header: "Übung", "Thema"
-   :widths: 10, 50
-
-   "0", "Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__"
-   "1", "Layerkonzept, Attributdaten https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html"
-   "2", "Eine Karte erstellen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_02>`__"
-
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| Übung                             | Thema                                                                                                                                      |
-+===================================+============================================================================================================================================+
-| 0                                 | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                     |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 1                                 | `Layer- & Attribute <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html>`__   |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 2                                 | `Eine Karte erstellen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_02>`__                          |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 3                                 | `Vektor - Mit Attributtabellen arbeiten <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_03>`__        |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 4                                 | `Vektor - Räumliche Abfrage nutzen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_04>`__             |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 5                                 | `Digitalisieren <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_05a>`__                               |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 6                                 | `Raster - S2 Daten & 3D Visualisierungen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_06>`__       |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 7                                 | `Raster - Digitale Geländemodelle nutzen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_07>`__       |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 8                                 | `Räumliche Interpolation durchführen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_08>`__           |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| 9                                 | `Prozesse automatisieren <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_09>`__                       |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-|                                   | Vorbereitung Abschlussprojekt                                                                                                              |
-+-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Übung | Typ    | Thema                                                                                                                                                          |
++=======+========+================================================================================================================================================================+
+| 0     | Vektor | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                                         |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1     | Vektor | `Layer- & Attribute <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html>`__                       |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2     | Vektor | `Eine Karte erstellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L2/exercise-2.html>`__                                    |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3     | Vektor | `Vektor - Mit Attributtabellen arbeiten <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L3/exercise-3.html>`__                  |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4     | Vektor | `Vektor - Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                       |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5     | Vektor & Raster | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                 |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6     | Raster | `Raster - Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__         |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7     | Raster | `Raster - Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__                |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8     | Raster | `Räumliche Interpolation durchführen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L8/exercise-8.html8>`__                    |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9     | Vektor & Raster | `Prozesse automatisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L9/exercise-9.html>`__                        |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                | Vorbereitung Abschlussprojekt                                                                                                                                  |
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 --------------
 
