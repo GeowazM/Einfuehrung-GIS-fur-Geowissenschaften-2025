@@ -54,31 +54,31 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische
 **Hands-On** Sessions gestaltet.
 
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| Übung | Thema    | Methode                                                                                                                                                          | Datentyp |
-+=======+========+====================================================================================================================================================================+==========+
-| 0     | QGIS GUI | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                                           | Vektor   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 1     | Vulkanismus aus Island | `Layer- & Attribute <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html>`__           | Vektor   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 2     | Bodenschätze in BW | `Eine Karte erstellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L2/exercise-2.html>`__                            | Vektor   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 3     | Erdbeben weltweit | `Mit Attributtabellen arbeiten <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L3/exercise-3.html>`__                    | Vektor   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 4     | Hochwasser in OB | `Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                          | Vektor   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 5     | Geol. Karte in HD | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                   | Raster   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 6     | Gelände auswerten in Kenia | `Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__  | Raster   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 7     | Steigung eines Wanderweg | `Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__           | Raster   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 8     | Temperaturen in DE | `Räumliche Interpolation durchführen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L8/exercise-8.html8>`__            | Raster   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 9     | Straßenlärm in HD | `Prozesse automatisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L9/exercise-9.html>`__                          | Vektor   |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-|                | Vorbereitung Abschlussprojekt                                                                                                                                      |          |
-+-------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| Übung | Thema                  | Methode                                                                                                                                                            | Datentyp |
++=======+========================+====================================================================================================================================================================+==========+
+| 0     | QGIS GUI               | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                                             | Vektor   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 1     | Vulkanismus aus Island | `Layer- & Attribute <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html>`__                           | Vektor   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 2     | Bodenschätze in BW     | `Eine Karte erstellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L2/exercise-2.html>`__                                        | Vektor   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 3     | Erdbeben weltweit      | `Mit Attributtabellen arbeiten <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L3/exercise-3.html>`__                               | Vektor   |
++-------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 4     | Hochwasser in OB       | `Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                                    | Vektor   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 5     | Geol. Karte in HD      | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                              | Raster   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 6     | Gelände in Kenia       | `Copernicus Daten & 3D Visualisierungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L6/exercise-6.html>`__                      | Raster   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 7     | Steigung Wanderweg     | `Digitale Geländemodelle nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L7/exercise-7b.html>`__                             | Raster   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 8     | Temperaturen in DE     | `Räumliche Interpolation durchführen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L8/exercise-8.html8>`__                        | Raster   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 9     | Straßenlärm in HD      | `Prozesse automatisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L9/exercise-9.html>`__                                     | Vektor   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+|                                | Vorbereitung Abschlussprojekt                                                                                                                                      |          |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 
 --------------
 
