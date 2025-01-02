@@ -5,27 +5,6 @@ Exercise 6
 
     Please complete this exercise by **the start of the next lesson**.
 
-.. admonition:: Start your assignment
-
-    **You can start working on your copy of Exercise 6 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/TlQ-sHkJ>`__.
-
-You can also take a look at the template repository for `Exercise 6 on GitHub <https://github.com/Geo-Python-2024/Exercise-6>`__ (does not require logging in).
-Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
-
-.. admonition:: Pair programming (optional!)
-
-    Students attending the course in Helsinki, **if you wish, you can continue working in pairs**.
-    See more information in Discord, and in week 2: `Why are we working in pairs? <https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_.
-    Those students who want to submit their own solutions, please contact the course assistant that is grading your assignments (see list in Discord).
-
-Cloud computing environments
------------------------------
-
-.. image:: https://img.shields.io/badge/launch-binder-red.svg
-   :target: https://mybinder.org/v2/gh/Geo-Python-2024/Binder/main?urlpath=lab
-   
-.. image:: https://img.shields.io/badge/launch-CSC%20Noppe-blue.svg
-   :target: https://noppe.csc.fi/
 
 Exercise 6 hints
 -----------------
@@ -138,3 +117,82 @@ This can be done by creating a counter variable (``count`` in this case) and usi
 
 As you can see, here our code will exit the loop when the month counter is equal to 5.
 This can be a handy way to break after a fixed number of iterations.
+
+Übung 7
+=======
+
+Ziel der Übung
+--------------
+
+-  Rasterdaten zuschneiden
+-  Reliefanalysen durchführen
+-  zonale Statistiken berechnen
+-  Rasterdaten in Vektordaten umwandeln
+-  ein Höhenprofil erstellen
+
+Wiki:
+-----
+
+-  `Rasterdaten in Vektordaten
+   umwandeln <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Konvertierung>`__
+-  `fokale
+   Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Fokale-Funktionen>`__
+-  `zonale
+   Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Zonale-Funktionen>`__
+-  `weitere
+   Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Weitere-Rasterfunktionen>`__
+
+Daten
+-----
+
+Ladet euch die Daten vom USB-Stick und speichert sie auf eurem PC. Legt
+einen lokalen Ordner an und speichert dort die obigen Daten. (.zip
+Ordner müssen vorher entpackt werden.) \* Linien-Layer: trails (Quelle:
+OpenRouteService, OpenStreetMap and Contributors) \* Polygon-Layer:
+national_parks (Quelle: OpenStreetMap and Contributors) \* Raster-Layer:
+ASTER Höhendaten (Quelle: METI/NASA)
+
+Aufgaben
+--------
+
+Aufgabe 1: Vorbereitung
+~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Bringt die Höhendaten in eine passende metrische Projektion (z.B. WGS
+   84 / UTM 37N).
+-  Schneidet (**Clip**) den Raster-Datensatz auf die Ausdehnung des
+   Nationalpark-Layers zu.
+
+Aufgabe 2: Reliefanalysen
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Berechnet zunächst einen **Hillshade** für das Geländemodell. Tipp:
+   Nutze die Processing - Toolbox, um Funktionen zu finden.
+-  Ermittelt die Hangneigung in ° (via **Slope**).
+-  Erstellt Übersichtsstatistiken für die beiden Nationalparks (bspw.
+   mit Hilfe von **Zonal Statistics**).
+
+   -  Was ist die maximale Hangneigung pro Nationalpark?
+   -  Wie hoch ist die durchschnittliche Hangneigung pro Nationalpark?
+
+-  Glättet euer Ergebnis in dem ihr pro Pixel den Durchschnitt der 11x11
+   Nachbarschaft berechnet (via **r.neighbors**).
+-  Selektiert besonders steile Regionen (>30°) (nutzt dazu zunächst den
+   Raster Calculator oder das **Reclassify Tool**)
+-  Konvertiert die Auswahl ins Vektorformat (**Conversion - Raster to
+   Vector**). Anschließend kannst du das **Basic statistic per field**
+   nutzen.
+
+Aufgabe 3: Höhenprofil
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  Erstellt für die Sirimon-Route im trails-Layer ein Höhenprofil.
+-  Das Höhenprofil soll auf der x-Achse die Distanz in Meter zeigen &
+   auf der y-Achse die Höhe ü.N.
+-  Tipp: Achtet auf die einzelnen Schritte des Erklärvideos für das
+   Plugin, was ihr hierfür nutzt. Kleinigkeiten können hier entscheidend
+   sein.
+
+Das könnte dann ungefähr so aussehen: |profile|
+
+.. |profile| image:: sirimon_route_profile.png

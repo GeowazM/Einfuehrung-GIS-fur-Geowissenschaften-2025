@@ -1,4 +1,4 @@
-Lesson overview
+Übung 2
 ===============
 
 During the second week we will dive into Python and learn some basic elements of Python programming language.
@@ -19,6 +19,24 @@ After this week you will be able to:
 
 Lesson videos
 -------------
+
+# Übung 2
+## Ziel der Übung
+* Eigene Vektorsignaturen gestalten.
+* Eine Karte gestalten und typische Elemente wie Legenden, Nordpfeile und Maßstabsleisten hinzufügen.
+* Eine Karte als PDF-Dokument exportieren.
+
+## Wiki:
+* [Vektorsignaturen](https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Vektorsignaturen)
+* [Kartengestaltung](https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Kartengestaltung)
+
+## Daten
+Ladet euch [die Daten herunter](exercise_02_data.zip) und speichert sie auf eurem PC.
+
+* Punkt-Layer: Bodenschaetze Punkte  (Quelle: [Bundesanstalt für Geowissenschaften und Rohstoffe (BGR)](https://services.bgr.de/atomfeeds/dataset_e2ea5cd4-87f4-4751-980a-3451fe2f5758.xml))
+* Polygon-Layer (Quelle: [Landesamt für Geoinformation und Landentwicklung](https://www.lgl-bw.de/Produkte/Open-Data/)):
+
+
 
 
 .. admonition:: Lesson 2.1 - Python basics I

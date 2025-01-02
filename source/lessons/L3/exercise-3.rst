@@ -1,16 +1,63 @@
 Exercise 3
 ==========
 
+Ziel der Übung
+--------------
+
+-  Nicht-räumliche Abfragen durchführen.
+-  Räumliche Abfragen durchführen.
+-  Geometrieoperationen nutzen (z.B. die Fläche eines Polygons
+   berechnen).
+
+Wiki:
+-----
+
+-  `Nicht-Räumliche
+   Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Nicht-Räumliche-Abfragen>`__
+-  `Räumliche
+   Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Abfragen>`__
+-  `Geometrieoperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Geometrieoperationen>`__
+
+Daten
+-----
+
+Ladet euch `die Daten herunter <exercise_03_data.zip>`__ und speichert
+sie auf eurem PC. \* World Administrative Boundaries Level 0 (Countries)
+(Polygon) (Quelle: `World Food Programme
+WFPGeonode <https://geonode.wfp.org/layers/geonode%3Awld_bnd_adm0_wfp>`__)
+\* Urban Agglomerations Datensatz (Point) (Quelle: `UN World
+Urbanization Prospects 2018 <https://population.un.org/wup/>`__)
+
+Aufgaben
+--------
+
+1. Öffne die oben angegebenen Dateien in QGIS.
+2. Wähle 3 Städte deiner Wahl (manuell) in der Benutzeroberfläche aus.
+   Öffne nun die Attributtabelle und lass dir die Informationen für die
+   ausgewählten Features anzeigen. Speichere die ausgewählten Features
+   anschließend in einer neuen Datei (Layer).
+3. In welcher Einheit liegen die Einwohnerzahlen vor? Dies ist für die
+   folgenden Aufgaben wichtig.
+4. Wähle nun anhand einer Abfrage (automatisch) alle Städte, welche im
+   Jahr 2015 mehr als 15 Millionen Einwohner hatten. Wie viele Städte
+   gibt es, die diese Bedingung erfüllen? Welche Stadt hat die meisten
+   Einwohner?
+5. Führe nun eine kombinierte Selektion durch. Selektiere zunächst alle
+   Städte in China. Entferne anschließend alle Städten mit einer
+   Einwohnerzahl kleiner als 1 Million aus dieser Auswahl. Wie viele
+   Millionenstädte gibt es in China?
+6. Berechne die Fläche jedes einzelnen Features in Quadratmeter. (Bei
+   Fragestellungen dieses Typs ist es besonders wichtig die Projektion
+   der Daten zu beachten. Wir nutzen hier hier Mollweide (EPSG: 54009),
+   eine flächentreue Projektion.) Welches ist das kleinste Land der Welt
+   und wie groß (klein) ist es? Unter Land verstehen wir hier alle
+   Features mit dem Status *Member State*.
+
+
+
 .. note::
 
     Please complete this exercise by **the start of the next lesson**.
-
-.. admonition:: Start your assignment
-
-    **You can start working on your copy of Exercise 3 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/JC_RiOaU>`__.
-
-You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/Geo-Python-2024/Exercise-3>`__ (does not require logging in).
-Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
 

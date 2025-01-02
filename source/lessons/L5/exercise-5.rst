@@ -12,37 +12,104 @@ Exercise 5
 You can also take a look at the template repository for `Exercise 5 on GitHub <https://github.com/Geo-Python-2024/Exercise-5>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
-.. admonition:: Pair programming (optional!)
 
-    Students attending the course in Helsinki, **if you wish, you can continue working in pairs**.
-    See more information in Slack, and in week 2: `Why are we working in pairs? <https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_.
-    Those students who want to submit their own solutions, please contact the course assistant that is grading your assignments (see list in Slack).
+Ziel der Übung
+--------------
 
-Cloud computing environments
------------------------------
+-  web-basierte Hintergrundkarten nutzen
+-  Vektordaten händisch erstellen (Digitalisieren)
 
-.. image:: https://img.shields.io/badge/launch-binder-red.svg
-   :target: https://mybinder.org/v2/gh/Geo-Python-2024/Binder/main?urlpath=lab
-   
-.. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-   :target: https://notebooks.csc.fi/
+Wiki:
+-----
 
-Exercise 5 hints
-----------------
+-  `Basemaps <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Basemaps>`__
+-  `Digitalisieren <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Digitalisierung>`__
 
-Below are some tips for working on Exercise 5.
+Daten
+-----
 
-Selecting date ranges
-~~~~~~~~~~~~~~~~~~~~~
+Ladet euch `die Daten herunter <exercise_05a_data.zip>`__ und speichert
+sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die
+obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
 
-In the Part 3 of Problem 3, the aim is to select rows that belong to certain month. The key here is to understand that
-the data values in the ``YR--MODAHRMN`` column are integer numbers using a format ``YYYYMMDDHHmm`` where ``YYYY`` is the
-year of the observation, ``MM`` is the month, ``DD`` is the day, ``HH`` is the hour, and ``mm`` is the minute.
+Aufgaben
+--------
 
-Using these values it is possible to make simple mathematical queries such as finding the values starting from the beginning of August, 2017:
+Häuser und Straßen kartieren
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Erstellt zwei neue Layer für (a) Häuser und (b) Straßen in
+   Heidelberg.
+2. Fügt zu jedem Layer ein Attribute “Name” hinzu.
+3. Nutzt als Kartierungsgrundlage eine Hintergrundkarte auf Basis von
+   Satellitendaten (z.B. Bing, OSM)
+4. Erstelle mindestens 3 Polygone je Layer. Befülle die von dir
+   erstellten Spalten mit Informationen.
+5. Füge zu jedem Feature den passenden Namen und einen Hyperlink hinzu.
 
 .. code-block:: python
 
     august_values = data.loc[data['YR--MODAHRMN'] >= 201708010000]
 
 Here, the value ``201708010000`` corresponds to the first day of August at the hour 00:00.
+
+
+Übung 5b
+========
+
+Ziel der Übung
+--------------
+
+-  web-basierte Hintergrundkarten nutzen
+-  Ein Bild Georeferenzieren
+
+Wiki:
+-----
+
+-  `Basemaps <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Basemaps>`__
+-  `Georeferenzieren <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Georeferenzierung>`__
+
+Daten
+-----
+
+Ladet euch `die Daten herunter <exercise_05b_data.zip>`__ und speichert
+sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die
+obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
+
+Ein Bild georeferenzieren
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Kontext
+^^^^^^^
+
+Du brauchst für dein Projekt eine geologische Karte von Heidelberg. Die
+einzig verfügbaren Informationen, die du finden kannst ist eine PDF
+Karte der Universität Heidelberg. Um diese geologische Karte mit deinen
+weiteren Geodaten zu verknüpfen, müssen wir diese georeferenzieren.
+
+.. figure:: geologische_karte_heidelberg.PNG
+   :alt: Geologische Karte von Heidelberg
+
+   Geologische Karte von Heidelberg
+
+.. raw:: html
+
+   <p align="center">
+
+Quelle: UB Heidelberg
+
+.. raw:: html
+
+   </p>
+
+1. Versehe das zur Verfügung gestellte Raster mit WGS 84 / UTM Zone 32N
+   Koordinaten (EPSG: 32632).
+2. Verwende als Referenz-Layer eine Webkarte deiner Wahl (bspw. OSM
+   Standard oder Bing Satellite), welche du in Form einer
+   Hintergrundkarte einbinden kannst.
+3. Wähle eine geeignete Transformationsvorschrift (bspw. Ploynominal 1,
+   2 oder 3) und setzt genügend und ausreichend verteilte Passpunkte.
+4. Kontrolliere abschließend deinen Erfolg, indem du die Passgenauigkeit
+   des georeferenzierten Bildes mit überlagerten Hintergrundkarte
+   vergleichst.
+

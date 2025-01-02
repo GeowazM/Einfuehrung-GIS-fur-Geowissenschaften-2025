@@ -1,80 +1,79 @@
-Übung 0
-==========
-
-.. note::
-
-    Ziel der Übung 0 ist es, euch einen Überblick über diese Seite und Unterseiten zu erhalten und die Oberfläche von **QGIS kennenzulernen.**
-
+Übung 7
+=======
 
 Ziel der Übung
 --------------
 
--  QGIS installieren (Falls noch nicht vorhanden).
--  Eine geeignete Ordnerstruktur anlegen.
--  Sich mit der Benutzeroberfläche vertraut machen.
--  Erste Einstellungen vornehmen.
+-  Rasterdaten zuschneiden
+-  Reliefanalysen durchführen
+-  zonale Statistiken berechnen
+-  Rasterdaten in Vektordaten umwandeln
+-  ein Höhenprofil erstellen
 
 Wiki:
 -----
 
--  Installation
-   `QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Installation>`__
--  `Hinweise zur Verwendung von
-   GIS-Software <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Hinweise>`__
--  `Was tun bei
-   Problemen? <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Probleme>`__
--  `Grundlegende
-   Einstellungen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Grundlegende%20Einstellungen>`__
--  Benutzeroberfläche anpassen
-   (`QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__)
--  `Datenorganisation <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Datenorganisation>`__
--  `Geodatenformate <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Geodatenformate>`__
--  Layer-Konzept kennenlernen
-   (`QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__)
+-  `Rasterdaten in Vektordaten
+   umwandeln <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Konvertierung>`__
+-  `fokale
+   Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Fokale-Funktionen>`__
+-  `zonale
+   Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Zonale-Funktionen>`__
+-  `weitere
+   Rasteroperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Weitere-Rasterfunktionen>`__
+
+Daten
+-----
+
+Ladet euch die Daten vom USB-Stick und speichert sie auf eurem PC. Legt
+einen lokalen Ordner an und speichert dort die obigen Daten. (.zip
+Ordner müssen vorher entpackt werden.) \* Linien-Layer: trails (Quelle:
+OpenRouteService, OpenStreetMap and Contributors) \* Polygon-Layer:
+national_parks (Quelle: OpenStreetMap and Contributors) \* Raster-Layer:
+ASTER Höhendaten (Quelle: METI/NASA)
 
 Aufgaben
 --------
 
-1. Beginnt den Downloadprozess unter Beachtung der Hinweise zur
-   Installation im Wiki
-   (`QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Installation>`__).
-2. Verschafft euch einen Überblick über Github und GitLab. Schaut euch
-   das Github
-   `Repository <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften>`__
-   (in dem die Übungen und ein zeitlicher Übersichtsplan zu finden ist)
-   an. Werft auch einen Blick ins
-   `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__
-   (in dem Informationen und Erklärvideos zu allen behandelten
-   Themenbereichen gesammelt sind), und
-   `Issues <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/issues>`__
-   (in denen Fragen gestellt und Probleme besprochen werden können) an.
-   Bei Problemen und Fragen sind diese Seiten eine schnelle und
-   hilfreiche Anlaufstelle.
-3. Macht euch mit dem Thema
-   `Datenorganisation <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Datenorganisation>`__
-   vertraut und erstellt eine geeigntete Ordnerstruktur, mit der ihr in
-   den kommenden Tagen und darüber hinaus arbeiten könnt.
-4. Informiert euch über verschiedene
-   `Geodatenformate <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Geodatenformate>`__.
-   Ladet danach die `Daten für Exercise 0 <exercise_0_data.zip>`__
-   herunter und speichert sie an geeigneter Stelle in eurem neu
-   erstellten Ordnersystem (Zip-Ordner müssen nach dem Speichern und vor
-   dem Hereinladen ins GIS entpackt werden). In welchem Datenformat
-   liegen die Daten zu Exercise 0 vor?
-5. Öffnet QGIS und nehmt erste
-   `Einstellungen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Grundlegende%20Einstellungen>`__
-   in eurem GIS nach den Empfehlungen im Wiki vor (ändert zum Beispiel
-   die Sprache).
-6. Ladet die Daten zu Exercise 0 in
-   `QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
-   und macht euch mit der Benutzeroberfläche vertraut
-   (`QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__).
-7. Verschafft euch einen Überblick über die beste Vorgehensweise bei
-   `Problemen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Probleme>`__,
-   die in der Arbeit mit einem GIS auftreten können.
-8. Exportiert zuletzt den Layer “world_map_ne_110m_admin_0_countries”
-   und speichert ihn an einer geeigneten Stelle in eurem Ordnersystem
-   ab. Wählt dafür das Datenformat Geopackage. Kontrolliert
-   anschließend, ob die Datei am richtigen Ort gelandet ist. Inwiefern
-   unterscheidet sich dieses Format von Shapefiles?
+Aufgabe 1: Vorbereitung
+~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Bringt die Höhendaten in eine passende metrische Projektion (z.B. WGS
+   84 / UTM 37N).
+-  Schneidet (**Clip**) den Raster-Datensatz auf die Ausdehnung des
+   Nationalpark-Layers zu.
+
+Aufgabe 2: Reliefanalysen
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Berechnet zunächst einen **Hillshade** für das Geländemodell. Tipp:
+   Nutze die Processing - Toolbox, um Funktionen zu finden.
+-  Ermittelt die Hangneigung in ° (via **Slope**).
+-  Erstellt Übersichtsstatistiken für die beiden Nationalparks (bspw.
+   mit Hilfe von **Zonal Statistics**).
+
+   -  Was ist die maximale Hangneigung pro Nationalpark?
+   -  Wie hoch ist die durchschnittliche Hangneigung pro Nationalpark?
+
+-  Glättet euer Ergebnis in dem ihr pro Pixel den Durchschnitt der 11x11
+   Nachbarschaft berechnet (via **r.neighbors**).
+-  Selektiert besonders steile Regionen (>30°) (nutzt dazu zunächst den
+   Raster Calculator oder das **Reclassify Tool**)
+-  Konvertiert die Auswahl ins Vektorformat (**Conversion - Raster to
+   Vector**). Anschließend kannst du das **Basic statistic per field**
+   nutzen.
+
+Aufgabe 3: Höhenprofil
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  Erstellt für die Sirimon-Route im trails-Layer ein Höhenprofil.
+-  Das Höhenprofil soll auf der x-Achse die Distanz in Meter zeigen &
+   auf der y-Achse die Höhe ü.N.
+-  Tipp: Achtet auf die einzelnen Schritte des Erklärvideos für das
+   Plugin, was ihr hierfür nutzt. Kleinigkeiten können hier entscheidend
+   sein.
+
+Das könnte dann ungefähr so aussehen: |profile|
+
+.. |profile| image:: sirimon_route_profile.png
 

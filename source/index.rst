@@ -57,20 +57,15 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 +-----------------------------------+-----------------------------------+
 | Übung                             | Thema                             |
 +===================================+===================================+
-| 0                                 | `Ei                               |
-|                                   | nführung <https://github.com/Geow |
+| 0                                 | `Einführung <https://github.com/Geow |
 |                                   | azM/Einfuehrung-GIS-fur-Geowissen |
 |                                   | schaften/tree/main/exercise_0>`__ |
 +-----------------------------------+-----------------------------------+
-| 1                                 | `Layerkonzept,                    |
-|                                   | Attrib                            |
-|                                   | utdaten <https://github.com/Geowa |
+| 1                                 | `Layerkonzept, Attributdaten <https://github.com/Geowa |
 |                                   | zM/Einfuehrung-GIS-fur-Geowissens |
 |                                   | chaften/tree/main/exercise_01>`__ |
 +-----------------------------------+-----------------------------------+
-| 2                                 | `Eine Karte                       |
-|                                   | er                                |
-|                                   | stellen <https://github.com/Geowa |
+| 2                                 | `Eine Karte erstellen <https://github.com/Geowa |
 |                                   | zM/Einfuehrung-GIS-fur-Geowissens |
 |                                   | chaften/tree/main/exercise_02>`__ |
 +-----------------------------------+-----------------------------------+
@@ -132,6 +127,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
 .. admonition:: Interessante Links
 
+    - https://arcg.is/1vqrur 
     - https://www.geotis.de/geotisapp/geotis.php
     - https://www.nlog.nl/southern-permian-basin-atlas
     - https://nibis.lbeg.de/cardomap3/
