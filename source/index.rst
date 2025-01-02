@@ -117,7 +117,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     gis-info/intro
     gis-info/hinweise
     gis-info/einstellungen
-    gis-info/vocabulary
+    gis-info/glossar
 
 
 .. toctree::

@@ -1,5 +1,5 @@
 .wy-nav-content {
-    max-width: 900px !important;
+    max-width: 100% /*900px !important;*/
 }
 
 .wy-side-nav-search{
