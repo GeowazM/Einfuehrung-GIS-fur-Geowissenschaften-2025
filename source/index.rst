@@ -54,6 +54,14 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische
 **Hands-On** Sessions gestaltet.
 
+.. csv-table:: Übungen
+   :header: "Übung", "Thema"
+   :widths: 10, 50
+
+   "0", "Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__"
+   "1", "Layerkonzept, Attributdaten <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_01>`__"
+   "2", "Eine Karte erstellen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_02>`__"
+
 +-----------------------------------+-----------------------------------+
 | Übung                             | Thema                             |
 +===================================+===================================+
@@ -191,7 +199,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :caption: Geodaten erfassen
 
     lessons/L5/overview
-    lessons/L5/eexercise-5
+    lessons/L5/exercise-5
 
 .. toctree::
     :maxdepth: 2
