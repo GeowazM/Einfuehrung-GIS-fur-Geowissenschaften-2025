@@ -49,8 +49,7 @@ Aufgaben
    `Problemen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Probleme>`__,
    die in der Arbeit mit einem GIS auftreten können.
 
-8. Exportiert zuletzt den Layer *world_map_ne_110m_admin_0_countries*
-   und speichert ihn an einer geeigneten Stelle in eurem Ordnersystem
+8. Exportiert zuletzt den Layer *world_map_ne_110m_admin_0_countries* und speichert ihn an einer geeigneten Stelle in eurem Ordnersystem
    ab. Wählt dafür das Datenformat Geopackage. Kontrolliert
    anschließend, ob die Datei am richtigen Ort gelandet ist. Inwiefern
    unterscheidet sich dieses Format von Shapefiles?

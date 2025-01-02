@@ -76,9 +76,9 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 | 8     | Raster | `Räumliche Interpolation durchführen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L8/exercise-8.html8>`__                    |
 +-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 9     | Vektor | `Prozesse automatisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L9/exercise-9.html>`__                                 |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                | Vorbereitung Abschlussprojekt                                                                                                                                  |
-+----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 --------------
 
@@ -109,6 +109,16 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     course-info/resources
     course-info/theteam
     course-info/licensing
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Kursinhalte
+
+    gis-info/intro
+    gis-info/hinweise
+    gis-info/einstellungen
+    gis-info/vocabulary
+
 
 .. toctree::
     :maxdepth: 2

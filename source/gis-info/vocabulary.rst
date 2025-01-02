@@ -1,71 +1,67 @@
 Glossary
 ========
 
-Python vocabulary
+GIS Vokabular
 -----------------
 
 .. todo::
 
-    Add links to dedicated parts of the documentation.
+    Falls Sie bestimmte Begriffe hier nicht finden sollten, dann teilen Sie dies dem Dozierenden gerne mit.
 
-Here we provide a list of commonly used terms that you will most probably encounter when doing Python programming.
-Terms are listed in alphabetical order in English. Finnish terms and definitions are shown in italics.
+Hier finden Sie eine Liste von Begriffen, die im Zusammenhang mit Geodaten und Geographischen Informationssystemen (GIS) immer wieder auftreten.
 
 .. glossary::
 
-  data type (*tietotyyppi*)
+  Algorithmus
+     Ein Algorithmus im Geodatenbereich ist ein mathematisches Verfahren, das in einer Reihe von Schritten Probleme löst und häufig als Abfolge von Computerbefehlen codiert wird. 
+     Diese Algorithmen werden in geografischen Informationssystemen (GIS) verwendet, um verschiedene Aufgaben zu bewältigen, wie z.B. die Umwandlung physischer Adressen in geografische Koordinaten (Geokodierung) oder 
+     die Analyse räumlicher Daten.
+
+     *Das Clip tool in QGIS ist hierfür ein Beispiel.*
+   
+  Datentyp
      An attribute defining the characteristics of a value in a program. For example, type `int` is an integer (whole number).
 
      *Definition to be given in Finnish.*
 
-  function (*funktio*)
-     A reusable piece of code that performs a single action.
+  Geodaten
+     Geodaten beinhalten räumliche Informationen in Form von Koordinaten wie bspw. die Position einer Stadt auf der Erde.
 
-     *Definition to be given in Finnish.*
+     *Vektor- oder Rasterdaten.*
 
-  index (*taulukko*)
+  Georeferenzieren
      A number indicating the location of a specific value stored in Python lists or tuples. The first index value of list is always ``0``.
 
      *Definition to be given in Finnish.*
 
-  library (*ohjelmakirjasto*)
-     A group of related modules.
+   Open Geospatial Consortium
+      Das Open Geospatial Consortium (OGC) ist eine internationale, freiwillige Konsens-Standardsorganisation, die sich auf die Entwicklung und Pflege von Standards für geospatiale Inhalte und ortsbezogene Dienste spezialisiert hat. 
+      Gegründet 1994, fördert das OGC die Interoperabilität zwischen verschiedenen geospatialen Technologien und Systemen.
 
-     *Definition to be given in Finnish.*
+      *Dateiformate wie Shapefile oder Geojson.*
 
-  list (*lista*)
-     A data type in Python that can be used to store collections of values. The data in lists can be heterogeneous and data can be added or removed from lists. Index values can be used to access invididual list items.
+  Rasterdaten
+     Geodaten die flächenhafte Objekte darstellen. Räumlcihe Rasterdateien werden oft als Geotif (``.tif``) gespeichert.
 
-     *Definition to be given in Finnish.*
+     *Landbedeckung, Temperaturen oder Geländehöhen.*
 
-  module (*moduuli*)
-     A file containing Python definitions and statements. Module files have the ``.py`` file extension.
+  Vektordaten
+     Geodaten die Punkte, Linien oder Flächen repräsentieren. Räumliche Vektordateien werden oft als Shapefile (``.shp``), Geopackage (``.gpk``) oder Geojson (``.geojson``) gespiechert.
 
-     *Definition to be given in Finnish.*
+     *Stadt, Fluss oder ein Bundesland.*
 
-  script (*ohjelma*)
-     A dedicated document for writing Python code that you can execute. Python script files should always have the ``.py`` file extension.
+- **Datentypen**
 
-     *Definition to be given in Finnish.*
+   - Integer (int) = Ganze Zahl
 
-  variable (*muuttuja*)
-     A way of storing values in the memory of the computer using specific names that you define.
-
-     *Definition to be given in Finnish.*
-
-- **Data types**
-
-   - Integer (int) = Whole number
-
-   - Float (float) = Decimal number
+   - Float (float) = Dezimalzahl
 
    - String (str) = Text
 
    - Boolean (bool) = True / False
 
-   - List (list) = A "container" that can store any kind of values. You can create a list with square brackets e.g. ``[1, 2, 3, 'a', 'b', 'c']``.
+   - Date (date) = Datum
 
-   - Tuple (tuple) = A similar "container" as list with a difference that you cannot update the values in a tuple. You can create a tuple with parentheses ``(1, 2, 3, 'a', 'b', 'c')``.
 
 Basic vocabulary of Version Control
 -----------------------------------
