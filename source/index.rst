@@ -59,71 +59,34 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
    :widths: 10, 50
 
    "0", "Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__"
-   "1", "Layerkonzept, Attributdaten <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_01>`__"
+   "1", "Layerkonzept, Attributdaten https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html"
    "2", "Eine Karte erstellen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_02>`__"
 
-+-----------------------------------+-----------------------------------+
-| Übung                             | Thema                             |
-+===================================+===================================+
-| 0                                 | `Einführung <https://github.com/Geow |
-|                                   | azM/Einfuehrung-GIS-fur-Geowissen |
-|                                   | schaften/tree/main/exercise_0>`__ |
-+-----------------------------------+-----------------------------------+
-| 1                                 | `Layerkonzept, Attributdaten <https://github.com/Geowa |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_01>`__ |
-+-----------------------------------+-----------------------------------+
-| 2                                 | `Eine Karte erstellen <https://github.com/Geowa |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_02>`__ |
-+-----------------------------------+-----------------------------------+
-| 3                                 | `Vektor - Mit Attributtabellen    |
-|                                   | a                                 |
-|                                   | rbeiten <https://github.com/Geowa |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_03>`__ |
-+-----------------------------------+-----------------------------------+
-| 4                                 | `Vektor - Räumliche Abfrage       |
-|                                   | nutzen <https://github.com/Geowa  |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_04>`__ |
-+-----------------------------------+-----------------------------------+
-| 5a                                | `Digitali                         |
-|                                   | sieren <https://github.com/Geowaz |
-|                                   | M/Einfuehrung-GIS-fur-Geowissensc |
-|                                   | haften/tree/main/exercise_05a>`__ |
-+-----------------------------------+-----------------------------------+
-| 5a                                | `Georeferen                       |
-|                                   | zieren <https://github.com/Geowaz |
-|                                   | M/Einfuehrung-GIS-fur-Geowissensc |
-|                                   | haften/tree/main/exercise_05b>`__ |
-+-----------------------------------+-----------------------------------+
-| 6                                 | `Raster - Klassifizierung von     |
-|                                   | Sentinel-2 Daten & 3D             |
-|                                   | Visualisi                         |
-|                                   | erungen <https://github.com/Geowa |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_06>`__ |
-+-----------------------------------+-----------------------------------+
-| 7                                 | `Raster - Digitale Geländemodelle |
-|                                   | nutzen <https://github.com/Geowa  |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_07>`__ |
-+-----------------------------------+-----------------------------------+
-| 8                                 | `Räumliche Interpolation          |
-|                                   | durc                              |
-|                                   | hführen <https://github.com/Geowa |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_08>`__ |
-+-----------------------------------+-----------------------------------+
-| 9                                 | `Prozesse                         |
-|                                   | automat                           |
-|                                   | isieren <https://github.com/Geowa |
-|                                   | zM/Einfuehrung-GIS-fur-Geowissens |
-|                                   | chaften/tree/main/exercise_09>`__ |
-+-----------------------------------+-----------------------------------+
-|                                   | Vorbereitung Abschlussprojekt     |
-+-----------------------------------+-----------------------------------+
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| Übung                             | Thema                                                                                                                                      |
++===================================+============================================================================================================================================+
+| 0                                 | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                     |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 1                                 | `Layer- & Attribute <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html>`__   |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 2                                 | `Eine Karte erstellen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_02>`__                          |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 3                                 | `Vektor - Mit Attributtabellen arbeiten <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_03>`__        |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 4                                 | `Vektor - Räumliche Abfrage nutzen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_04>`__             |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 5                                 | `Digitalisieren <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_05a>`__                               |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 6                                 | `Raster - S2 Daten & 3D Visualisierungen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_06>`__       |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 7                                 | `Raster - Digitale Geländemodelle nutzen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_07>`__       |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 8                                 | `Räumliche Interpolation durchführen <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_08>`__           |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+| 9                                 | `Prozesse automatisieren <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_09>`__                       |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
+|                                   | Vorbereitung Abschlussprojekt                                                                                                              |
++-----------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
 
 --------------
 
