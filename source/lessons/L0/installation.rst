@@ -1,4 +1,4 @@
-🦉 Wiki
+💻 Installation
 ===============
 
 -  Installation

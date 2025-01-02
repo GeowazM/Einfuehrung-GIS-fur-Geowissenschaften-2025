@@ -1,4 +1,4 @@
-ℹ Hinweise zur Verwendung von GIS-Software
+ℹ Hinweise zu GIS-Software
 ========================================
 
 | Anfänglich kann das Arbeiten mit GIS Programmen sehr komplex wirken.

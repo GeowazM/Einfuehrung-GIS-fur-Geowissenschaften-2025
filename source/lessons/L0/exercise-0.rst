@@ -1,6 +1,13 @@
-🖥 QGIS Oberfläche kennenlernen
+🖥 QGIS Nutzeroberfläche
 =======
 
+.. hint::
+
+   Ziel der Übung
+   -  **QGIS installieren** (falls noch nicht vorhanden).
+   -  Eine geeignete Ordnerstruktur anlegen.
+   -  Sich mit der **Benutzeroberfläche** vertraut machen.
+   -  Erste Einstellungen vornehmen.
 
 Aufgaben
 --------
@@ -50,6 +57,4 @@ Aufgaben
    die in der Arbeit mit einem GIS auftreten können.
 
 8. Exportiert zuletzt den Layer *world_map_ne_110m_admin_0_countries* und speichert ihn an einer geeigneten Stelle in eurem Ordnersystem
-   ab. Wählt dafür das Datenformat Geopackage. Kontrolliert
-   anschließend, ob die Datei am richtigen Ort gelandet ist. Inwiefern
-   unterscheidet sich dieses Format von Shapefiles?
+   ab. Wählt dafür das Datenformat Geopackage. Kontrolliert anschließend, ob die Datei am richtigen Ort gelandet ist. Inwiefern unterscheidet sich dieses Format von Shapefiles?

@@ -57,15 +57,15 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | Übung | Thema                  | Methode                                                                                                                                                            | Datentyp |
 +=======+========================+====================================================================================================================================================================+==========+
-| 0     | QGIS GUI               | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                                             | Vektor   |
+| 0     | QGIS Nutzeroberfläche  | `Einführung <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/tree/main/exercise_0>`__                                                             | Vektor   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | 1     | Vulkanismus aus Island | `Layer- & Attribute <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L1/exercise-1-tectonicplates.html>`__                           | Vektor   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | 2     | Bodenschätze in BW     | `Eine Karte erstellen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L2/exercise-2.html>`__                                        | Vektor   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | 3     | Erdbeben weltweit      | `Mit Attributtabellen arbeiten <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L3/exercise-3.html>`__                               | Vektor   |
-+-------+--------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
-| 4     | Hochwasser in OB       | `Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                                    | Vektor   |
++-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
+| 4     | Hochwasser in OS       | `Räumliche Abfrage nutzen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L4/exercise-4.html>`__                                    | Vektor   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | 5     | Geol. Karte in HD      | `Digitalisieren <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/lessons/L5/exercise-5.html>`__                                              | Raster   |
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
@@ -124,8 +124,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :maxdepth: 2
     :caption: Erste Schritte in QGIS
 
-    lessons/L0/overview
-    lessons/L0/wiki
+    lessons/L0/installation
     lessons/L0/exercise-0
 
 
