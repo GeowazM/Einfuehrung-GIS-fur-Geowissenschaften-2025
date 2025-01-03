@@ -34,15 +34,13 @@ Auch für *MacOS* stehen Installer auf der Downloadseite bereit.
 32 Bit oder 64 Bit?
 -------------------
 
-Für Windows Betriebssysteme wird von jeder QGIS Version immer eine
-32-Bit Version und eine 64-Bit Version zum Download angeboten. Welche
-Version man installieren muss, ist abhängig von eurem Computer bzw.
-eurem verwendeten Betriebssystem.. Sollte nicht klar sein wie viel Bit
-euer Betriebssystem hat, kann man das leicht einsehen: **Windows** \*
-Linksklick auf das Windows-Icon unten Links im Bildschirm (Alternativ
-Suchfunktion von Windows öffnen) \* “System” auf der Tastatur eintippen
-\* Den Eintrag “System” in den Suchergebnissen anklicken \* Unter dem
-Punkt “Systemtyp” kann die Bitzahl abgelesen werden
+Für Windows Betriebssysteme wird von jeder QGIS Version immer eine 32-Bit Version und eine 64-Bit Version zum Download angeboten. Welche
+Version man installieren muss, ist abhängig von eurem Computer bzw. eurem verwendeten Betriebssystem.. Sollte nicht klar sein wie viel Bit
+euer Betriebssystem hat, kann man das leicht einsehen: **Windows** 
+   * Linksklick auf das Windows-Icon unten Links im Bildschirm (Alternativ Suchfunktion von Windows öffnen)
+   * “System” auf der Tastatur eintippen
+   * Den Eintrag “System” in den Suchergebnissen anklicken
+   * Unter dem Punkt “Systemtyp” kann die Bitzahl abgelesen werden
 |Betriebssystem_Architektur|
 
 **Ubuntu Linux**

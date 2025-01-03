@@ -1,4 +1,4 @@
-ℹ Hinweise zu GIS-Software
+Hinweise zu GIS-Software
 ========================================
 
 | Anfänglich kann das Arbeiten mit GIS Programmen sehr komplex wirken. Gerade wenn man bisher nur wenige Berührungspunkte mit
@@ -10,11 +10,9 @@ Systemsprache Englisch
 ----------------------
 
 | Es wird empfohlen die Sprache von QGIS auf Englisch umzustellen. Dies hat mehrere Gründe:
-| \* Die Wiki-Videos verwenden eine englische Benutzeroberfläche.
-| \* In den Tutorien wird meist die englische Bezeichnung der Werkzeuge
-  verwendet. 
-  \* Externe Tutorials und Foreneinträge sind größtenteils
-  auf Englisch.
+| * Die Wiki-Videos verwenden eine englische Benutzeroberfläche.
+| * In den Tutorien wird meist die englische Bezeichnung der Werkzeuge verwendet. 
+  * Externe Tutorials und Foreneinträge sind größtenteils auf Englisch.
 
 Wie man die Sprache von QGIS umstellt, wird in den `grundlegenden
 Einstellungen `__ gezeigt.

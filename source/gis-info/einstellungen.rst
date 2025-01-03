@@ -1,4 +1,4 @@
-⚙ QGIS Einstellungen
+QGIS Einstellungen
 ==========================
 
 Nach der Installation von QGIS sollten einige Basiseinstellungen verändert werden, um mögliche Fehlerquellen zu vermeiden und die Möglichkeiten der Software vollständig ausschöpfen 

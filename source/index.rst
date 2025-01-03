@@ -165,7 +165,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :maxdepth: 2
     :caption: Geodaten erfassen
 
-    lessons/L5/overview
+    lessons/L5/digitalisieren
     lessons/L5/exercise-5
 
 .. toctree::
@@ -196,3 +196,12 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
     lessons/L9/overview
     lessons/L9/exercise-9
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Geodaten
+
+    gis-data/geobasisdaten-bw
+    gis-data/basemap-de
+    gis-data/download-osm-data
+    gis-data/onegeology

@@ -1,4 +1,4 @@
-🗺 Was ist GIS?
+Was ist GIS?
 =================
 
 .. hint::
@@ -14,3 +14,15 @@
     ..  youtube:: Gtak1xThxOk
 
     ESRI Europe @ `ESRI channel on Youtube <https://www.youtube.com/watch?v=Gtak1xThxOk>`_.
+
+
+
+
+GIS in den Geowissenschaften
+===================
+
+https://onegeology.org/
+
+.. hint::
+
+    `OneGeology.org <https://onegeology.org/>`_
