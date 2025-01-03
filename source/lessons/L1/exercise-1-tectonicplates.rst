@@ -9,6 +9,14 @@ Exercise 1
       * Vektor-Daten in einem GIS anzeigen und die Attributdaten einsehen 
       * Vektor-Daten umprojizieren (d.h. die Projektion der Daten ändern)
 
+.. note::
+
+   **Support findest du im Wiki**
+      *  `Interface <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__
+      *  `Layer-Konzept <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
+      *  `Attributdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Attributdaten>`__
+      *  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
+
 Daten
 -----
 
@@ -19,13 +27,9 @@ sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zu
 -  Plattengrenzen (Linie) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
 -  Platten (Polygon) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
 
-.. note::
+.. danger::
 
-   **Support findest du im Wiki**
-      *  `Interface <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__
-      *  `Layer-Konzept <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
-      *  `Attributdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Attributdaten>`__
-      *  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
+    Die Angabe der Quellen von denen du deine Geodaten beziehst ist für diesen Kurs erforderlich!
 
 Aufgaben
 --------
@@ -43,8 +47,7 @@ Aufgaben
 7. Speichere nun den Plattengrenzen-Layer in der Projektion WGS84 UTM 32N. **Dies ändert die Projektion der Datei.** Überprüft dies in den Eigenschaften des neu erstellten Layers.
 8. Speichere dein Projekt ab.
 
-So (oder ähnlich) sieht’s am Ende aus
-++++++++++++++++++++++++++++++++++++++
+**So (oder ähnlich) sieht’s am Ende aus**
 
 .. figure:: img/exercise_01b_qgis3_screenshot.PNG
    :alt: QGIS project with layers
@@ -53,26 +56,22 @@ So (oder ähnlich) sieht’s am Ende aus
    Layer in QGIS zeigen Platten, Plattengrenzen & Erdbeben
 
 
+Optionale Aufgabe
+--------
 
 .. tip::
 
     Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig herunterzuladen.
 
 
-Die aktuellen Erdbebendaten findest du bei `United State Geological Suvey (USGS) <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`
+Die aktuellen Erdbebendaten findest du bei `United State Geological Suvey (USGS) <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`__
 Die Platten und PLattengrenzen findest du bei `Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252) <https://github.com/fraxen/tectonicplates>`__)
     
 **Lade die Geodaten herunter & importiere diese in dein QGIS Projekt!**.
 
-So (oder ähnlich) kann es am Ende aussehen
-++++++++++++++++++++++++++++++++++++++
+**So (oder ähnlich) kann es am Ende aussehen**
 
 .. figure:: https://raw.githubusercontent.com/fraxen/tectonicplates/master/example_plates.png
    :alt: Beispielkarte der Platten und der Plattengrenzen
 
    Beispielkarte der Platten und der Plattengrenzen nach Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252)
-
-
-.. danger::
-
-    Achte stets darauf welche Daten und Geodaten du nutzt und notiere dir die Quellen.
