@@ -75,7 +75,7 @@ Apple menu -> About This Mac
     @ `Hans van der Kwast channel on Youtube <https://www.youtube.com/@HansvanderKwast>`_.
 
 
-old
+Older version
 ------
 
 -  `Hinweise zur Verwendung von

@@ -115,8 +115,11 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :caption: Wissenswertes
 
     gis-info/intro
+    gis-info/koordinatensysteme
+    gis-info/datenorganisation
     gis-info/hinweise
     gis-info/einstellungen
+    gis-info/nutzeroberflaeche
     gis-info/glossar
 
 

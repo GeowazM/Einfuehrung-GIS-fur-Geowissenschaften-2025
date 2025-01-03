@@ -1,23 +1,19 @@
 ℹ Hinweise zu GIS-Software
 ========================================
 
-| Anfänglich kann das Arbeiten mit GIS Programmen sehr komplex wirken.
-  Gerade wenn man bisher nur wenige Berührungspunkte mit
-  Computer-Software hatte, erscheinen die vielen Optionen und
-  Möglichkeiten des Programms vielleicht eher überwältigend und
-  abschreckend.
-| Die folgenden Hinweise dienen dazu, einen möglichst unproblematischen
-  Einstieg in das Arbeiten mit QGIS zu ermöglichen, indem bereits auf
-  einige, häufig zu Problemen führenden, Themen eingegangen wird.
+| Anfänglich kann das Arbeiten mit GIS Programmen sehr komplex wirken. Gerade wenn man bisher nur wenige Berührungspunkte mit
+  Computer-Software hatte, erscheinen die vielen Optionen und Möglichkeiten des Programms vielleicht eher überwältigend und abschreckend.
+| Die folgenden Hinweise dienen dazu, einen möglichst unproblematischen Einstieg in das Arbeiten mit QGIS zu ermöglichen, indem bereits auf einige, 
+häufig zu Problemen führenden, Themen eingegangen wird.
 
 Systemsprache Englisch
 ----------------------
 
-| Es wird empfohlen die Sprache von QGIS auf Englisch umzustellen. Dies
-  hat mehrere Gründe:
+| Es wird empfohlen die Sprache von QGIS auf Englisch umzustellen. Dies hat mehrere Gründe:
 | \* Die Wiki-Videos verwenden eine englische Benutzeroberfläche.
 | \* In den Tutorien wird meist die englische Bezeichnung der Werkzeuge
-  verwendet. \* Externe Tutorials und Foreneinträge sind größtenteils
+  verwendet. 
+  \* Externe Tutorials und Foreneinträge sind größtenteils
   auf Englisch.
 
 Wie man die Sprache von QGIS umstellt, wird in den `grundlegenden
