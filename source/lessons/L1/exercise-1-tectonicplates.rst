@@ -1,27 +1,36 @@
 Exercise 1
 ==========
 
+.. hint::
+
+   Ziel der Übung
+      * Die ersten Schritte wagen
+      * Die Benutzeroberfläche verstehen und das Layer-Konzept kennenlernen
+      * Vektor-Daten in einem GIS anzeigen und die Attributdaten einsehen 
+      * Vektor-Daten umprojizieren (d.h. die Projektion der Daten ändern)
+
 Daten
 -----
 
-Ladet euch `die aktuellen Daten zu Erdebeben über das USGS herunter <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`__ und speichert
-sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zum Beispiel “Q://Abgabe”) an und speichert dort die obigen Daten. 
-(.zip Ordner müssen vorher entpackt werden.)
+Lade dir die `Daten für die Exercise 1 herunter <https://drive.google.com/drive/folders/1xKB8gI3v29XL_NEvdtLZcm6ugaeuyl2L?usp=sharing>`__ und speichert
+sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zum Beispiel “Q://Abgabe”) an und speichert dort die obigen Daten (.zip Ordner müssen vorher entpackt werden).
 
 -  Erdbeben (Point) (Quelle: `United State Geological Suvey (USGS) <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`__)
--  Plattengrenzen (Linie) (Quelle: `Hugo Ahlenius basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
--  Platten (Polygon) (Quelle: `Hugo Ahlenius basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
+-  Plattengrenzen (Linie) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
+-  Platten (Polygon) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
 
-.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/mac-about-window.jpg
-   :alt: mac-about-window
+.. note::
 
-   mac-about-window
-
+   **Support findest du im Wiki**
+      *  `Interface <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__
+      *  `Layer-Konzept <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
+      *  `Attributdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Attributdaten>`__
+      *  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
 
 Aufgaben
 --------
 
-1. Öffne QGIS und mach dich mit der Benutzeroberfläche vertraut.
+1. Öffne QGIS und mach dich mit der Nutzeroberfläche vertraut.
 2. Öffne die oben angegebenen Dateien in QGIS. Ladet dazu die Vektor-Layer in euer Programm.
 3. Interagiere mit der Karte und erkunde die Datensätze. Verwende hierfür das Zoom-Werkzeug und verschiebe die Karte. Beachte dabei die
    Statusleiste am unteren Bildschirmrand und wie diese sich verändert. Wie lauten die ungefähren Koordinaten für das Erdbeben in Alaska?
@@ -35,10 +44,7 @@ Aufgaben
 8. Speichere dein Projekt ab.
 
 So (oder ähnlich) sieht’s am Ende aus
--------------------------------------
-
-QGIS
-~~~~
+++++++++++++++++++++++++++++++++++++++
 
 .. figure:: img/exercise_01b_qgis3_screenshot.PNG
    :alt: QGIS project with layers
@@ -46,16 +52,27 @@ QGIS
 
    Layer in QGIS zeigen Platten, Plattengrenzen & Erdbeben
 
-.. note::
-
-   **Support findest du im Wiki**
-   -  `Interface <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Interface>`__
-   -  `Layer-Konzept <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
-   -  `Attributdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Attributdaten>`__
-   -  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
 
 
-.. warning::
+.. tip::
 
-    Einige Instruktionen auf dieser Seite sind speziell für die Studierenden der Universität Heidelberg.
-    **Rückmeldung zu den Aufgaben bei Problemen kann nur für die Kursteilnehmenden der Universität Heidelberg gewährleistet werden.**.
+    Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig herunterzuladen.
+
+
+Die aktuellen Erdbebendaten findest du bei `United State Geological Suvey (USGS) <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`
+Die Platten und PLattengrenzen findest du bei `Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252) <https://github.com/fraxen/tectonicplates>`__)
+    
+**Lade die Geodaten herunter & importiere diese in dein QGIS Projekt!**.
+
+So (oder ähnlich) kann es am Ende aussehen
+++++++++++++++++++++++++++++++++++++++
+
+.. figure:: https://raw.githubusercontent.com/fraxen/tectonicplates/master/example_plates.png
+   :alt: Beispielkarte der Platten und der Plattengrenzen
+
+   Beispielkarte der Platten und der Plattengrenzen nach Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252)
+
+
+.. danger::
+
+    Achte stets darauf welche Daten und Geodaten du nutzt und notiere dir die Quellen.
