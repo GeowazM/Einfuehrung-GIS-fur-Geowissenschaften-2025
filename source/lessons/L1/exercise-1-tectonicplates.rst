@@ -27,7 +27,7 @@ sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zu
 -  Plattengrenzen (Linie) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
 -  Platten (Polygon) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
 
-.. danger::
+.. important::
 
     Die Angabe der Quellen von denen du deine Geodaten beziehst ist für diesen Kurs erforderlich!
 

@@ -43,3 +43,18 @@ Lecture slides
 .. admonition:: Lesson slides
 
     `Slides for Lecture 1 (PDF) <../../_static/01-Computers-and-programs.pdf>`__
+
+
+Layer kennen lernen
+--------------
+
+-  Durchsuche folgende Karte
+-  Finde die stärksten Erdbeben (Tipp: Alaska, Chile, Japan oder Indonesion). Hier findest du verlinkte Videos. Wenn du magst, dann werfe einen Blick in die Auswirkungen dieser starken Erdbeben.
+-  Vektor-Daten in einem GIS anzeigen und die Attributdaten einsehen.
+-  Vektor-Daten umprojizieren (d.h. die Projektion der Daten ändern).
+
+.. raw:: html
+
+    <embed>
+        http://earthquakes.terragis.space/#2/-14.6/-35.5
+    </embed>
