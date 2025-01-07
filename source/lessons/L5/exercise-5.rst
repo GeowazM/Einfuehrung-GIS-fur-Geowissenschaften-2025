@@ -24,7 +24,10 @@ Note that you should not try to make changes to this copy of the exercise, but r
 .. seealso::
 
    Daten
-   Ladet euch `die Daten herunter <exercise_05a_data.zip>`__ und speichert sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
+      - Ladet euch `die Daten herunter <exercise_05a_data.zip>`__ und
+      - Speichert sie auf eurem PC
+      - Legt einen lokalen Ordner an und
+      - Speichert dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
 
 
 Aufgaben

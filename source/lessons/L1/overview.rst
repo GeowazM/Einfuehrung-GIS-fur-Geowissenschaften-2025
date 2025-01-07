@@ -69,5 +69,5 @@ hello WebMap
 .. raw:: html
 
     <embed>
-        <iframe src="http://earthquakes.terragis.space/index.html" width="512" height="288" allowfullscreen></iframe>
+        <iframe src="http://earthquakes.terragis.space" width="512" height="288" allowfullscreen></iframe>
     </embed>
