@@ -62,6 +62,15 @@ hello ARD
         <iframe src="https://www.tagesschau.de/multimedia/video/video-1419972~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
     </embed>
 
+hello ARD 2
+---------------
+
+.. raw:: html
+
+    <embed>
+        <iframe src="https://www.tagesschau.de/ausland/asien/erdbeben-tibet-102.html" width="auto"></iframe>
+    </embed>
+
 
 hello WebMap
 ---------------
@@ -69,5 +78,5 @@ hello WebMap
 .. raw:: html
 
     <embed>
-        <iframe src="http://earthquakes.terragis.space" width="512" height="288" allowfullscreen></iframe>
+        <iframe src="http://earthquakes.terragis.space" width="512" height="288"></iframe>
     </embed>
