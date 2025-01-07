@@ -65,5 +65,5 @@ hello
 .. raw:: html
 
     <embed>
-        <iframe src="http://earthquakes.terragis.space/#2/-14.6/-35.5"   width="100%" height="auto"></iframe>
+        <iframe src="http://earthquakes.terragis.space/index.html"   width="100%" height="auto"></iframe>
     </embed>
