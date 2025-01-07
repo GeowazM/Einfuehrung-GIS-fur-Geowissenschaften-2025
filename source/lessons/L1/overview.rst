@@ -53,13 +53,6 @@ Layer kennen lernen
 -  Vektor-Daten in einem GIS anzeigen und die Attributdaten einsehen.
 -  Vektor-Daten umprojizieren (d.h. die Projektion der Daten ändern).
 
-.. raw:: html
-
-    <embed>
-        <iframe src="http://earthquakes.terragis.space/#2/-14.6/-35.5" title="Starke Erdbeben zwischen 1960 und 2024"></iframe>
-    </embed>
-
-
 hello
 ---------------
 
@@ -67,4 +60,10 @@ hello
 
     <embed>
         <iframe src="https://www.tagesschau.de/multimedia/video/video-1419972~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+    </embed>
+
+.. raw:: html
+
+    <embed>
+        <iframe src="http://earthquakes.terragis.space/#2/-14.6/-35.5"   width="100%" height="auto"></iframe>
     </embed>
