@@ -66,5 +66,5 @@ hello
 .. raw:: html
 
     <embed>
-        <iframe src="https://www.tagesschau.de/ausland/asien/erdbeben-tibet-102.html" title="Starke Erdbeben zwischen 1960 und 2024"></iframe>
+        <iframe src="https://www.tagesschau.de/multimedia/video/video-1419972~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
     </embed>
