@@ -56,5 +56,5 @@ Layer kennen lernen
 .. raw:: html
 
     <embed>
-        http://earthquakes.terragis.space/#2/-14.6/-35.5
+        <iframe src="http://earthquakes.terragis.space/#2/-14.6/-35.5" title="Starke Erdbeben zwischen 1960 und 2024"></iframe>
     </embed>
