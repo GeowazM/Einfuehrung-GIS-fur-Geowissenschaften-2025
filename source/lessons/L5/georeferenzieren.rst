@@ -1,9 +1,6 @@
 Georeferenzierung
 ========
 
-Georeferenzierung
-=================
-
    * **Raster >> Georeferenzierung** (ggfs. Erweiterung GDAL-Georeferenzierung installieren)
 
 Wichtiges zur Georeferenzierung

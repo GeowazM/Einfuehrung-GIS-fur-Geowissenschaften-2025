@@ -30,7 +30,7 @@ Kontext
 Du brauchst für dein Projekt eine geologische Karte von Heidelberg. Die einzig verfügbaren Informationen, die du finden kannst ist eine PDF
 Karte der Universität Heidelberg. Um diese geologische Karte mit deinen weiteren Geodaten zu verknüpfen, müssen wir diese georeferenzieren.
 
-.. figure:: https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_05b/geologische_karte_heidelberg.PNG
+.. figure:: https://raw.githubusercontent.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/refs/heads/main/exercise_05b/geologische_karte_heidelberg.PNG
    :alt: Geologische Karte von Heidelberg
 
    Geologische Karte von Heidelberg
