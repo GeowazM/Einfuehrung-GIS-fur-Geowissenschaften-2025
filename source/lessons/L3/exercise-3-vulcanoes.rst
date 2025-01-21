@@ -104,3 +104,12 @@ Beantworte folgende Fragen:
    :alt: Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
 
    Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
+
+
+.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/mac-about-window.jpg
+   :alt: Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
+
+   Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
+
+
+.. |Vulkane Italien| image:: img/vulcanoes_italy.png
