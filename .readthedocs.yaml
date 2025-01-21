@@ -1,5 +1,10 @@
 version: 2
 
+version: 2
+sphinx:
+  # Path to your Sphinx configuration file. -> https://about.readthedocs.com/blog/2024/12/deprecate-config-files-without-sphinx-or-mkdocs-config/
+  configuration: source/conf.py
+
 python:
   install:
     - requirements: source/rtd_requirements.txt
