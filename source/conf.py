@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Einführung GIS für Geowissenschaften"
+project = "GIS für Geowissenschaften"
 copyright = "2025"
 # author = 'David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen'
 author = "Mario Blersch"

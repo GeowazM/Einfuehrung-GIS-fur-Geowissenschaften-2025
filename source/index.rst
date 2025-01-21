@@ -170,7 +170,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     lessons/L5/exercise-5a-iceland
     lessons/L5/georeferenzieren
     lessons/L5/exercise-5b
-
+    lessons/L5/exercise-5
 
 .. toctree::
     :maxdepth: 2
