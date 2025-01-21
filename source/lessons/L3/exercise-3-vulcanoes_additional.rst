@@ -1,24 +1,43 @@
-Exercise 1 - Zusatz
+Exercise 3b - (Optional)
 ==========
+
+.. tip::
+
+    Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig zu beschaffen und aufzubereiten.
 
 Optionale Aufgabe
 --------
 
+    * `WMS-Layer - World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
+    * `WFS-Layer - Vulkane <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
+
+.. note::
+
+   **Support findest du im Wiki**
+      * XML Dateien
+      * Web Feature Layer - https://volcano.si.edu/database/webservices.cfm
+      * `WMS-Layer <https://geoservice.dlr.de/eoc/land/wms?service=WMS&request=GetCapabilities>`__
+      * `WFS-Layer <https://www.lgl-bw.de/export/sites/lgl/Produkte/Galerien/Dokumente/Kundeninformation_WFS_QGIS.pdf>`__
+
+
+Beantworte folgende Fragen:
+- Was sind WMS & WFS-Layer?
+- Was ist der Unterschied zwischen einem WMS & einem WFS-Layer?
+- Was sind die Vorteile eines WFS-Layers im Vergleich zu einer Excel-Tabelle?
+
 .. tip::
 
-    Du bist schon fertig? Dann versuche die Geodaten der US-Erdbebenwarte (USGS Earthquake Hazard Program) selbstständig herunterzuladen.
+    Nutze MS Copilot oder ChatGPT.
 
 
-Die aktuellen Erdbebendaten findest du bei `United State Geological Suvey (USGS) <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`__
-Die Platten und PLattengrenzen findest du bei `Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252) <https://github.com/fraxen/tectonicplates>`__)
-    
-- **Lade die Geodaten herunter &** 
-- **importiere diese in dein QGIS Projekt!**
-- **Kopiere den Layerstil von den bisherigen zu neuen Geodaten**
+**Lade die Geodaten herunter & importiere diese in dein QGIS Projekt!**.
 
 **So (oder ähnlich) kann es am Ende aussehen**
 
-.. figure:: https://raw.githubusercontent.com/fraxen/tectonicplates/master/example_plates.png
-   :alt: Beispielkarte der Platten und der Plattengrenzen
+.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/mac-about-window.jpg
+   :alt: Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
 
-   Beispielkarte der Platten und der Plattengrenzen nach Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252)
+   Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
+
+
+.. |Vulkane Italien| image:: img/vulcanoes_italy.png
