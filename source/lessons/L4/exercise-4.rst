@@ -96,30 +96,17 @@ Hochwassergefährdete Bereiche im Straßennetzwerk ausweisen
 So (oder ähnlich) sieht’s am Ende aus
 -------------------------------------
 
-.. figure:: osnabrueck_karte.png
+.. figure:: https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_04/osnabrueck_karte.png
    :alt: osnabrueck_karte
 
    osnabrueck_karte
 
-.. figure:: building_count_stats.png
+.. figure:: https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_04/building_count_stats.png
    :alt: building_stats
 
    building_stats
 
-.. figure:: road_length_stats.png
+.. figure:: https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_04/road_length_stats.png
    :alt: road_stats
 
    road_stats
-
-to functions that you can import.
-
-Counting values from a list
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-In some cases it might be useful to know how many times certain value exists in a list. Consider following example:
-
-.. code-block:: python
-
-    my_list = ['car', 'bus', 'bike', 'car', 'car', 'bike']
-    car_count = my_list.count('car')
-    print("There are", car_count, "cars in my list!")

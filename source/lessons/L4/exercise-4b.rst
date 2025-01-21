@@ -1,6 +1,17 @@
 Exercise 06: Combine OSM and Copernicus EMS data
 ================================================
 
+Counting values from a list
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In some cases it might be useful to know how many times certain value exists in a list. Consider following example:
+
+.. code-block:: python
+
+    my_list = ['car', 'bus', 'bike', 'car', 'car', 'bike']
+    car_count = my_list.count('car')
+    print("There are", car_count, "cars in my list!")
+
 Motivation
 ----------
 

@@ -153,6 +153,7 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
     lessons/L3/overview
     lessons/L3/exercise-3-vulcanoes
+    lessons/L3/exercise-3-vulcanoes_additional
 
 .. toctree::
     :maxdepth: 2
@@ -166,7 +167,10 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     :caption: Geodaten erfassen
 
     lessons/L5/digitalisieren
-    lessons/L5/exercise-5
+    lessons/L5/exercise-5a-iceland
+    lessons/L5/georeferenzieren
+    lessons/L5/exercise-5b
+
 
 .. toctree::
     :maxdepth: 2
