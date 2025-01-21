@@ -33,7 +33,8 @@ Beschaffe dir folgende Daten:
 * `Lade dir die Geodaten der Platten- & Plattengrenzen <https://github.com/fraxen/tectonicplates>`__ herunter
 
 
-Quellen:
+Quellen
+
 *  Vulkane (Point) (Quelle: `Global Volcanism Program (2024): Volcanoes of the World (v. 5.2.5; 23 Dec 2024). Distributed by Smithsonian Institution, compiled by Venzke, E., DOI: https://doi.org/10.5479/si.GVP.VOTW5-2024.5.2. <https://volcano.si.edu/gvp_votw.cfm>`__)
 *  Platten- & Plattengrenzen (Linie) (Quelle: `Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
 *  World Admin 0 Countries (Polygon) (Quelle: `Natural Earth Data <https://www.naturalearthdata.com/downloads/110m-cultural-vectors/>`__)
