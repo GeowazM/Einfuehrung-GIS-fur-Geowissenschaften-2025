@@ -10,9 +10,9 @@ Willkommen zu Einführung in GIS für Geowissenschaften!
 ===========================
 
 
-Der GIS-Kurs vermittelt Ihnen die grundlegenden Konzepte der Geoinformationssysteme (GIS) und der wissenschaftlichen Datenanalyse unter Verwendung der 
-GIS-Software QGIS (keine Vorkenntnisse erforderlich). Jede Lektion ist ein Tutorial zu spezifischen Themen, bei dem das Ziel darin besteht, Fähigkeiten und Verständnis zu erlangen, wie man gängige raumbezogene Aufgaben mit GIS löst. 
-Der Kurs wurde in Kooperation mit der GIS-Station, der Pädagogischen Hochschule Heidelberg für das Geowissenschaftliche Institut der Uni Heidelberg entwickelt. 
+Der GIS-Kurs vermittelt Ihnen die grundlegenden Konzepte Geographischer informationssysteme (GIS) sowie der wissenschaftlichen Datenanalyse unter Verwendung der 
+GIS-Software QGIS (keine Vorkenntnisse erforderlich). Jede Aufgabe behandelt eine methodische Vorgehensweise, die mit GIS-Software typisch behandelt werden können. Das Ziel besteht darin, ein Verständnis und praktische Fähigkeiten in der Verarbeitung raumbezogener Daten (Geodaten) zu erlernen. 
+Der Kurs wurde in Kooperation mit der GIS-Station, der Pädagogischen Hochschule Heidelberg für das Geowissenschaftliche Institut der Universität Heidelberg entwickelt. 
 
 
 Lernziele
@@ -21,11 +21,11 @@ Lernziele
 -  Übertragung von Konzepten aus der Vorlesung in praktische Abläufe
 -  Betrachtung des Workflows von GIS-Analysen (EVAP ohne Erhebung (E))
 
-   -  Datenmanagement (V)
-   -  Datenanalyse (A)
-   -  Kartenerstellung (P)
+   -  Verarbeitung (V) - Geodatenmanagment
+   -  Analyse (A)
+   -  Präsentation (P) - Kartenerstellung
 
--  Einführung in ein Desktop GIS-System: Quantum GIS (open source)
+-  Einführung in ein Desktop GIS-System: QGIS (open source)
 
 Überblick über den Ablauf und die Inhalte der Übungen
 -----------------------------------------------------
@@ -34,25 +34,18 @@ Ablauf
 ~~~~~~
 
 -  Die Übungen werden hier in Github bereitgestellt.
--  Die Inhalte der Übungen sollt ihr euch selbständig erarbeiten. Im
-   `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__
+-  Die Inhalte der Übungen sollt ihr euch selbständig erarbeiten. Im `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__
    findet ihr alle nötigen Informationen um Übungsaufgaben zu meistern.
-   Hier findet ihr Kurzanleitungen, Tipps und Videos. Ein Dankeschön
-   geht hier an die Ersteller:innen der Seite, an die GIScience Group
-   der Uni Heidelberg & das HeiGIT.
--  Beachtet: Aufgrund technischer Probleme mit dem Gitlab Wiki kann es
-   vorkommen, dass einige Links nicht funktionieren.
+   Hier findet ihr Kurzanleitungen, Tipps und Videos. Ein Dankeschön geht hier an die Ersteller:innen der Seite, an die GIScience Group der Uni Heidelberg & das HeiGIT.
+-  Beachtet: Aufgrund technischer Probleme mit dem Gitlab Wiki kann es vorkommen, dass einige Links nicht funktionieren.
 -  Die Vorlesungsfolien wird euch per Mail zugeschickt.
--  Bei Fragen wendet euch direkt an mich oder schreibt per Mail (siehe
-   Folien).
+-  Bei Fragen wendet euch direkt an mich oder schreibt per Mail (siehe Folien).
 
 Inhalte
 ~~~~~~~
 
-Anhand der Übungen lernt ihr,\ **wie** ihr praktisch vorgeht. Ihr
-versteht **warum** eure Lösungen funkionieren und erhaltet eine
-Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische
-**Hands-On** Sessions gestaltet.
+Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kommen. Ihr versteht **warum** eure Lösungen funkionieren und erhaltet eine
+Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische **Hands-On** Sessions gestaltet.
 
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | Übung | Thema                  | Methode                                                                                                                                                            | Datentyp |
@@ -85,7 +78,8 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
 
 .. admonition:: Abschlussprojekt
 
-    **WICHTIG:** Die Abgabe des Abschlussprojekts erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt mit allen Layern öffnen kann. Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
+    **WICHTIG:** Die Abgabe des Abschlussprojekts erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt inkl. allen relevanten Layern öffnen kann. 
+    Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
 
 
 .. admonition:: Interessante Links
@@ -95,10 +89,15 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     - https://www.nlog.nl/southern-permian-basin-atlas
     - https://nibis.lbeg.de/cardomap3/
 
-.. admonition:: On-site teaching
+.. admonition:: Hilfe
 
-    Please note that the course is organized completely on site during the 2023 autumn semester.
-    Online support for University of Helsinki and Aalto University students will be available in the discussion channels in Discord.
+    Im Laude der Übungen werden euch typische Probleme von Geodaten QGIS-Software begegnen. Das Auftreten dieser Probleme ist i.d.R. beabsichtig. 
+    Lösungen, Herangehensweisen zu diesen Problemen besprechen wir in der Vorlesung und während der gesamten Kurswoche.
+    Online Hilfe findet ihr im Wiki des Geographischen Instituts der Uni Heidelberg.
+
+.. admonition:: Hilfe
+
+    Starte mit dem Kurs indem du im Navigationsfesnter (links) die "Kursinhalte" & den Bereich "Wissenswertes" anschaust.
 
 .. toctree::
     :maxdepth: 2
@@ -138,14 +137,15 @@ versteht **warum** eure Lösungen funkionieren und erhaltet eine
     lessons/L1/overview
     lessons/L1/exercise-1-germany
     lessons/L1/exercise-1-tectonicplates
+    lessons/L1/exercise-1-tectonicplates_additional
 
 .. toctree::
     :maxdepth: 2
     :caption: Eine Karte erstellen
 
     lessons/L2/overview
-    lessons/L2/why-pairs
     lessons/L2/exercise-2
+    lessons/L2/exercise-2_additional
 
 .. toctree::
     :maxdepth: 2

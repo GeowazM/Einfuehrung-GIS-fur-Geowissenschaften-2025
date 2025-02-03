@@ -1,10 +1,102 @@
-Lesson overview
-===============
+Arbeiten mit Attributtabellen
+========================
 
-This week we will focus on repeating tasks and making decisions in Python.
-Both of these concepts are part of the larger computing idea called *control flow*, which refers to how the execution of different parts of a computer program is determined.
-We will learn how to alter the execution of our notebooks using (1) *loops*, which are used to repeat execution of parts of a program, and (2) *conditional statements*, which use basic logical tests to determine which parts of a program will be run.
-The main components of today's lesson can be found in the navigation bar to the left.
+Das zentrale Merkmal von Vektordatentypen ist die Attributtabelle. In dieser Stecken die Sachdaten, die über mit der Geometrie verknüpft sind. 
+Beispiel: Der Punkt beschreibt die Position eines Vulkans auf der Erde. In der Attributtabelle befindet sich der Name des Vulkans, das Datum der letzten Eruption und weitere Informationen zur Aktivität.
+
+Manuelle Auswahl
+----------------
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_attribute_table.mp4">
+
+.. raw:: html
+
+   </video>
+
+-  manuell in der Attributtabelle auswählen durch anklicken
+
+Select by Expression
+--------------------
+
+Arithmetische Operatoren (Integer, Float-Felder)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  ``>``, ``<``, ``=``, ``!=``
+-  z.B. alle Städte mit mehr als 20 Millionen Einwohnern im Jahr 2015:
+   ``"2015" > 20000``
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_expresion_greater.mp4">
+
+.. raw:: html
+
+   </video>
+
+String Operatoren (Text-Felder)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  ``LIKE``
+-  z.B. alle Länder in Asien: ``"continent" LIKE 'asia'``
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_expression_like.mp4">
+
+.. raw:: html
+
+   </video>
+
+-  man kann auch ``%`` als *Platzhalter* nutzen und so nach bestimmten
+   Teilwörtern selektieren
+-  z.B. alle Länder, welche auf ``stan``\ enden: ``"name" LIKE '%stan'``
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_expression_placeholder.mp4">
+
+.. raw:: html
+
+   </video>
+
+Logische Operatoren
+~~~~~~~~~~~~~~~~~~~
+
+-  ``AND``, ``OR``
+-  können dafür genutzt werden, verschiedene Abfragen oder Kriterien zu
+   kombinieren
+-  z.B. alle Städte, welche 1950 noch keine Millionenstadt waren, aber
+   2015 schon mehr als 10 Millionen Einwohner hatten:
+   ``"1950" < 1000 AND "2015" > 10000``
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_by_expression_and.mp4">
+
+.. raw:: html
+
+   </video>
+
+*Further Resources* Die QGIS Dokumentation zu logischen Operatoren kann
+unter folgendem Link gefunden werden:
+
+https://docs.qgis.org/3.10/en/docs/user_manual/working_with_vector/attribute_table.html#selecting-features
+
+Selektierte Features als neue Datei speichern
+---------------------------------------------
+
+-  Layer-Properties –> Export –> Save only selected features
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_select_export.mp4">
+
+.. raw:: html
+
+   </video>
+
 
 Learning goals
 --------------

@@ -1,5 +1,7 @@
-Exercise 3b - (Optional)
+Exercise 3 - Optional
 ==========
+
+Das ist eine freiwillige Zusatzaufgabe.
 
 .. tip::
 

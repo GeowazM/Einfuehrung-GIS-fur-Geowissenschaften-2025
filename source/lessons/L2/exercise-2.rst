@@ -18,7 +18,7 @@ Exercise 2
 
    Daten
       *  Punkt-Layer - Bodenschätze Punkte (`Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) <https://services.bgr.de/atomfeeds/dataset_e2ea5cd4-87f4-4751-980a-3451fe2f5758.xml>`__)
-      *  Polygon-Layer - Landesgrenze (`Landesamt für Geoinformation und Landentwicklung <https://www.lgl-bw.de/Produkte/Open-Data/>`__):
+      *  Polygon-Layer - Landesgrenze (`Landesamt für Geoinformation und Landentwicklung <https://www.lgl-bw.de/Produkte/Open-Data/>`__)
 
 Aufgaben
 --------
