@@ -1,15 +1,11 @@
-Exercise 2
+Exercise 2 - Optional
 ==========
 
 Das ist eine freiwillige Zusatzaufgabe.
 
-.. tip::
-
-    Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig zu beschaffen und aufzubereiten.
-
 .. hint::
 
-   Ziel der Übung
+   Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig zu beschaffen und aufzubereiten. Ziel der Übung:
       * Einen WMS-Dienst hinzufügen
 
 .. note::
