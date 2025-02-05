@@ -1,15 +1,7 @@
 Koordinatenbezugssysteme (KBS)
 ==================
 
-****************************
-Koordinatenbezugssysteme
-****************************
-
-+-------------------+-------------+------------------------------------------------------------------------------------------------------------------+
-| |gentleLogo|      | Objectives: | Understanding of Coordinate Reference Systems.                                                                   |
-+                   +-------------+------------------------------------------------------------------------------------------------------------------+
-|                   | Keywords:   | Coordinate Reference System (CRS), Map Projection, On the Fly Projection, Latitude, Longitude, Northing, Easting |
-+-------------------+-------------+------------------------------------------------------------------------------------------------------------------+
+Schlagworte: Koordinatenbezugssystem (KBS), Projektion, On-the-fly Projektion, Latitude, Longitude, Northing, Easting
 
 Übersicht
 ========
@@ -38,7 +30,7 @@ wenn sie für die Darstellung des gesamten afrikanischen Kontinents genutzt wird
 Die Eigenschaften einer Kartenprojektion können auch einige Konstruktionsmerkmale der Karte beeinflussen. Einige Projektionen sind geeignet für kleine Flächen, 
 während andere ideal sind für Kartiergebiete mit großer Ost-West-Ausdehnung oder wieder andere für Kartiergebiete mit großer Nord-Süd-Erstreckung.
 
-Die drei Familien der Kartenprojektionen
+Die drei Familien der Kartenprojektionen
 =====================================
 
 The process of creating map projections is best illustrated by positioning a light source inside a transparent globe on which opaque earth features are placed. Then
@@ -52,15 +44,7 @@ there is a family of **planar projections**, a family of **cylindrical projectio
    :align: center
    :width: 30em
 
-   The three families of map projections. They can be represented by a)
-   cylindrical projections, b) conical projections or c) planar projections.
-
-
-.. figure:: https://docs.qgis.org/3.34/de/_images/projection_families.png
-   :alt: Die drei Kategorien von Kartenprojektionen
-
-   Die drei Kategorien von Kartenprojektionen. a) Zylinderprojektion, b) Kegelprojektion und c) Azimuthalprojektion.
-
+   Die drei Kategorien von Kartenprojektionen. a) Zylinderprojektion, b) Kegelprojektion und c) Azimuthalprojektion.
 
 Natürlich wird heutzutage der Prozess, die Erdkugel auf ein flaches Blatt Papier zu projizieren, unter Zuhilfenahme mathematischer Prinzipien aus der Geometrie und Trigonometrie durchgeführt. 
 Dies stellt die physische Projektion von Lichtstrahlen durch den Globus nach.
@@ -68,12 +52,17 @@ Dies stellt die physische Projektion von Lichtstrahlen durch den Globus nach.
 .. admonition:: GIS Koordinatensysteme - Einführung
     :class: admonition-youtube
 
-    ..  youtube:: kGt0tgkPZwE&t=729s
+    ..  youtube:: kGt0tgkPZwE
 
     `Marshall Mappers on Youtube <https://youtu.be/kGt0tgkPZwE?si=VjSO40_wuNdVn7Ll>`_.
 
-Mit Koordinatenbezugssystemen in QGIS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+****************************
+Mit Koordinatenbezugssystemen arbeiten
+****************************
 
 Jeder Layer sollte ein Koordinatensystem besitzen, d.h. jeder Geodatensatz befindet ich in einem definiertem Koordinatensystem. In
 QGIS werden alle Layer eines Projektes in der Kartenansicht im selben Koordinatensystem dargestellt.
@@ -293,9 +282,11 @@ Die Webseite gibt euch dann Vorschläge, welches Koordinatensystem euren Anforde
 Der Projection Wizard liefert die besten Ergebnisse für große Maßstäbe und Karten über Ländergrenzen hinweg. Für kleinere Maßstäbe bietet es
 sich an, das offizielle Koordinatensystem des jeweiligen Staats zu benutzen.
 
-Quellen zum Thema Koordinatenbezugssysteme
-* De Lange, N. (2020): `Geoinformatik in Theorie und Praxis. 4. Auflage. DOI: https://doi.org/10.1007/978-3-662-60709-1 <https://doi.org/10.1007/978-3-662-60709-1>`__
-* `QGIS Documentation - Eine sanfte Einführung in GIS <https://docs.qgis.org/3.34/de/docs/gentle_gis_introduction/coordinate_reference_systems.html>`__
-* `Open Geo Edu  - Tutorial: Kartennetzentwürfe & Koordinatensysteme <https://learn.opengeoedu.de/tutorials/OGE-Tutorial_KNE_Koordinaten.pdf>`__
-*  `Geoneers - Marshall Mappers on Youtube <https://youtu.be/kGt0tgkPZwE?si=VjSO40_wuNdVn7Ll>`_.
-*
+Literatur zu Koordinaten, Projektionen und Koordinatenbezugssysteme
+=================
+
+Quellen
+   * De Lange, N. (2020): `Geoinformatik in Theorie und Praxis. 4. Auflage. DOI: https://doi.org/10.1007/978-3-662-60709-1 <https://doi.org/10.1007/978-3-662-60709-1>`__
+   * `QGIS Documentation - Eine sanfte Einführung in GIS <https://docs.qgis.org/3.34/de/docs/gentle_gis_introduction/coordinate_reference_systems.html>`__
+   * `Open Geo Edu  - Tutorial: Kartennetzentwürfe & Koordinatensysteme <https://learn.opengeoedu.de/tutorials/OGE-Tutorial_KNE_Koordinaten.pdf>`__
+   *  `Geoneers - Marshall Mappers on Youtube <https://youtu.be/kGt0tgkPZwE?si=VjSO40_wuNdVn7Ll>`_.
