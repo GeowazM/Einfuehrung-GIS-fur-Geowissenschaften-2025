@@ -19,7 +19,7 @@ Copernicus EMS (EMSR517) - Flood in Western Germany Map: Hier kannst du dir eine
 Bei der Reaktion auf eine Katastrophe oder der Planung von Maßnahmen zur Katastrophenvorsorge ist es oft entscheidend, die betroffene Bevölkerung oder die Auswirkungen von Infrastrukturausfällen auf angrenzende Regionen zu schätzen. 
 In solchen Situationen wird häufig eine Kombination mehrerer Datensätze verwendet. In unserem Beispiel ist das die Verknüpfung von OSM & Copernicus EMS Daten.
 
-.. admition:
+.. hint::
 
    **Geodaten, OpenStreetMap & Kathastrophen**
    To reduce the severe consequences of natural hazards,the humanitarian system focuses on measures to reduce disaster risks. Relevant actions
