@@ -61,34 +61,26 @@ German Red Cross in 2021.
 
 Copernicus EMS provides near-real-time information and geodata about
 various natural disasters such as floods or earthquakes. In this
-exercise we use the data provided for activation `EMSR517: Flood in
-Western
-Germany <https://emergency.copernicus.eu/mapping/list-of-components/EMSR517>`__.
+exercise we use the data provided for activation `EMSR517: Flood in Western Germany <https://emergency.copernicus.eu/mapping/list-of-components/EMSR517>`__.
 In the aftermath of the Ahrtal flood Copernicus EMS created several
 products such as grading (damage classification) and delineation maps
 for the affected regions.
 
-For the analysis we will use the Grading Product for `Bad
-Neuenahr-Ahrweiler <https://emergency.copernicus.eu/mapping/ems-product-component/EMSR517_AOI15_GRA_PRODUCT_r1_VECTORS/1>`__.
+For the analysis we will use the Grading Product for `Bad Neuenahr-Ahrweiler <https://emergency.copernicus.eu/mapping/ems-product-component/EMSR517_AOI15_GRA_PRODUCT_r1_VECTORS/1>`__.
 Just get the ``.zip`` vector package.
 
 For the first estimation of affected population we will use data from
-WorldPop for Germany. Download the `2020 100m Constrained Population
-Count <https://hub.worldpop.org/geodata/summary?id=49789>`__ dataset.
+WorldPop for Germany. Download the `2020 100m Constrained Population Count <https://hub.worldpop.org/geodata/summary?id=49789>`__ dataset.
 
 To estimate the number of affected people we will further use population
-information provided by the `German Zensus
-2011 <https://www.zensus2011.de/DE/Home/Aktuelles/DemografischeGrunddaten.html>`__.
-We need to get the 1 kilometer grid geometries (`“Karte eines 1
-Kilometer-Gitters für Deutschland gemäß der INSPIRE
+information provided by the `German Zensus 2011 <https://www.zensus2011.de/DE/Home/Aktuelles/DemografischeGrunddaten.html>`__.
+We need to get the 1 kilometer grid geometries (`“Karte eines 1 Kilometer-Gitters für Deutschland gemäß der INSPIRE
 Spezifikation” <https://www.zensus2011.de/SharedDocs/Downloads/DE/Shapefile/Inspire.zip;jsessionid=2FE7B738498407473E4F468706851C00.live301?__blob=publicationFile&v=2>`__)
-and population values for the 1 kilometer grid (`“Spitze Werte im 1
-Kilometer-Gitter” im
+and population values for the 1 kilometer grid (`“Spitze Werte im 1 Kilometer-Gitter” im
 CSV-Format” <https://www.zensus2011.de/SharedDocs/Downloads/DE/Pressemitteilung/DemografischeGrunddaten/csv_Zensusatlas_spitze_Werte_1km_Gitter.zip?__blob=publicationFile&v=2>`__).
 
 Download the district boundary of the Landkreis Ahrweiler and all
-municipalities within it, from `OSM
-Boundaries <https://osm-boundaries.com/>`__.
+municipalities within it, from `OSM Boundaries <https://osm-boundaries.com/>`__.
 
 Finally, download all buildings mapped in OSM for the Landkreis
 Ahrweiler. Maybe add a small buffer of two kilometers, so that also

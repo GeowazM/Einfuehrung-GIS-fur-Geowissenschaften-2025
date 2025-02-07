@@ -8,9 +8,10 @@ Das ist eine freiwillige Zusatzaufgabe.
     Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig zu beschaffen und aufzubereiten.
 
 .. caution::
+
     Quellen
-        * `WMS-Layer - World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
-        * `WFS-Layer - Vulkane <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
+        * `Vulkane <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ - WFS-Layer
+        * `World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ - WMS-Layer
 
 .. tip::
 
@@ -21,7 +22,8 @@ Das ist eine freiwillige Zusatzaufgabe.
       * `WFS-Layer <https://www.lgl-bw.de/export/sites/lgl/Produkte/Galerien/Dokumente/Kundeninformation_WFS_QGIS.pdf>`__
 
 
-Beantworte folgende Fragen:
+Beantworte folgende Fragen
+--------
 - Was sind WMS & WFS-Layer?
 - Was ist der Unterschied zwischen einem WMS & einem WFS-Layer?
 - Was sind die Vorteile eines WFS-Layers im Vergleich zu einer Excel-Tabelle?
