@@ -161,7 +161,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
     lessons/L4/overview
     lessons/L4/exercise-4
-    lessons/L4/exercise-4b
+    lessons/L4/exercise-4_ahrweiler
 
 .. toctree::
     :maxdepth: 2

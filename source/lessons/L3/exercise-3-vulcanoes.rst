@@ -9,7 +9,6 @@ Exercise 3
       * Geometrieoperationen nutzen (z.B. die Fläche eines Polygons berechnen).
 
 .. admonition:: Hilfe
-   :collapsible: closed
 
    **Support findest du im Wiki**
       *  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
@@ -18,7 +17,6 @@ Exercise 3
       *  `Geometrieoperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Geometrieoperationen>`__
 
 .. seealso::
-   :collapsible:
 
    In dieser Aufgabe lernt ihr neben der Selektion über Attribute auch verschiedene Wege der Geodatenbeschaffung kennen.
    Dabei gibt es hier vier Wege:
@@ -35,19 +33,12 @@ Exercise 3
       * `Lade dir die Geodaten der Platten- & Plattengrenzen <https://github.com/fraxen/tectonicplates>`__ herunter
 
 .. important::
-   :collapsible: closed
 
    Quellen
       *  Vulkane (Point) (`Global Volcanism Program (2024): Volcanoes of the World (v. 5.2.5; 23 Dec 2024). Distributed by Smithsonian Institution, compiled by Venzke, E., DOI: https://doi.org/10.5479/si.GVP.VOTW5-2024.5.2. <https://volcano.si.edu/gvp_votw.cfm>`__)
       *  Platten- & Plattengrenzen (Linie) (`Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
       *  World Admin 0 Countries (Polygon) (`Natural Earth Data <https://www.naturalearthdata.com/downloads/110m-cultural-vectors/>`__)
       *  World Settlement Footrpint 2019 - DLR EOC (Raster) (`Marconcini et al. (2021): Understanding Current Trends in Global Urbanisation - The World Settlement Footprint Suite, DOI: 10.1553/giscience2021_01_s33. <https://geoservice.dlr.de/web/datasets/wsf_2019>`__)
-
-
-.. important::
-   :collapsible: open
-
-    Die Angabe der Quellen, von denen du deine Geodaten beziehst, ist für diesen Kurs zwingend erforderlich!
 
 Aufgaben
 --------

@@ -7,11 +7,11 @@ Das ist eine freiwillige Zusatzaufgabe.
 
     Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig zu beschaffen und aufzubereiten.
 
-.. caution::
+.. important::
 
     Quellen
-        * `Vulkane <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ - WFS-Layer
-        * `World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ - WMS-Layer
+        * `Vulkane weltweit <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ (Web Feature Service - WFS)
+        * `World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__ (Web Mapping Service - WMS)
 
 .. tip::
 
@@ -22,25 +22,24 @@ Das ist eine freiwillige Zusatzaufgabe.
       * `WFS-Layer <https://www.lgl-bw.de/export/sites/lgl/Produkte/Galerien/Dokumente/Kundeninformation_WFS_QGIS.pdf>`__
 
 
-Beantworte folgende Fragen
+Beantworte folgende Fragen & notiere diese
 --------
-- Was sind WMS & WFS-Layer?
-- Was ist der Unterschied zwischen einem WMS & einem WFS-Layer?
-- Was sind die Vorteile eines WFS-Layers im Vergleich zu einer Excel-Tabelle?
+* Was sind WMS & WFS-Layer?
+* Was ist der Unterschied zwischen einem WMS & einem WFS-Layer?
+* Welche Vorteile bietet ein WFS-Layer im Vergleich zu einer Excel-Tabelle?
 
 .. tip::
 
     Nutze MS Copilot oder ChatGPT.
 
 
-**Lade die Geodaten herunter & importiere diese in dein QGIS Projekt!**.
+**Nutze die Web Services und lade sie in dein QGIS Projekt! Erschaffe eine kleine Abbildung mit einem Vulkan deiner Wahl.**.
+--------
 
 **So (oder ähnlich) kann es am Ende aussehen**
 
-.. figure:: https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/img/mac-about-window.jpg
-   :alt: Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
+.. figure:: img/vesuvio.png
+   :alt: Vesuv, Neapel & Umland
+   :width: 800px
 
-   Beispielkarte der italienischen Vulkane nach `GVP <https://volcano.si.edu/volcanolist_holocene.cfm>`__ mit `WMS-Layern des DLR EOC <https://geoservice.dlr.de/web/datasets>`__
-
-
-.. |Vulkane Italien| image:: img/vulcanoes_italy.png
+   Mensch & Vulkan. Eigene Darstellung mit Daten von `Global Volcanism Program <https://volcano.si.edu/gvp_votw.cfm>`__ und `DLR - EOC Geoservice <https://geoservice.dlr.de/web/services>`__
