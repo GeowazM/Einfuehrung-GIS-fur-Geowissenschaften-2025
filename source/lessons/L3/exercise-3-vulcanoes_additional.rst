@@ -3,17 +3,16 @@ Exercise 3 - Optional
 
 Das ist eine freiwillige Zusatzaufgabe.
 
-.. tip::
+.. note::
 
     Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig zu beschaffen und aufzubereiten.
 
-Optionale Aufgabe
---------
+.. caution::
+    Quellen
+        * `WMS-Layer - World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
+        * `WFS-Layer - Vulkane <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
 
-    * `WMS-Layer - World Settlement Footprint 2019 <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
-    * `WFS-Layer - Vulkane <https://webservices.volcano.si.edu/geoserver/GVP-VOTW/wfs?request=GetCapabilities>`__
-
-.. note::
+.. tip::
 
    **Support findest du im Wiki**
       * XML Dateien
