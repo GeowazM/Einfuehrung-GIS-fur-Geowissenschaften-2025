@@ -12,17 +12,17 @@ Hier finden Sie eine Liste von Begriffen, die im Zusammenhang mit Geodaten und G
 
 .. glossary::
 
-- **Datentypen**
+   - **Datentypen**
 
-   - Integer (int) = Ganze Zahl
+      - Integer (int) = Ganze Zahl
 
-   - Float (float) = Dezimalzahl
+      - Float (float) = Dezimalzahl
 
-   - String (str) = Text
+      - String (str) = Text
 
-   - Boolean (bool) = True / False
+      - Boolean (bool) = True / False
 
-   - Date (date) = Datum
+      - Date (date) = Datum
 
   Algorithmus
      Ein Algorithmus im Geodatenbereich ist ein mathematisches Verfahren, das in einer Reihe von Schritten Probleme löst und häufig als Abfolge von Computerbefehlen codiert wird. 
