@@ -43,7 +43,7 @@ Die SRTM-Mission, durchgeführt im Jahr 2000, nutzte ein modifiziertes Radarsyst
 von fast 80 % der Erdoberfläche zu sammeln. Die Mission lieferte die ersten nahezu **globalen digitalen Höhenmodelle (DEMs)** mit einer räumlichen Auflösung von 30 m. 
 Die SRTM-Daten sind besonders nützlich für Anwendungen in der Geowissenschaft, Hydrologie und Umweltüberwachung.
 
-Promotion Videos zur europäischen Copernicus Mission, der US-amerikanischen Landsat-Reihe & dem ESA Datenportal CDSE
+Promotion Videos zur Copernicus Mission, der US-Landsat-Reihe & dem ESA Datenportal CDSE
 -------------
 
 .. admonition:: 25 years of Copernicus
@@ -53,8 +53,7 @@ Promotion Videos zur europäischen Copernicus Mission, der US-amerikanischen Lan
 
     European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
 
-.. admonition:: Landsat 9: Continuing the Legacy Promo
-
+.. admonition:: Landsat 9: Continuing the Legacy
     :class: admonition-youtube
 
     ..  youtube:: k3biSynSBgo
