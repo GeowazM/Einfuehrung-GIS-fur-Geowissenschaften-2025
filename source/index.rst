@@ -159,7 +159,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Vektorgeometrien verarbeiten
 
-    lessons/L4/overview
     lessons/L4/exercise-4
     lessons/L4/exercise-4_ahrweiler
 

@@ -26,8 +26,8 @@ Dabei möchten ihr auch Parameter variieren. Erstellt hierfür ein geeignetes We
 Aufgabe
 =======
 
-Aufgabe 1: Modell erstellen
----------------------------
+Aufgabe 1 
+----------
 
 Erstellt ein Modell, welches
 
@@ -40,11 +40,11 @@ Erstellt ein Modell, welches
 Aufgabe 2: Modell ausführen
 ---------------------------
 
--  nutzt euer Modell um die folgende Parameterkombinationen zu testen
+Modell ausführen -  nutzt euer Modell um die folgende Parameterkombinationen zu testen
 
-   -  Hotel-Buffer: 50m, Straßen-Buffer: 50m
-   -  Hotel-Buffer: 100m, Straßen-Buffer: 100m
-   -  Hotel-Buffer: 150m, Straßen-Buffer: 150m
+1. Hotel-Buffer: 50m, Straßen-Buffer: 50m
+2. Hotel-Buffer: 100m, Straßen-Buffer: 100m
+3. Hotel-Buffer: 150m, Straßen-Buffer: 150m
 
 So oder ähnlich könnte euer finales Modell aussehen:
 

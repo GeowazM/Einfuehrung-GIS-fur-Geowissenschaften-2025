@@ -7,18 +7,18 @@ Reihenfolge angeordnet und verbunden werden, um wiederholte oder komplexe Aufgab
 
 Vorteile des QGIS Model Builders
 -------------
-Automatisierung: Der Model Builder ermöglicht die Automatisierung von Arbeitsabläufen, wodurch wiederholte Aufgaben effizienter und konsistenter ausgeführt werden können.
-Benutzerfreundlichkeit: Die visuelle Oberfläche macht es einfach, komplexe Modelle zu erstellen, ohne dass umfangreiche Programmierkenntnisse erforderlich sind.
-Wiederverwendbarkeit: Einmal erstellte Modelle können gespeichert und mit verschiedenen Datensätzen wiederverwendet werden, was Zeit und Aufwand spart.
-Fehlerreduktion: Durch die Automatisierung und Standardisierung von Prozessen werden menschliche Fehler minimiert.
-Flexibilität: Der Model Builder unterstützt eine Vielzahl von Eingaben und Algorithmen, sodass komplexe und maßgeschneiderte Analysen möglich sind.
+1. Automatisierung: Der Model Builder ermöglicht die Automatisierung von Arbeitsabläufen, wodurch wiederholte Aufgaben effizienter und konsistenter ausgeführt werden können.
+2. Benutzerfreundlichkeit: Die visuelle Oberfläche macht es einfach, komplexe Modelle zu erstellen, ohne dass umfangreiche Programmierkenntnisse erforderlich sind.
+3. **Reproduzierbarkeit**: Einmal erstellte Modelle können gespeichert und mit verschiedenen Datensätzen wiederverwendet werden, was Zeit und Aufwand spart.
+4. Fehlerreduktion: Durch die Automatisierung und Standardisierung von Prozessen werden menschliche Fehler minimiert.
+5. Flexibilität: Der Model Builder unterstützt eine Vielzahl von Eingaben und Algorithmen, sodass komplexe und maßgeschneiderte Analysen möglich sind.
 
 Tutorial
 -------------
 
-.. admonition:: QGIS Model Builder / Graphical Modeler (Version 3.x)
+.. admonition:: QGIS Model Builder
     :class: admonition-youtube
 
     ..  youtube:: eZb5VLTc9-o&t=306s
 
-    `Geospatial School <https://www.youtube.com/watch?v=eZb5VLTc9-o&t=306s>`_.
+    `Geospatial School  on Youtube <https://www.youtube.com/watch?v=eZb5VLTc9-o&t=306s>`_
