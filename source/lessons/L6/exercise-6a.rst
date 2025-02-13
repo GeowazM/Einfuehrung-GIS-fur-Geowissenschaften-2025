@@ -23,8 +23,8 @@ Exercise 5b
 .. seealso::
 
    Daten
-      Ladet euch vom USB-Stick und speichert sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die Daten. (.zip Ordner müssen vorher entpackt werden.)
-      - Landsat 8 data (Source: Landsat-8 image courtesy of the U.S. Geological Survey; Downloaded via EarthExplorer `EarthExplorer <https://earthexplorer.usgs.gov/>`__ )
+      Ladet euch die `Daten herunter <https://drive.google.com/file/d/1dlhFX5jOUJlZ0bNdei4iQWQ6xCXnkDTh/view?usp=drive_link>`__ und speichert sie auf eurem PC (.zip Ordner nach dem Download entzippen).
+      - Landsat 8 data (Source: Landsat-8 image courtesy of the U.S. Geological Survey; Downloaded via `EarthExplorer <https://earthexplorer.usgs.gov/>`__ )
       - ASTER Global Digital Elevation Map (GDEM) SRTM DEM (Source: `NASA JPL <https://asterweb.jpl.nasa.gov/GDEM.asp>`__)
 
 
