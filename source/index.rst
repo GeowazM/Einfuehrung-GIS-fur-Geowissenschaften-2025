@@ -183,7 +183,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Digitale Geländemodelle nutzen
 
-    lessons/L7/overview
     lessons/L7/exercise-7a
 
 .. toctree::
