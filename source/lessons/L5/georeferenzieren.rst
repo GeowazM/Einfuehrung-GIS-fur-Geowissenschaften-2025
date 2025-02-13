@@ -12,16 +12,18 @@ anhand von Passpunkten modifiziert: mithilfe von Rotation(Drehung), Translation(
 
 Wichtig für die Übung sind zwei Methoden: 
    1. Georeferenzieren auf Grundlage einer analogen Karte: 
-      * Bedingungen: 
-      * KNE muss bekannt sein
+ 
+      * Boordinatenbezugssystem (KBS) muss bekannt sein
       * Mindestens 4 Koordinatenpunkte müssen bekannt sein
       * Pixelwerte müssen auf Meterangaben skaliert werden
       * als Passpunkte werden die Schnittpunkte vom Gitternetz des zugrundeliegenes KNE verwendet
       * Vorteil: Schnittpunkte genau in Karte ablesbar und damit Passpunkte präzise setzbar 
    2. Georeferenzieren auf Grundlage eines Luftbilds: 
+      
       * Passpunkte wählen anhand von gut verortbaren Orten in den beiden Datensätzen Zentral für die Georeferenzierung sind Passpunkte, anhand derer von QGIS
          eine Regression vorgenommen wird. Die Genauigkeit der Georeferenzierung steht und fällt daher mit der Genauigkeit der Passpunkte. 
          Die gewählten Passpunkte sollten daher drei Eigenschaften erfüllen – sie sollten
+
       * ausreichend viele sein (→ Mindestanzahl der Passpunkte erfüllen → RMS-Fehler bestimmbar)
       * gut verteilt sein (→ je näher zusammen, desto weniger aussagekräftig der RMS-Fehler für Genauigkeit der Georeferenzierung)
       * möglichst gut zu verorten sein (→ exaktere Übereinstimmung der Passpunkte)
@@ -32,13 +34,15 @@ RMS-Fehler berechnet – je niedriger dieser ist, desto genauer die Georeferenzi
 Vorgehen in QGIS
 ----------------
 
-Reihenfolge in der Regel: 1. `nicht-georeferenziertes Bild öffnen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
-2. `Zielprojektion festlegen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
-3. `Transformationseinstellungen wählen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#transformationseinstellungen>`__
-4. `Passpunkte setzen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
-5. `Passpunkte speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
-6. `Georeferenziertes Bild speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#georeferenziertes-bild-speichern>`__
-7. Georeferenzierung überprüfen
+Reihenfolge in der Regel:
+
+   1. `nicht-georeferenziertes Bild öffnen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
+   2. `Zielprojektion festlegen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
+   3. `Transformationseinstellungen wählen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#transformationseinstellungen>`__
+   4. `Passpunkte setzen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
+   5. `Passpunkte speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
+   6. `Georeferenziertes Bild speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#georeferenziertes-bild-speichern>`__
+   7. Georeferenzierung überprüfen
 
 -  `Weitere Ressourcen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#weitere-ressourcen>`__
 -  `Allgemeine Fehlerhinweise </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#allgemeine-fehlerhinweise>`__
@@ -56,12 +60,9 @@ Bild öffnen und Zielprojektion festlegen
 
    </video>
 
-**Hinweis:** Wenn das Programm die Zielprojektion nicht von alleine
-abfragt, müssen die Einstellungen zu den KBS geändert werden. Das
-funktioniert unter *Einstellungen/Settings* in den Toolbars,
-*Optionen/Options* und dann unter dem Reiter *KBS/CRS*. In diesem muss
-unter *KBS für neue Layer/CRS for new layers* die Option *KBS
-abfragen/Prompt for CRS* gewählt werden.
+**Hinweis:** Wenn das Programm die Zielprojektion nicht von alleine abfragt, müssen die Einstellungen zu den KBS geändert werden. Das
+funktioniert unter *Einstellungen/Settings* in den Toolbars, *Optionen/Options* und dann unter dem Reiter *KBS/CRS*. In diesem muss
+unter *KBS für neue Layer/CRS for new layers* die Option *KBS abfragen/Prompt for CRS* gewählt werden.
 
 |Einstellungen_KBS-abfragen|\ |Einstellungen_KBS-abfragen_01|
 
@@ -146,5 +147,9 @@ Fehler können unter anderem zu Stande kommen durch:
    * fehlerhaftes Ablesen der Koordinaten (beim Ablesen von Passpunktkoordinaten im Kartengrid) 
    * eine fehlende Übereinstimmung zwischen Projekt-KBS, KBS des georeferenzierten Layers und übrigen Layern vor Beginn des Georeferenzieren
 
-.. |Einstellungen_KBS-abfragen| image:: https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/d5872200508a16e8cd9f0a8f678566fc/Einstellungen_KBS-abfragen.png
-.. |Einstellungen_KBS-abfragen_01| image:: https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/bf065093109e2512911bfa9d77e3f77a/Einstellungen_KBS-abfragen_01.png
+.. admonition:: QGIS Georeferenzierung
+    :class: admonition-youtube
+
+    ..  youtube:: qZUQ_keQnAc
+
+    Bonn Center for Digital Humanities @ `Geo-Python channel on Youtube <https://www.youtube.com/watch?v=qZUQ_keQnAc>`_.

@@ -9,14 +9,12 @@ Exercise 4
       *  `Räumliche Joins durchführen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Joins>`__
       *  `Tabellenfunktionen nutzen und einfache Statistiken erstellen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Tabellenfunktionen>`__
 
-.. seealso:: Daten
+.. seealso::
 
    Daten
-
    Ladet euch `die Daten herunter <exercise_04_data.zip>`__ und speichert
    sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die
-   obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
-
+   obigen Daten (.zip Ordner müssen vorher entpackt werden.).
       * Osnabrück Fluss Hase (Line) (Quelle: `OpenStreetMap <https://www.openstreetmap.org>`__)
       * Osnabrück Straßennetzwerk (Line) (Quelle: `OpenStreetMap <https://www.openstreetmap.org>`__)
       * Osnabrück Stadtgrenze (Polygon) (Quelle: `OpenStreetMap <https://www.openstreetmap.org>`__)

@@ -167,18 +167,17 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Geodaten erfassen
 
-    lessons/L5/digitalisieren
-    lessons/L5/exercise-5a-iceland
     lessons/L5/georeferenzieren
-    lessons/L5/exercise-5b
-    lessons/L5/exercise-5
+    lessons/L5/exercise-5a_geologie
+    lessons/L5/digitalisieren
+    lessons/L5/exercise-5b-iceland
 
 .. toctree::
     :maxdepth: 2
     :caption: Rasterdaten verarbeiten
 
     lessons/L6/overview
-    lessons/L6/exercise-6
+    lessons/L6/exercise-6s
 
 .. toctree::
     :maxdepth: 2

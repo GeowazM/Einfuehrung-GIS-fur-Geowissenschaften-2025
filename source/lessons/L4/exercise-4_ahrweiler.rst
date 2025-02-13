@@ -14,7 +14,7 @@ Copernicus Emergency Managment Service (EMS) & Zenus 2022 Daten verknüpfen
 Welchen Mehrwert bieten Geodaten im Falle einer Katastrophe?
 ----------
 
-Copernicus EMS (EMSR517) - Flood in Western Germany Map: Hier kannst du dir einen Überblick verschaffen: `Copernicus EMS (EMSR517) <https://cems-mapping-website.s3.eu-west-1.amazonaws.com/static/activations/EMSR517/EMSR517_AOI15_GRA_PRODUCT_r1_RTP01_v1.pdf>`__
+Hier kannst du dir einen Überblick verschaffen: `Copernicus EMS (EMSR517) <https://cems-mapping-website.s3.eu-west-1.amazonaws.com/static/activations/EMSR517/EMSR517_AOI15_GRA_PRODUCT_r1_RTP01_v1.pdf>`__
 
 Bei der Reaktion auf eine Katastrophe oder der Planung von Maßnahmen zur Katastrophenvorsorge ist es oft entscheidend, die betroffene Bevölkerung oder die Auswirkungen von Infrastrukturausfällen auf angrenzende Regionen zu schätzen. 
 In solchen Situationen wird häufig eine Kombination mehrerer Datensätze verwendet. In unserem Beispiel ist das die Verknüpfung von OSM & Copernicus EMS Daten.
@@ -84,21 +84,11 @@ Show the steps in QGIS
 
 ::
 
-   <img src="https://th.bing.com/th/id/R.0b9adccd6442cbbfd9b6101a40a2fe42?rik=wYrY%2bnSXz273vA&pid=ImgRaw&r=0" alt="Nasenaffe">
+   Dissolve flood extent polygons
 
 .. raw:: html
 
    </details>
-
-
-.. container:: toggle
-
-    .. container:: header
-
-        **Show/Hide Code**
-
-        fdsfsf
-
 
 :literal:`{dropdown} Show the steps in QGIS. ```{figure} ../figs/ahrtal_dissolve_flood_extent.png --- width: 100% name: ahrtal-dissolve --- Dissolve flood extent polygons. ``\``
 
@@ -137,5 +127,5 @@ Copernicus EMS damage grade and object type.
 
 .. note::
 
-   🙏 Danke. Angepasst nach `HeiGIT & Benjamin Herfort <https://giscience.courses-pages.gistools.geog.uni-heidelberg.de/openstreetmap-analyses-with-qgis-python-and-r/content/chapter_4/flooding_analysis.html>`__
-   Du interessierst dich für für QGIS und OpenStreetMap. Dann schau `hier <https://giscience.courses-pages.gistools.geog.uni-heidelberg.de/openstreetmap-analyses-with-qgis-python-and-r/content/chapter_1/aims_and_goals.html>`__ vorbei
+   🙏 Danke. Angepasst nach `HeiGIT & Benjamin Herfort <https://giscience.courses-pages.gistools.geog.uni-heidelberg.de/openstreetmap-analyses-with-qgis-python-and-r/content/chapter_4/flooding_analysis.html>`__.
+   Du interessierst dich für für QGIS und OpenStreetMap. Dann schau `hier <https://giscience.courses-pages.gistools.geog.uni-heidelberg.de/openstreetmap-analyses-with-qgis-python-and-r/content/chapter_1/aims_and_goals.html>`__ vorbei.
