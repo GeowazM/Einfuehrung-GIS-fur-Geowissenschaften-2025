@@ -177,7 +177,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Rasterdaten verarbeiten
 
     lessons/L6/overview
-    lessons/L6/exercise-6s
+    lessons/L6/exercise-6a
 
 .. toctree::
     :maxdepth: 2
