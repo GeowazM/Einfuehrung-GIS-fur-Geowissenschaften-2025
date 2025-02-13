@@ -1,33 +1,69 @@
-Lesson overview
+Erdbeobachtungsdaten
 ===============
 
-This week we will continue to work with `pandas <http://pandas.pydata.org/>`__, a modern, feature-rich, and powerful data analysis framework for Python that is designed to make data analysis and manipulation straightforward using easy-to-use data structures and operations.
-
-In the second half of the lesson we will focus on debugging. Many new programmers struggle with fixing problems in their code (debugging) because they start randomly making changes without a clear picture of what is wrong or even what the code should do! By learning a few basic ideas about debugging and interpreting error messages, we hope to save you time and frustration as your code becomes more complex.
-
-Learning goals
+Was ist Fernerkundung?
 --------------
 
-After this weeks lesson your should be able to:
+Fernerkundung ist die Wissenschaft und Technik, Informationen über Objekte oder Phänomene auf der Erdoberfläche zu sammeln, ohne direkten Kontakt 
+mit ihnen zu haben. Dies geschieht hauptsächlich durch die Erfassung und Analyse von Daten, die von Satelliten, Flugzeugen oder Drohnen aufgenommen werden.
 
-- Analyze data in Python using pandas
-- Repeat an analysis workflow for several input files
-- Understand common Python errors
-- Follow a simple set of guidelines to debug programs efficiently
+Elektromagnetische Strahlung
+--------------
 
-Lesson videos
+Elektromagnetische Strahlung umfasst ein breites Spektrum von Wellenlängen, von Gammastrahlen bis zu Radiowellen. In der Fernerkundung werden hauptsächlich 
+sichtbares Licht, Infrarot und Mikrowellen genutzt. Diese Strahlung wird von der Erdoberfläche reflektiert oder emittiert und von Satellitensensoren erfasst.
+
+Spektrale Auflösung
+--------------
+
+Die spektrale Auflösung bezieht sich auf die Fähigkeit eines Sensors, verschiedene Wellenlängen des elektromagnetischen Spektrums zu unterscheiden. 
+Ein Sensor mit hoher spektraler Auflösung kann schmalere Wellenlängenbereiche erfassen und somit detailliertere Informationen über die Erdoberfläche liefern. 
+Dies ist besonders nützlich für die Identifizierung und Analyse spezifischer Materialien oder Vegetationstypen.
+
+Sentinel-2
+--------------
+
+Die Sentinel-2 Mission besteht aus zwei identischen Satelliten, die in einer sonnensynchronen Umlaufbahn operieren. 
+Sie liefern hochauflösende multispektrale Bilder mit einer Schwadbreite von 290 km und einer Wiederholrate von 5 Tagen am Äquator. 
+Die Satelliten sind mit einem optischen Instrument ausgestattet, das 13 Spektralbänder abdeckt, darunter vier Bänder mit 10 m, sechs Bänder mit 20 m und drei Bänder mit 60 m räumlicher Auflösung. 
+Diese Daten unterstützen Anwendungen in der Landüberwachung, Landwirtschaft, Notfallmanagement und mehr12.
+
+Landsat 8
+--------------
+
+Landsat 8, gestartet im Jahr 2013, ist mit zwei Hauptinstrumenten ausgestattet: dem Operational Land Imager (OLI) und dem Thermal Infrared Sensor (TIRS). 
+OLI erfasst Daten in neun Spektralbändern, einschließlich eines panchromatischen Bands mit 15 m Auflösung, während TIRS die Landoberflächentemperatur in 
+zwei thermischen Bändern misst. Landsat 8 bietet eine räumliche Auflösung von 30 m für multispektrale und 100 m für thermische Daten und hat eine 
+Schwadbreite von 185 km. Die Daten werden alle 16 Tage wiederholt erfasst.
+
+SRTM (Shuttle Radar Topography Mission)
+--------------
+
+Die SRTM-Mission, durchgeführt im Jahr 2000, nutzte ein modifiziertes Radarsystem an Bord des Space Shuttle Endeavour, um topografische Daten 
+von fast 80 % der Erdoberfläche zu sammeln. Die Mission lieferte die ersten nahezu **globalen digitalen Höhenmodelle (DEMs)** mit einer räumlichen Auflösung von 30 m. 
+Die SRTM-Daten sind besonders nützlich für Anwendungen in der Geowissenschaft, Hydrologie und Umweltüberwachung.
+
+Promotion Videos zur europäischen Copernicus Mission, der US-amerikanischen Landsat-Reihe & dem ESA Datenportal CDSE
 -------------
 
-.. admonition:: Lesson 6.1 - Data analysis with pandas
+.. admonition:: 25 years of Copernicus
     :class: admonition-youtube
 
-    ..  youtube:: A93Gjg_66YI
+    ..  youtube:: vyoXKUuAf5E
 
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
+    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
 
-.. admonition:: Lesson 6.2 - Data analysis with pandas (ctd.), debugging
+.. admonition:: Landsat 9: Continuing the Legacy Promo
+
     :class: admonition-youtube
 
-    ..  youtube:: sK3XiNGiWuU
+    ..  youtube:: k3biSynSBgo
 
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
+    `NASA Goddard on Youtube <https://www.youtube.com/watch?v=k3biSynSBgo>`_.
+
+.. admonition:: Introducing the Copernicus Data Space Ecosystem
+    :class: admonition-youtube
+
+    ..  youtube:: _1r7Ki4IaVA
+
+    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
