@@ -6,11 +6,12 @@ Was ist aktive Fernerkundung?
 
 Aktive Fernerkundung nutzt Sensoren, die selbst Strahlung aussenden und die Reflexion dieser Strahlung von der Erdoberfläche messen. 
 Beispiele für aktive Sensoren sind Radarsysteme und Lidar (Light Detection and Ranging). Vorteile der aktiven Fernerkundung gegenüber der passiven Fernerkundung:
+
 1. Unabhängigkeit von Lichtquellen: Aktive Sensoren können unabhängig von Tageszeit und Wetterbedingungen arbeiten, da sie ihre eigene Strahlung aussenden12.
 2. Durchdringung von Wolken und Vegetation: Radarsysteme können durch Wolken, Nebel und sogar dichte Vegetation hindurch "sehen", was in der passiven Fernerkundung oft nicht möglich ist12.
 3. Vielfältige Anwendungen: Sie werden in vielen Bereichen eingesetzt, darunter Ozeanographie, Glaziologie, Geologie und Hydrologie3.
 
-Spektrale Auflösung
+Spektrale Eigenschaften
 --------------
 
 Radar oder Lidar

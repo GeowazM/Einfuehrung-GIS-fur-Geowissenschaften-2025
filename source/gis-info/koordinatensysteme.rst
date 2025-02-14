@@ -3,6 +3,13 @@ Koordinatenbezugssysteme (KBS)
 
 Schlagworte: Koordinatenbezugssystem (KBS), Projektion, On-the-fly Projektion, Latitude, Longitude, Northing, Easting
 
+.. admonition:: Warum alle Weltkarten falsch sind | Terra X plus
+    :class: admonition-youtube
+
+    ..  youtube:: NAi3v33fVww
+
+    `Terra X plus on Youtube <https://www.youtube.com/watch?v=NAi3v33fVww>`_.
+
 Übersicht
 ========
 

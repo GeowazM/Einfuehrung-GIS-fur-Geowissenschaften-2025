@@ -26,3 +26,23 @@ https://portal.onegeology.org/OnegeologyGlobal/
 .. hint::
 
     `OneGeology.org <https://onegeology.org/>`_
+
+
+Geoinformation heute
+===================
+
+Zwei Dokumentationen für einen gemütlichen Abend...
+
+.. admonition:: Dokumentarfilm - Die Neuvermessung der Welt - Arte Doku 2016 HD
+    :class: admonition-youtube
+
+    ..  youtube:: XKpCgCIlGsk
+
+    arte @ `De Doku Akte on Youtube <https://www.youtube.com/watch?v=XKpCgCIlGsk>`_.
+
+.. admonition:: Vermessung der Erde: Von der Nebra-Scheibe bis zum GPS | Harald Lesch | Ganze Folge Terra X
+    :class: admonition-youtube
+
+    ..  youtube:: fAIhlgk5WQI
+
+    Terra X History @ `Terra X History on Youtube <https://www.youtube.com/watch?v=fAIhlgk5WQI>`_.

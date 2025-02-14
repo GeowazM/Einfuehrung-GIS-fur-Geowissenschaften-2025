@@ -6,6 +6,19 @@ Was ist Fernerkundung?
 
 Fernerkundung ist die Wissenschaft und Technik, Informationen über Objekte oder Phänomene auf der Erdoberfläche zu sammeln, ohne direkten Kontakt 
 mit ihnen zu haben. Dies geschieht hauptsächlich durch die Erfassung und Analyse von Daten, die von Satelliten, Flugzeugen oder Drohnen aufgenommen werden.
+Informationen zur DIN Norm können Sie `hier <https://www.dgpf.de/src/tagung/jt2017/proceedings/proceedings/papers/27_DGPF2017_Baltrusch_Reulke.pdf>`_ finden. 
+
+.. figure:: https://fe-lexikon.info/bild/active_passive_sensors.jpg
+   :alt: Active und passive Sensoren
+
+   Baldenhofer, K.G.: `Lexikon der Fernerkundung <https://fe-lexikon.info/Fernerkundung.htm>`_
+
+.. admonition:: 25 years of Copernicus
+    :class: admonition-youtube
+
+    ..  youtube:: vyoXKUuAf5E
+
+    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
 
 Was ist passive Fernerkundung?
 --------------
@@ -23,7 +36,14 @@ Sentinel-2
 Die Sentinel-2 Mission besteht aus zwei identischen Satelliten, die in einer sonnensynchronen Umlaufbahn operieren. 
 Sie liefern hochauflösende multispektrale Bilder mit einer Schwadbreite von 290 km und einer Wiederholrate von 5 Tagen am Äquator. 
 Die Satelliten sind mit einem optischen Instrument ausgestattet, das 13 Spektralbänder abdeckt, darunter vier Bänder mit 10 m, sechs Bänder mit 20 m und drei Bänder mit 60 m räumlicher Auflösung. 
-Diese Daten unterstützen Anwendungen in der Landüberwachung, Landwirtschaft, Notfallmanagement und mehr12.
+Diese Daten unterstützen Anwendungen in der Landüberwachung, Landwirtschaft, Notfallmanagement und mehr.
+
+.. admonition:: About Copernicus Sentinel-2C satellite - the latest edition to our satellite family
+    :class: admonition-youtube
+
+    ..  youtube:: q4suda015zA
+
+    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=q4suda015zA>`_.
 
 Landsat 8
 --------------
@@ -35,13 +55,6 @@ Schwadbreite von 185 km. Die Daten werden alle 16 Tage wiederholt erfasst.
 
  Videos zur Copernicus Mission, der US-Landsat-Reihe & dem ESA Datenportal CDSE
 -------------
-
-.. admonition:: 25 years of Copernicus
-    :class: admonition-youtube
-
-    ..  youtube:: vyoXKUuAf5E
-
-    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
 
 .. admonition:: Landsat 9: Continuing the Legacy
     :class: admonition-youtube

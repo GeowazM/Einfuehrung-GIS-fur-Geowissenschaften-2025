@@ -184,6 +184,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     
     lessons/L7/overview
     lessons/L7/exercise-7a
+    lessons/L7/exercise-7b
 
 .. toctree::
     :maxdepth: 2
@@ -191,7 +192,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
     lessons/L8/overview
     lessons/L8/exercise-8
-
 
 .. toctree::
     :maxdepth: 2
