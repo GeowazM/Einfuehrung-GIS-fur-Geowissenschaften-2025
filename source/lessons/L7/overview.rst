@@ -1,4 +1,4 @@
-Erdbeobachtungsdaten - Aktive Fernerkundung
+Aktive Fernerkundung
 ===============
 
 Was ist aktive Fernerkundung?
@@ -51,6 +51,13 @@ Ergebnisse der Mission:
 - Vollständige Vermessung der Landoberfläche der Erde (150 Millionen Quadratkilometer) zwischen 2011 und 2015.
 - Bereitstellung homogener und konsistenter Daten, die für viele kommerzielle Anwendungen und wissenschaftliche Fragestellungen genutzt werden können.
 
+.. admonition:: Ölerkennung mit Radarsatelliten
+    :class: admonition-youtube
+
+    ..  youtube:: PwEZuK-PkLM
+
+    German Aerospace Center, DLR @ `DLR on Youtube <https://www.youtube.com/watch?v=PwEZuK-PkLM>`_.
+
 Sentinel-1
 --------------
 
@@ -66,9 +73,9 @@ Ziele der Sentinel-1-Mission:
 - Regelmäßige Abdeckung: Die Satelliten bieten eine Wiederholrate von 6 bis 12 Tagen, je nach Anzahl der eingesetzten Satelliten.
 - Breite Anwendung: Die Daten werden weltweit für wissenschaftliche Forschung, Umweltüberwachung und kommerzielle Zwecke genutzt.
 
-.. admonition:: Introducing the Copernicus Data Space Ecosystem
+.. admonition:: About Copernicus Sentinel-1C satellite
     :class: admonition-youtube
 
-    ..  youtube:: _1r7Ki4IaVA
+    ..  youtube:: vt2QtlRymkY
 
-    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
+    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vt2QtlRymkY>`_.

@@ -1,4 +1,4 @@
-Erdbeobachtungsdaten - Passive Fernerkundung
+Passive Fernerkundung
 ===============
 
 Was ist Fernerkundung?
