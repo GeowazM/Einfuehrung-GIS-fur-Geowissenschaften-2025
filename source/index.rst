@@ -113,7 +113,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Wissenswertes
 
-    gis-info/intro
+    gis-info/was-ist-gis
     gis-info/koordinatensysteme
     gis-info/datenorganisation
     gis-info/hinweise

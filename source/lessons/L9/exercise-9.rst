@@ -3,7 +3,7 @@ Exercise 9
 
 .. note::
    
-      -  Workflows automatisiere
+      -  Workflows automatisieren
 
 .. hint::
 

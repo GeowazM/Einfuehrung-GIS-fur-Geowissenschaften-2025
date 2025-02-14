@@ -28,12 +28,12 @@ https://portal.onegeology.org/OnegeologyGlobal/
     `OneGeology.org <https://onegeology.org/>`_
 
 
-Geoinformation heute
+Geoinformation früher und heute
 ===================
 
 Zwei Dokumentationen für einen gemütlichen Abend...
 
-.. admonition:: Dokumentarfilm - Die Neuvermessung der Welt - Arte Doku 2016 HD
+.. admonition:: Dokumentarfilm - Die Neuvermessung der Welt - Arte Doku
     :class: admonition-youtube
 
     ..  youtube:: XKpCgCIlGsk
