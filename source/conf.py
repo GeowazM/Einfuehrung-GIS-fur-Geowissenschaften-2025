@@ -25,7 +25,7 @@ copyright = "2025"
 author = "Mario Blersch"
 
 # The short X.Y version
-version = "2024"
+version = "2025"
 # The full version, including alpha/beta/rc tags
 release = "site"
 

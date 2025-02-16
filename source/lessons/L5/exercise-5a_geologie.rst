@@ -1,4 +1,4 @@
-Exercise 5b
+Exercise 5a
 ========
 
 .. admonition:: Start your assignment
@@ -15,7 +15,7 @@ Exercise 5b
 .. seealso::
 
    Daten
-      - Ladet euch `die Daten herunter <exercise_05a_data.zip>`__ und
+      - Ladet euch `die Daten herunter <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_05b/exercise_05b_data.zip>`__ und
       - Speichert sie auf eurem PC
       - Legt einen lokalen Ordner an und
       - Speichert dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.)

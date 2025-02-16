@@ -113,7 +113,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Wissenswertes
 
-    gis-info/intro
+    gis-info/was-ist-gis
     gis-info/koordinatensysteme
     gis-info/datenorganisation
     gis-info/hinweise
@@ -159,31 +159,31 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Vektorgeometrien verarbeiten
 
-    lessons/L4/overview
     lessons/L4/exercise-4
+    lessons/L4/exercise-4_ahrweiler
 
 .. toctree::
     :maxdepth: 2
     :caption: Geodaten erfassen
 
-    lessons/L5/digitalisieren
-    lessons/L5/exercise-5a-iceland
     lessons/L5/georeferenzieren
-    lessons/L5/exercise-5b
-    lessons/L5/exercise-5
+    lessons/L5/exercise-5a_geologie
+    lessons/L5/digitalisieren
+    lessons/L5/exercise-5b-iceland
 
 .. toctree::
     :maxdepth: 2
     :caption: Rasterdaten verarbeiten
 
     lessons/L6/overview
-    lessons/L6/exercise-6
+    lessons/L6/exercise-6a
 
 .. toctree::
     :maxdepth: 2
     :caption: Digitale Geländemodelle nutzen
-
+    
     lessons/L7/overview
+    lessons/L7/exercise-7a
     lessons/L7/exercise-7b
 
 .. toctree::
@@ -192,7 +192,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
     lessons/L8/overview
     lessons/L8/exercise-8
-
 
 .. toctree::
     :maxdepth: 2

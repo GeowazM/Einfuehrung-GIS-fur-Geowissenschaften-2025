@@ -1,32 +1,45 @@
-Lesson overview
+Interpolation
 ===============
 
-This week we will introduce you to data visualization and some different modules that can be used to make data plots in Python.
-You can create simple plots directly from `pandas <http://pandas.pydata.org/>`__, for example, but in order to control many aspects of those plots we need to also know how to use the plotting module called `Matplotlib <http://matplotlib.org/>`__.
-Matplotlib is an extremely powerful and flexible plotting module, as you will see.
-
-Learning goals
+Räumliche Interpolation
 --------------
 
-After this weeks lesson your should be able to:
+Räumliche Interpolation bezieht sich auf die Schätzung von Werten an unbekannten geografischen Positionen, basierend auf bekannten Werten in benachbarten Positionen. 
+Dies ist besonders nützlich in der Geowissenschaft und Umweltforschung.
 
-- Make basic *x*-*y* plots of data using pandas/Matplotlib
-- Manipulate plot formatting
-- Create plots in Jupyter notebooks and/or save them as image files
+Nutzen der räumlichen Interpolation:
 
-Lesson videos
--------------
+1. Datenlücken füllen: Hilft dabei, fehlende Daten in geografischen Datensätzen zu ergänzen.
+2. Erstellung kontinuierlicher Flächen: Ermöglicht die Erstellung von Karten und Modellen, die kontinuierliche Flächen darstellen, wie z.B. Temperatur- oder Höhenkarten.
+3. Verbesserte Analyse: Unterstützt bei der Analyse und Visualisierung räumlicher Muster und Trends.
 
-.. admonition:: Lesson 7.1 - Plotting in Python using pandas/Matplotlib
-    :class: admonition-youtube
+Räumliche Interpolationsverfahren
+--------------
 
-    ..  youtube:: yNLo_sX-YQs
+Thiessen Polygone (Voronoi Diagramm)
 
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
+* erstellt Voronoi Diagramme anhand eines Punk-Layers
 
-.. admonition:: Lesson 7.2 - Creating subplots with pandas/Matplotlib
-    :class: admonition-youtube
+.. raw:: html
 
-    ..  youtube:: I6R0J6fi2PM
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_voronoi.mp4">
 
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
+.. raw:: html
+
+   </video>
+
+
+Inverse Distanzgewichtung (IDW)
+
+* Interpolation Attribut hinzufügen
+* Distance Coefficient –> Power
+* Extent angeben
+* Output Raster Size: ACHTUNG: wird in den Einheiten des Layers angegeben, sprich bei einer metrischen Projektion in Meter, im Beispiel nutzen wir 1000 m
+
+.. raw:: html
+
+   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/qgis-book/-/raw/main/uploads/QGIS/videos/qgis_idw.mp4">
+
+.. raw:: html
+
+   </video>

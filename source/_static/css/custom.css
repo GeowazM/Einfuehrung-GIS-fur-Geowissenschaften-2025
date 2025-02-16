@@ -15,3 +15,16 @@ div.admonition.admonition-youtube > .admonition-title:after {
   height: auto;
   content: "\f26c"; /* fa-solid fa-tv */
 }
+
+.toggle .header {
+  display: block;
+  clear: both;
+}
+
+.toggle .header:after {
+  content: " ▶";
+}
+
+.toggle .header.open:after {
+  content: " ▼";
+}

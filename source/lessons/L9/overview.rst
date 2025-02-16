@@ -1,32 +1,24 @@
-Lesson overview
+Automatisierung mit dem Model Builder
 ===============
 
-This week we will introduce you to data visualization and some different modules that can be used to make data plots in Python.
-You can create simple plots directly from `pandas <http://pandas.pydata.org/>`__, for example, but in order to control many aspects of those plots we need to also know how to use the plotting module called `Matplotlib <http://matplotlib.org/>`__.
-Matplotlib is an extremely powerful and flexible plotting module, as you will see.
+Der QGIS Model Builder, auch als Graphical Modeler bekannt, ist ein Werkzeug in QGIS, das es Benutzern ermöglicht, benutzerdefinierte Workflows für die 
+Verarbeitung und Analyse von Geodaten zu erstellen. Mit einer visuellen Oberfläche können bestehende QGIS-Tools und -Funktionen in einer benutzerdefinierten 
+Reihenfolge angeordnet und verbunden werden, um wiederholte oder komplexe Aufgaben zu automatisieren.
 
-Learning goals
---------------
+Vorteile des QGIS Model Builders
+-------------
+1. Automatisierung: Der Model Builder ermöglicht die Automatisierung von Arbeitsabläufen, wodurch wiederholte Aufgaben effizienter und konsistenter ausgeführt werden können.
+2. Benutzerfreundlichkeit: Die visuelle Oberfläche macht es einfach, komplexe Modelle zu erstellen, ohne dass umfangreiche Programmierkenntnisse erforderlich sind.
+3. **Reproduzierbarkeit**: Einmal erstellte Modelle können gespeichert und mit verschiedenen Datensätzen wiederverwendet werden, was Zeit und Aufwand spart.
+4. Fehlerreduktion: Durch die Automatisierung und Standardisierung von Prozessen werden menschliche Fehler minimiert.
+5. Flexibilität: Der Model Builder unterstützt eine Vielzahl von Eingaben und Algorithmen, sodass komplexe und maßgeschneiderte Analysen möglich sind.
 
-After this weeks lesson your should be able to:
-
-- Make basic *x*-*y* plots of data using pandas/Matplotlib
-- Manipulate plot formatting
-- Create plots in Jupyter notebooks and/or save them as image files
-
-Lesson videos
+Tutorial
 -------------
 
-.. admonition:: Lesson 7.1 - Plotting in Python using pandas/Matplotlib
+.. admonition:: QGIS Model Builder
     :class: admonition-youtube
 
-    ..  youtube:: yNLo_sX-YQs
+    ..  youtube:: eZb5VLTc9-o&t=306s
 
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
-
-.. admonition:: Lesson 7.2 - Creating subplots with pandas/Matplotlib
-    :class: admonition-youtube
-
-    ..  youtube:: I6R0J6fi2PM
-
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
+    `Geospatial School  on Youtube <https://www.youtube.com/watch?v=eZb5VLTc9-o&t=306s>`_
