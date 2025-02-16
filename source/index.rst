@@ -18,34 +18,34 @@ Der Kurs wurde in Kooperation mit der GIS-Station, der Pädagogischen Hochschule
 Lernziele
 ---------
 
--  Übertragung von Konzepten aus der Vorlesung in praktische Abläufe
--  Betrachtung des Workflows von GIS-Analysen (EVAP ohne Erhebung (E))
+-  Übertragung von Konzepten aus der Vorlesung in praktische Anwendung
+-  Betrachtung des Workflows von GIS-Analysen (EVAP nach ?))
+   -  **E**rhebung     
+   -  **V**erarbeitung
+   -  **A**nalyse 
+   -  **P**räsentation
 
-   -  Verarbeitung (V) - Geodatenmanagment
-   -  Analyse (A)
-   -  Präsentation (P) - Kartenerstellung
+-  Einführung in das Desktop GIS QGIS (open source)
 
--  Einführung in ein Desktop GIS-System: QGIS (open source)
-
-Überblick über den Ablauf und die Inhalte der Übungen
+Ablauf und Inhalte der Übungen
 -----------------------------------------------------
 
 Ablauf
 ~~~~~~
 
--  Die Übungen werden hier in Github bereitgestellt.
--  Die Inhalte der Übungen sollt ihr euch selbständig erarbeiten. Im `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__
+-  Die Übungen werden hier bereitgestellt.
+-  Die Inhalte der Übungen sollt ihr euch großteils selbständig erarbeiten. Im `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__
    findet ihr alle nötigen Informationen um Übungsaufgaben zu meistern.
    Hier findet ihr Kurzanleitungen, Tipps und Videos. Ein Dankeschön geht hier an die Ersteller:innen der Seite, an die GIScience Group der Uni Heidelberg & das HeiGIT.
 -  Beachtet: Aufgrund technischer Probleme mit dem Gitlab Wiki kann es vorkommen, dass einige Links nicht funktionieren.
--  Die Vorlesungsfolien wird euch per Mail zugeschickt.
+-  Die Vorlesungsfolien werden euch per Mail zugeschickt.
 -  Bei Fragen wendet euch direkt an mich oder schreibt per Mail (siehe Folien).
 
 Inhalte
 ~~~~~~~
 
 Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kommen. Ihr versteht **warum** eure Lösungen funkionieren und erhaltet eine
-Übersicht wie **GIS-Systeme** arbeiten. Die Übungen sind als praktische **Hands-On** Sessions gestaltet.
+Übersicht wie **GIS-Systeme funktionieren**. Die Übungen sind als praxisorientierte **Hands-On** Sessions gestaltet.
 
 +-------+------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+
 | Übung | Thema                  | Methode                                                                                                                                                            | Datentyp |
@@ -76,9 +76,9 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 --------------
 
 
-.. admonition:: Abschlussprojekt
+.. attention::
 
-    **WICHTIG:** Die Abgabe des Abschlussprojekts erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt inkl. allen relevanten Layern öffnen kann. 
+    **WICHTIG:** Die **Abgabe des Abschlussprojekts** erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt inkl. allen relevanten Layern öffnen kann. 
     Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
 
 
@@ -91,9 +91,9 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
 .. admonition:: Hilfe
 
-    Im Laude der Übungen werden euch typische Probleme von Geodaten QGIS-Software begegnen. Das Auftreten dieser Probleme ist i.d.R. beabsichtig. 
+    Im Laude der Übungen werden euch typische Probleme von Geodaten und GIS-Software begegnen. Das Auftreten dieser Probleme ist i.d.R. beabsichtig. 
     Lösungen, Herangehensweisen zu diesen Problemen besprechen wir in der Vorlesung und während der gesamten Kurswoche.
-    Online Hilfe findet ihr im Wiki des Geographischen Instituts der Uni Heidelberg.
+    Online Hilfe findet ihr im `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__ des Geographischen Instituts der Uni Heidelberg und ganz allgemein im Internet.
 
 .. admonition:: Hilfe
 
@@ -103,8 +103,8 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Kursinhalte
 
-    course-info/course-info
-    course-info/grading
+    course-info/kursinfo
+    course-info/abschlussaprojekt
     course-info/resources
     course-info/theteam
     course-info/licensing
