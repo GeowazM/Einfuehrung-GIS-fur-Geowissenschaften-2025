@@ -18,27 +18,6 @@ Wiki:
 -  `Attributdaten <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Attributdaten>`__
 -  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
 
-
-
-
-Lesson videos
--------------
-
-.. admonition:: Lesson 1.1 - Course introduction and computing basics
-    :class: admonition-youtube
-
-    ..  youtube:: T09uwbl42N8
-    
-    Kamyar Hasanzadeh & Dave Whipp, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
-
-Lecture slides
---------------
-
-.. admonition:: Lesson slides
-
-    `Slides for Lecture 1 (PDF) <../../_static/01-Computers-and-programs.pdf>`__
-
-
 Layer kennen lernen
 --------------
 
@@ -54,7 +33,7 @@ hello ARD 2
 
     <embed>
 
-        <iframe src="https://www.tagesschau.de/ausland/asien/erdbeben-tibet-102.html" width="auto"></iframe>
+        <iframe src="https://www.tagesschau.de/ausland/asien/erdbeben-tibet-102.html" width="auto">hi</iframe>
         
     </embed>
 

@@ -18,27 +18,25 @@ Exercise 3
 
 .. seealso::
 
-   In dieser Aufgabe lernt ihr neben der Selektion über Attribute auch verschiedene Wege der Geodatenbeschaffung kennen.
-   Dabei gibt es hier vier Wege:
-      * der Download einer Excel Tabelle, die Koordinaten beinhaltet - Vulkane des Holozäns
-      * der Download von Geodaten - Platten - & Plattengrenzen
-      * der Import eines Web Mapping Services (WMS) - World Settlement Footprint
-      * der Import eines Web Feature Services (WFS) - Vulkane des Holozäns
-
+   Daten
    Lade dir die `Daten für die Exercise 3 herunter <https://drive.google.com/drive/folders/1xKB8gI3v29XL_NEvdtLZcm6ugaeuyl2L?usp=sharing>`__ und speichert
    sie auf eurem PC. Legt einen lokalen Ordner (nicht auf einem Netzlaufwerk wie zum Beispiel “Q://Abgabe”) an und speichert dort die obigen Daten (.zip Ordner müssen vorher entpackt werden).
 
    Beschaffe dir folgende Daten:
-      * `Lade die XML Excel Datei hier <https://volcano.si.edu/volcanolist_holocene.cfm>`__ herunter
-      * `Lade dir die Geodaten der Platten- & Plattengrenzen <https://github.com/fraxen/tectonicplates>`__ herunter
-
-.. important::
+      - `Lade die XML Excel Datei hier <https://volcano.si.edu/volcanolist_holocene.cfm>`__ herunter
+      - `Lade dir die Geodaten der Platten- & Plattengrenzen <https://github.com/fraxen/tectonicplates>`__ herunter
 
    Quellen
-      *  Vulkane (Point) (`Global Volcanism Program (2024): Volcanoes of the World (v. 5.2.5; 23 Dec 2024). Distributed by Smithsonian Institution, compiled by Venzke, E., DOI: https://doi.org/10.5479/si.GVP.VOTW5-2024.5.2. <https://volcano.si.edu/gvp_votw.cfm>`__)
-      *  Platten- & Plattengrenzen (Linie) (`Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
-      *  World Admin 0 Countries (Polygon) (`Natural Earth Data <https://www.naturalearthdata.com/downloads/110m-cultural-vectors/>`__)
-      *  World Settlement Footrpint 2019 - DLR EOC (Raster) (`Marconcini et al. (2021): Understanding Current Trends in Global Urbanisation - The World Settlement Footprint Suite, DOI: 10.1553/giscience2021_01_s33. <https://geoservice.dlr.de/web/datasets/wsf_2019>`__)
+      -  Vulkane (Point) (`Global Volcanism Program (2024): Volcanoes of the World (v. 5.2.5; 23 Dec 2024). Distributed by Smithsonian Institution, compiled by Venzke, E., DOI: https://doi.org/10.5479/si.GVP.VOTW5-2024.5.2. <https://volcano.si.edu/gvp_votw.cfm>`__)
+      -  Platten- & Plattengrenzen (Linie) (`Hugo Ahlenius, Nordpil and Peter Bird basierend auf doi: 10.1029/2001GC000252 <https://github.com/fraxen/tectonicplates>`__)
+      -  World Admin 0 Countries (Polygon) (`Natural Earth Data <https://www.naturalearthdata.com/downloads/110m-cultural-vectors/>`__)
+      -  World Settlement Footrpint 2019 - DLR EOC (Raster) (`Marconcini et al. (2021): Understanding Current Trends in Global Urbanisation - The World Settlement Footprint Suite, DOI: 10.1553/giscience2021_01_s33. <https://geoservice.dlr.de/web/datasets/wsf_2019>`__)
+
+In dieser Aufgabe lernt ihr neben der Selektion über Attribute auch verschiedene Wege der Geodatenbeschaffung kennen. Dabei gibt es hier vier Wege:
+   * der Download einer Excel Tabelle, die Koordinaten beinhaltet - Vulkane des Holozäns
+   * der Download von Geodaten - Platten - & Plattengrenzen
+   * der Import eines Web Mapping Services (WMS) - World Settlement Footprint
+   * der Import eines Web Feature Services (WFS) - Vulkane des Holozäns
 
 Aufgaben
 --------

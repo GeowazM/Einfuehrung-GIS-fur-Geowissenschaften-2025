@@ -23,6 +23,10 @@ Exercise 4
 Aufgaben
 --------
 
+In deiner Heimatstadt wird das Thema Hochwasser diskutiert. Du möchtest sich einen ersten Eindruck verschaffen, welche Flächen 
+von einem Hochwasser betroffen wären und wie groß der Schaden an Gebäuden und Straßen sein würde. Da dir keine offiziellen Geodaten 
+zur Verfügung stehen beziehst du Volunteered Geographic Information (VGI) wie OpenStreetMap-Daten.
+
 Datenvorbereitung
 ~~~~~~~~~~~~~~~~~
 
