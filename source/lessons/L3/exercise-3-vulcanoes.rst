@@ -43,6 +43,9 @@ Exercise 3
 Aufgaben
 --------
 
+Von den Geodaten zu den Informationen. Ein EU Forschungsprojekt möchte herausfinden, wie viele Italiener:innen in der Nähe zu aktiven Vulkanen 
+leben und international vergleichen. Nutze die dafür die Daten des Global Volcanism Program.
+
 1. Öffne die oben angegebenen Dateien in QGIS.
 2. Wähle in der Benutzeroberfläche 3 Vulkane deiner Wahl (manuell) aus. Öffne nun die Attributtabelle und lass dir die Informationen für die
    ausgewählten Vulkane (Features) anzeigen. Speichere die ausgewählten Features anschließend in einer neuen Datei (Layer).

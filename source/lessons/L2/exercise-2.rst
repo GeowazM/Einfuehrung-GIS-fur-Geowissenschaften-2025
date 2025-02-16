@@ -23,6 +23,8 @@ Exercise 2
 Aufgaben
 --------
 
+Für deine Bachelor-Arbeit willst du eine einfach Karte erstellen, die einen Überblick zu deinen relevanten Daten liefert.
+
 1. Öffne die oben angegebenen Dateien in QGIS.
 2. Wähle für das Punkt-Layer eine passende Symbologie.
 3. Ändere das Koordinatenbezugssystem (Projektion) eurer Ansicht auf ein für Deutschland passenderes.

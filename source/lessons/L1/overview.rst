@@ -1,14 +1,5 @@
-Ziel & Hintergrund
+Ziel
 ===============
-
-In this lesson we will have our first taste of programming in Python.
-In order to start learning Python, however, we need to introduce you how we will work during the course using different tools including a dedicated computing environment, which is based on the principles of `cloud computing <https://en.wikipedia.org/wiki/Cloud_computing>`__.
-This first tutorial will introduce you to the basic components of the course environment, guide you through how they are used, and conclude with a hands-on introduction to some key concepts and elements of programming in Python.
-The main components of today's lesson can be found in the navigation bar to the left.
-
-.. note::
-
-    There is a lot of material here but don't worry, you will become familiar with all of these things once we start working in practice.
 
 Ziel der Übung
 --------------
@@ -28,14 +19,7 @@ Wiki:
 -  `Projektionen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Projektionen>`__
 
 
-hello ARD 2
----------------
 
-.. raw:: html
-
-    <embed>
-        <iframe src="https://www.tagesschau.de/ausland/asien/erdbeben-tibet-102.html" width="auto"></iframe>
-    </embed>
 
 Lesson videos
 -------------
@@ -63,22 +47,15 @@ Layer kennen lernen
 -  Vektor-Daten in einem GIS anzeigen und die Attributdaten einsehen.
 -  Vektor-Daten umprojizieren (d.h. die Projektion der Daten ändern).
 
-hello ARD
----------------
-
-.. raw:: html
-
-    <embed>
-        <iframe src="https://www.tagesschau.de/multimedia/video/video-1419972~player.html" width="512" height="288" allowfullscreen frameBorder="0" scrolling="no"></iframe>
-    </embed>
-
 hello ARD 2
 ---------------
 
 .. raw:: html
 
     <embed>
+
         <iframe src="https://www.tagesschau.de/ausland/asien/erdbeben-tibet-102.html" width="auto"></iframe>
+        
     </embed>
 
 
@@ -88,5 +65,7 @@ hello WebMap
 .. raw:: html
 
     <embed>
+
         <iframe src="http://earthquakes.terragis.space" width="512" height="288"></iframe>
+
     </embed>
