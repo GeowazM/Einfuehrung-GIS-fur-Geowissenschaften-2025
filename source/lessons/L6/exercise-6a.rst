@@ -30,7 +30,7 @@ Exercise 6
 Aufgaben
 ==========
 
-Aufgabe 1
+Aufgabe 1 - ⛰ 
 --------
 
 ⛰ Arbeiten mit Geländemodellen
@@ -41,7 +41,7 @@ Aufgabe 1
 4. Berechnet aus dem ASTER-Höhenmodell Konturlinien 100 Meter Schritten.
 5. Berechnet ein Hillshade (dt. Schummerung).
 
-Aufgabe 2
+Aufgabe 2 - 🛰
 --------
 
 🛰 Arbeiten mit Landsat 8 Daten
@@ -81,16 +81,4 @@ Aufgabe 3
 .. figure:: https://raw.githubusercontent.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/refs/heads/main/exercise_06/qgisthreejs.jpg
    :alt: 3D Model
 
-   Quelle: 3D Model erstellt mit qgisthreejs
-
-Aufgabe 4 - Optional
---------
-
-In den Daten findet ihr eine Landsat 9 Satellitenbildaufnahme, die am 17.07.2023 aufgenommen wurde. Wir wollen herausfinden, wie groß die von Lava überflossene Fläche ist.
-
-1. Erstellt zwei neue Layer: Einen für (a) die Lavafläche und einen zweiten (b) für Straßen. Fügt zu jedem Layer ein Attribute "Name" hinzu.
-2. Nutze als Kartierungsgrundlage die Landsat 9 Aufnahme in den Daten und eine Hintergrundkarte auf Basis von Satellitendaten (z.B. Bing, OSM). Diese könnt ihr mit Hilfe des Plugins QuickMapServices in QGIS einbinden. Was ist der UNterschied zwischen Bing Satellite und der Landsat-9 Aufnahme?
-3. Digitalisiere die Fläche des Eruptionsereignissen ab. Digitalisiere ebenfalls die Straße von Reykjavik nach Grindavik inkl. deren Kennzeichnung ab.
-4. Füge zu jedem Feature den passenden Namen hinzu.
-5. Berechne die Fläche der von dir digitalisierten Lavafläche. Wie viel km² sind es?
-6. Optional: Füge zur von dir bestimmten Lavafläche einen Hyperlink zu weiteren Informationen (bspw. siehe unten) hinzu.
+   3D Model erstellt mit qgisthreejs
