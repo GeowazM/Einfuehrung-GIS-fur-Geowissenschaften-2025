@@ -1,4 +1,4 @@
-Automatisierung mit dem Model Builder
+Automatisierung - der Model Builder
 ===============
 
 Der QGIS Model Builder, auch als Graphical Modeler bekannt, ist ein Werkzeug in QGIS, das es Benutzern ermöglicht, benutzerdefinierte Workflows für die 

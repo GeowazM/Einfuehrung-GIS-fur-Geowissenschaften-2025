@@ -18,33 +18,26 @@ Exercise 7 - Optional
 
    OGC-Standards
 
-      OGC-Standards: Die Open Geospatial Consortium (OGC) Standards sind international anerkannte Spezifikationen, die den Austausch von geospatialen Informationen zwischen 
-      verschiedenen Systemen ermöglichen1. Diese Standards decken verschiedene Bereiche ab, wie z.B. Datenentdeckung, Organisation, Zugriff, Verarbeitung, Visualisierung und Entdeckung. 
+   Die Open Geospatial Consortium (OGC) Standards sind international anerkannte Spezifikationen, die den Austausch von geospatialen Informationen zwischen 
+   verschiedenen Systemen ermöglichen1. Diese Standards decken verschiedene Bereiche ab, wie z.B. Datenentdeckung, Organisation, Zugriff, Verarbeitung, Visualisierung und Entdeckung. 
 
-      WMS (Web Map Service): Ein Web Map Service (WMS) ist ein Standardprotokoll, das von der OGC entwickelt wurde, um georeferenzierte Kartenbilder über das Internet 
-      bereitzustellen. WMS-Dienste bieten verschiedene Anfragetypen:
+   WMS (Web Map Service): Ein Web Map Service (WMS) ist ein Standardprotokoll, das von der OGC entwickelt wurde, um georeferenzierte Kartenbilder über das Internet 
+   bereitzustellen. WMS-Dienste bieten verschiedene Anfragetypen:
 
-      - GetCapabilities: Liefert Metadaten über den WMS-Dienst, wie z.B. verfügbare Layer, unterstützte Bildformate und Koordinatensysteme
-      - GetMap: Liefert ein Kartenbild basierend auf den angegebenen Parametern wie Breite, Höhe, Koordinatensystem und Bildformat
-      - GetFeatureInfo: (optional) Liefert Informationen über bestimmte Punkte auf der Karte, wenn der Layer als 'abfragbar' markiert ist
+   - GetCapabilities: Liefert Metadaten über den WMS-Dienst, wie z.B. verfügbare Layer, unterstützte Bildformate und Koordinatensysteme
+   - GetMap: Liefert ein Kartenbild basierend auf den angegebenen Parametern wie Breite, Höhe, Koordinatensystem und Bildformat
+   - GetFeatureInfo: (optional) Liefert Informationen über bestimmte Punkte auf der Karte, wenn der Layer als 'abfragbar' markiert ist
 
-      Quelle: `OGC.org <https://www.ogc.org/de/publications/standard/wms/>`__
+   Quelle: `OGC.org <https://www.ogc.org/de/publications/standard/wms/>`__
 
-      Als Alternative zu einem WMS-Layer werden häufig WMTS-Layer bereitgestell: 
-      Da WMTS vorgerenderte Kacheln verwendet, sind die Antwortzeiten sehr kurz. Die Kacheln können auf dem Server und Client zwischengespeichert werden, was die Ladezeiten erheblich reduziert.
-      Quelle `Weichand, J. (2014): Moderne Geodatenbereitstellung im Kontext der europäischen Geodateninfrastruktur INSPIRE. FOSSGIS 2014. <https://www.weichand.de/download/fossgis_2014_Weichand_INSPIRE-Netzdienste.pdf>`__
-
-.. raw:: html
-
-   <details>
-     <summary>Titel des Dropdowns</summary>
-
-     <p>Inhalt des Dropdowns. Dieser Text wird angezeigt, wenn das Dropdown geöffnet wird.</p>
-     
-   </details>
+   Als Alternative zu einem WMS-Layer werden häufig WMTS-Layer bereitgestell: 
+   Da WMTS vorgerenderte Kacheln verwendet, sind die Antwortzeiten sehr kurz. Die Kacheln können auf dem Server und Client zwischengespeichert werden, was die Ladezeiten erheblich reduziert.
+   Quelle `Weichand, J. (2014): Moderne Geodatenbereitstellung im Kontext der europäischen Geodateninfrastruktur INSPIRE. FOSSGIS 2014. <https://www.weichand.de/download/fossgis_2014_Weichand_INSPIRE-Netzdienste.pdf>`__
 
 
-Aufgabe 1 - WMS-Layer hinzufügen
+
+
+🗺 Aufgabe 1 - WMS-Layer hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Füge einen WMS-Layer der `Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) <https://www.bgr.bund.de/DE/Home/homepage_node.html>`__ hinzu
@@ -95,11 +88,20 @@ Aufgabe 1 - WMS-Layer hinzufügen
       </details>
 
 
+.. raw:: html
 
-Aufgabe 2 - Das Relief analysieren und visualisieren
+   <details>
+     <summary>Lösung</summary>
+
+     <p><a href="https://services.bgr.de/wms/inspire_ge/guek250/?REQUEST=GetCapabilities&SERVICE=wms&VERSION=1.3.0">Der WMS-Layer liegt als XML Datei vor</a></p>
+     <p>Link:https://services.bgr.de/wms/inspire_ge/guek250/?REQUEST=GetCapabilities&SERVICE=wms&VERSION=1.3.0</p>
+
+   </details>
+
+🧮 Aufgabe 2 - Das Relief analysieren und visualisieren
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Aufgabe 2a - Visualisieren
+Aufgabe 2 a - Visualisieren
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  Berechnet eine Schummerung (via **Hillshade**) für das Geländemodell. Tipp: Nutze die Processing - Toolbox, um Funktionen zu finden.
@@ -107,7 +109,7 @@ Aufgabe 2a - Visualisieren
 -  Schiebe das Höhenmodell-Layer (DEM) über den Hillshade-Layer und setze die Transparenz des DEMs auf 70% (**Transparency - Global Opacity**).
 -  Ermittelt die Hangneigung in ° (via **Slope**). Diese kann eine Visualisierung ebenfalls aufwerten.
 
-Aufgabe 2b - Analysieren
+Aufgabe 2 b - Analysieren
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 -  Selektiert besonders steile Regionen (>20°) (nutzt dazu das **Reclassify Tool**)

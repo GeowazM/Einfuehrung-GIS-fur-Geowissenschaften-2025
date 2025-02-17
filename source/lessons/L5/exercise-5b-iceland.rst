@@ -1,4 +1,4 @@
-Exercise 5b
+Exercise 5 b
 ==========
 
 .. note::

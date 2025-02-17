@@ -26,9 +26,31 @@ Was ist passive Fernerkundung?
 Passive Fernerkundung nutzt Sensoren, die die natürliche Strahlung der Erde erfassen. Diese Strahlung kann entweder von der Sonne reflektiert oder von der Erdoberfläche selbst emittiert werden. 
 Beispiele für passive Sensoren sind Multispektralkameras und Wärmebildkameras. Passive Sensoren benötigen keine eigene Energiequelle zur Aussendung von Strahlung, da sie die vorhandene Strahlung nutzen.
 
+Anwedungsbeispiele
+--------------
+Beispiele für den Einsatz der Fernerkundung findest du bei den `Sentinel Success Stories <https://sentinel.esa.int/web/success-stories/list>`_
 
-Wichtige Erdbeobachtungsmissionen
+
+Wichtige passive Erdbeobachtungsmissionen
 ===============
+
+Landsat 8 & 9
+--------------
+
+Landsat 8, gestartet im Jahr 2013, ist mit zwei Hauptinstrumenten ausgestattet: dem Operational Land Imager (OLI) und dem Thermal Infrared Sensor (TIRS). 
+OLI erfasst Daten in neun Spektralbändern, einschließlich eines panchromatischen Bands mit 15 m Auflösung, während TIRS die Landoberflächentemperatur in 
+zwei thermischen Bändern misst. Landsat 8 bietet eine räumliche Auflösung von 30 m für multispektrale und 100 m für thermische Daten und hat eine 
+Schwadbreite von 185 km. Die Daten werden alle 16 Tage wiederholt erfasst.
+
+Das Landsat Programm läuft seit 1972 und über den USGS EarthExplorer können Fernerkundungsdaten bis in diese Zeit zurück bezogen werden. Der Landsat 9 ist der aktuelleste 
+Satellite dieser Serie und führt die Landsat Legacy fort.
+
+.. admonition:: Landsat 9: Continuing the Legacy
+    :class: admonition-youtube
+
+    ..  youtube:: k3biSynSBgo
+
+    `NASA Goddard on Youtube <https://www.youtube.com/watch?v=k3biSynSBgo>`_.
 
 Sentinel-2
 --------------
@@ -45,23 +67,8 @@ Diese Daten unterstützen Anwendungen in der Landüberwachung, Landwirtschaft, N
 
     European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=q4suda015zA>`_.
 
-Landsat 8
---------------
-
-Landsat 8, gestartet im Jahr 2013, ist mit zwei Hauptinstrumenten ausgestattet: dem Operational Land Imager (OLI) und dem Thermal Infrared Sensor (TIRS). 
-OLI erfasst Daten in neun Spektralbändern, einschließlich eines panchromatischen Bands mit 15 m Auflösung, während TIRS die Landoberflächentemperatur in 
-zwei thermischen Bändern misst. Landsat 8 bietet eine räumliche Auflösung von 30 m für multispektrale und 100 m für thermische Daten und hat eine 
-Schwadbreite von 185 km. Die Daten werden alle 16 Tage wiederholt erfasst.
-
- Videos zur Copernicus Mission, der US-Landsat-Reihe & dem ESA Datenportal CDSE
--------------
-
-.. admonition:: Landsat 9: Continuing the Legacy
-    :class: admonition-youtube
-
-    ..  youtube:: k3biSynSBgo
-
-    `NASA Goddard on Youtube <https://www.youtube.com/watch?v=k3biSynSBgo>`_.
+Wie funktioniert Fernerkundung?
+===============
 
 Elektromagnetische Strahlung
 --------------

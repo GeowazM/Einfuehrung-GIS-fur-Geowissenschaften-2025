@@ -1,39 +1,31 @@
 Exercise 7
 ========
 
+Kontext
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `UNESCO Geopark <https://www.geopark-ries.de/geologie/>`_
+- `Geologie Nördlinger Ries <https://www.geopark-ries.de/geologie/>`_
+
 Das **Nördlinger Ries** ist geologisch bemerkenswert, weil es sich um einen der **am besten erhaltenen großen Impaktkrater der Erde** handelt. 
-Hier sind einige der geologischen Besonderheiten:
 
-Entstehung durch Asteroideneinschlag:
 Das Nördlinger Ries entstand vor etwa 14,6 Millionen Jahren durch den Einschlag eines Asteroiden. Dieser Einschlag wird als Ries-Ereignis bezeichnet und 
-führte zur Bildung eines nahezu kreisförmigen Kraters mit einem Durchmesser von etwa ? bis ? Kilometern.
-
-Suevit:
-Im Ries findet man Suevit, ein Gestein, das durch den Einschlag entstanden ist. Suevit besteht aus einer Mischung von geschmolzenem und zertrümmertem Material und 
-ist ein typisches Merkmal von Impaktkratern.
-
-Geologische Vielfalt:
-Das Gebiet weist eine Vielzahl von geologischen Aufschlüssen und Steinbrüchen auf, die wertvolle Einblicke in die geologische Geschichte und die 
-Auswirkungen des Einschlags bieten2. Rund 150 dieser geologischen Besonderheiten sind im UNESCO Global Geopark Ries zu finden.
-
-Kristalliner Ring:
-Im Inneren des Kraters befindet sich eine ringförmige Hügelkette, die als Kristalliner Ring bezeichnet wird. Diese Struktur unterscheidet das Nördlinger Ries von einfacheren, 
-schüsselförmigen Kratern und ist ein weiteres Indiz für die komplexen Prozesse, die beim Einschlag abliefen.
-
-Moldavite:
+führte zur Bildung eines nahezu kreisförmigen Kraters mit einem Durchmesser von etwa ? bis ? Kilometern. mIm Ries findet man Suevit, das durch den Einschlag entstanden ist. 
+Suevit besteht aus einer Mischung von geschmolzenem und zertrümmertem Material und ist ein typisches Merkmal von Impaktkratern. 
+Rund 150 dieser geologischen Besonderheiten sind im UNESCO Global Geopark Ries zu finden. Im Inneren des Kraters befindet sich eine ringförmige Hügelkette, 
+die als Kristalliner Ring bezeichnet wird. Diese Struktur unterscheidet das Nördlinger Ries von einfacheren, schüsselförmigen Kratern und ist ein weiteres Indiz für die komplexen Prozesse, die beim Einschlag abliefen.
 Der Einschlag führte zur Bildung von Moldaviten, glasartigen Tektiten, die durch die Hitze des Einschlags entstanden und über weite Teile Mitteleuropas verstreut wurden.
 
+In dieser Aufgabe schauen wir uns das Nördlinger Ries an. Verschaffe dir einen ersten Eindruck über den UNESCO Global Geopark Ries `hier <https://www.geopark-ries.de/geologie/>`__. Ein kleines Video zu
+den Besonderheiten des Nördlinger Ries findet ihr `hier <https://www.youtube.com/watch?v=YPRzwbnE6kI>`__. 
+
 .. admonition:: Wie verheerend ist ein Asteroideneinschlag?
+
     :class: admonition-youtube
 
     ..  youtube:: 68qyJR8P5TI
 
-   Terra X History @ `DLR on Youtube <https://www.youtube.com/watch?v=68qyJR8P5TI>`_.
-
-Weitere Informationen zu Nördlinger Ries
---------------
-- `UNESCO Geopark <https://www.geopark-ries.de/geologie/>`_
-- `Geologie Nördlinger Ries <https://www.geopark-ries.de/geologie/>`_
+   `Terra X History on Youtube <https://www.youtube.com/watch?v=68qyJR8P5TI>`_.
 
 .. note::
    
@@ -63,13 +55,10 @@ Weitere Informationen zu Nördlinger Ries
 Aufgaben
 --------
 
-In dieser Aufgabe schauen wir uns das Nördlinger Ries an. Verschaffe dir einen ersten Eindruck über den UNESCO Global Geopark Ries `hier <https://www.geopark-ries.de/geologie/>`__. Ein kleines Video zu
-den Besonderheiten des Nördlinger Ries findet ihr `hier <https://www.youtube.com/watch?v=YPRzwbnE6kI>`__. 
-
-Aufgabe 1:
+⛰ Aufgabe 1 - Digital Elevation Model (DEM)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Vorbereitung des DEM (Digital Elevation Model) 
+Vorbereitung des DEM's 
 
 * Verschmelzt die SRTM-Kacheln (SRTMGL1) miteinander (z.B. via **Merge**). 
 * Bringt das Höhenmodell in eine passende **metrische Projektion** (z.B. ETRS 89 / UTM 32N). 
@@ -77,7 +66,7 @@ Vorbereitung des DEM (Digital Elevation Model)
 * Ladet euch mit Hilfe von *QuickMapServices* eine *OSM Standard* Hintergrundkarte (**Basemap**) in euer Projekt. Wo befindet sich unser Untersuchungsgebiet?
 * Nutze das Mess-Tool, um die Nord-Süd-Distanz des Kraters auszumessen. Wie Breit ist der Kraterrand (circa)?
 
-Aufgabe 2: Ein Höhenprofil erstellen
+〰 Aufgabe 2 - Ein Höhenprofil erstellen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Vorsicht: Plugins können etwas undurchsichtig sein. Achtet auf die einzelnen Schritte des Erklärvideos. Kleinigkeiten können hier entscheidend sein.

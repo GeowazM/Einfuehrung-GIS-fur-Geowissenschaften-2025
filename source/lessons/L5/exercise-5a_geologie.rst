@@ -1,4 +1,4 @@
-Exercise 5a
+Exercise 5 a
 ========
 
 .. admonition:: Start your assignment
