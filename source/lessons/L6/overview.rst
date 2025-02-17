@@ -13,13 +13,6 @@ Informationen zur DIN Norm können Sie `hier <https://www.dgpf.de/src/tagung/jt2
 
    Baldenhofer, K.G.: `Lexikon der Fernerkundung <https://fe-lexikon.info/Fernerkundung.htm>`_
 
-.. admonition:: 25 years of Copernicus
-    :class: admonition-youtube
-
-    ..  youtube:: vyoXKUuAf5E
-
-    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_.
-
 Was ist passive Fernerkundung?
 --------------
 
@@ -50,7 +43,7 @@ Satellite dieser Serie und führt die Landsat Legacy fort.
 
     ..  youtube:: k3biSynSBgo
 
-    `NASA Goddard on Youtube <https://www.youtube.com/watch?v=k3biSynSBgo>`_.
+    `NASA Goddard on Youtube <https://www.youtube.com/watch?v=k3biSynSBgo>`_
 
 Sentinel-2
 --------------
@@ -60,12 +53,12 @@ Sie liefern hochauflösende multispektrale Bilder mit einer Schwadbreite von 290
 Die Satelliten sind mit einem optischen Instrument ausgestattet, das 13 Spektralbänder abdeckt, darunter vier Bänder mit 10 m, sechs Bänder mit 20 m und drei Bänder mit 60 m räumlicher Auflösung. 
 Diese Daten unterstützen Anwendungen in der Landüberwachung, Landwirtschaft, Notfallmanagement und mehr.
 
-.. admonition:: About Copernicus Sentinel-2C satellite - the latest edition to our satellite family
+.. admonition:: 25 years of Copernicus
     :class: admonition-youtube
 
-    ..  youtube:: q4suda015zA
+    ..  youtube:: vyoXKUuAf5E
 
-    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=q4suda015zA>`_.
+    European Space Agency @ `ESA on Youtube <https://www.youtube.com/watch?v=vyoXKUuAf5E>`_
 
 Wie funktioniert Fernerkundung?
 ===============

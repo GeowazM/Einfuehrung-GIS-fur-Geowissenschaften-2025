@@ -19,7 +19,8 @@ Lernziele
 ---------
 
 -  Übertragung von Konzepten aus der Vorlesung in praktische Anwendung
--  Betrachtung des Workflows von GIS-Analysen (EVAP nach ?))
+-  Betrachtung des Workflows von GIS-Analysen (EVAP nach ?)
+
    -  **E**rhebung     
    -  **V**erarbeitung
    -  **A**nalyse 

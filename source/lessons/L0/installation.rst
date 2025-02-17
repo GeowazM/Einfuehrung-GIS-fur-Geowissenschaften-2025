@@ -1,4 +1,4 @@
-💻 Installation
+Installation
 ===============
 
 -  Installation
@@ -65,12 +65,12 @@ Apple menu -> About This Mac
 
 
 
-.. admonition:: QGIS Installation
+.. admonition:: QGIS installieren
     :class: admonition-youtube
 
-    ..  youtube:: pja_EX0tVZA
+    ..  youtube:: jXf1EI2GuVE
 
-    @ `Hans van der Kwast channel on Youtube <https://www.youtube.com/@HansvanderKwast>`_.
+    `Geodata Academy <https://www.youtube.com/watch?v=jXf1EI2GuVE>`_.
 
 
 Older version
