@@ -16,8 +16,21 @@ Exercise 7 - Optional
 
 OGC-Standards
 -------------
+OGC-Standards: Die Open Geospatial Consortium (OGC) Standards sind international anerkannte Spezifikationen, die den Austausch von geospatialen Informationen zwischen 
+verschiedenen Systemen ermöglichen1. Diese Standards decken verschiedene Bereiche ab, wie z.B. Datenentdeckung, Organisation, Zugriff, Verarbeitung, Visualisierung und Entdeckung. 
 
+WMS (Web Map Service): Ein Web Map Service (WMS) ist ein Standardprotokoll, das von der OGC entwickelt wurde, um georeferenzierte Kartenbilder über das Internet 
+bereitzustellen. WMS-Dienste bieten verschiedene Anfragetypen:
 
+- GetCapabilities: Liefert Metadaten über den WMS-Dienst, wie z.B. verfügbare Layer, unterstützte Bildformate und Koordinatensysteme
+- GetMap: Liefert ein Kartenbild basierend auf den angegebenen Parametern wie Breite, Höhe, Koordinatensystem und Bildformat
+- GetFeatureInfo: (optional) Liefert Informationen über bestimmte Punkte auf der Karte, wenn der Layer als 'abfragbar' markiert ist
+
+Quelle: `OGC.org <https://www.ogc.org/de/publications/standard/wms/>`__
+
+Als Alternative zu einem WMS-Layer werden häufig WMTS-Layer bereitgestell: 
+Da WMTS vorgerenderte Kacheln verwendet, sind die Antwortzeiten sehr kurz. Die Kacheln können auf dem Server und Client zwischengespeichert werden, was die Ladezeiten erheblich reduziert
+Quelle: `Weichand, J. (2014): Moderne Geodatenbereitstellung im Kontext der europäischen Geodateninfrastruktur INSPIRE. FOSSGIS 2014 <https://www.weichand.de/download/fossgis_2014_Weichand_INSPIRE-Netzdienste.pdf>`__
 
 Aufgabe 1: WMS-Layer hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
