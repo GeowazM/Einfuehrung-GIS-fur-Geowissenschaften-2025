@@ -15,7 +15,7 @@
 .. seealso::
 
    Daten
-      - Lade dir `die Daten herunter <exercise_08_data_new.zip>`__ und speichert sie auf eurem PC. Lege einen lokalen Ordner an und speichere dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.) 
+      - Lade dir `die Daten herunter <https://drive.google.com/file/d/1LRswuG792SCZF1e50aCnRTwc5VMiyN0K/view?usp=drive_link>`__ und speichert sie auf eurem PC. Lege einen lokalen Ordner an und speichere dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.) 
       - Höhenmodell - germany_dem.tif (Quelle: `GTOPO30 USGS <https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-global-30-arc-second-elevation-gtopo30?qt-science_center_objects=0#qt-science_center_objects>`__)
       - Messstationen `DWD <%5Bhttps://www.geo.fu-berlin.de/en/v/soga/Geodata-analysis/geostatistics/Data-sets-used/DWD-weather-data-Germany/index.html%5D(https://www.dwd.de/DE/leistungen/cdc/climate-data-center.html;jsessionid=19070115479E2AED22A5D5D622F8CA58.live31083?nn=17626)>`__
 

@@ -22,7 +22,7 @@ Exercise 6
 .. seealso::
 
    Daten
-      - Ladet euch die `Daten herunter <https://drive.google.com/file/d/1dlhFX5jOUJlZ0bNdei4iQWQ6xCXnkDTh/view?usp=drive_link>`__ und speichert sie auf eurem PC (.zip Ordner nach dem Download entzippen).
+      - Ladet euch die `Daten herunter <https://drive.google.com/file/d/1-HAi07UMHeHFqQSgDtZRzKLDA8SULBk6/view?usp=drive_link>`__ und speichert sie auf eurem PC (.zip Ordner nach dem Download entzippen).
       - Landsat 8 data (Source: Landsat-8 image courtesy of the U.S. Geological Survey; Downloaded via `EarthExplorer <https://earthexplorer.usgs.gov/>`__)
       - Shuttle Radar Topography Mission (SRTM) (Source: `NASA <https://www.usgs.gov/index.php/centers/eros/science/usgs-eros-archive-digital-elevation-srtm-mission-summary#:~:text=The%20objective%20of%20this%20project%20is%20to%20produce,1-arc-second%20%28approximately%2030%20meters%29%20on%20a%20latitude%2Flongitude%20grid.>`__)
 
@@ -66,7 +66,7 @@ Arbeiten mit Landsat 8 Daten
 
 * Stellt die Klassen farblich sinnvoll dar.
 
-🗻 Aufgabe 3
+🗻 Aufgabe 3 - Optional
 --------
 
 3D Visualisierung erstellen
