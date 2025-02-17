@@ -1,5 +1,7 @@
-Nördlinger Ries
+Das Nördlinger Ries
 ===============
+
+Hier findest du einige Informationen zum Nördlinger Ries
 
 UNESCO Geopark
 --------------

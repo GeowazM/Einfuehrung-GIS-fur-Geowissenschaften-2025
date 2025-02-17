@@ -183,7 +183,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Digitale Geländemodelle nutzen
     
     lessons/L7/overview
-    lessons/L7/overview_2
     lessons/L7/exercise-7b
     lessons/L7/exercise-7b_additional
 
