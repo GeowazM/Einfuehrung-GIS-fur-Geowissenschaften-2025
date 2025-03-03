@@ -20,7 +20,7 @@ Aufgaben
    vertraut und erstellt eine geeigntete Ordnerstruktur, mit der ihr in den kommenden Tagen und darüber hinaus arbeiten könnt.
 
 4. Informiert euch über verschiedene `Geodatenformate <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Geodatenformate>`__.
-   Ladet danach die `Daten für Exercise 0 <exercise_0_data.zip>`__ herunter und speichert sie an geeigneter Stelle in eurem neu
+   Ladet danach die `Daten für Exercise 0 <https://drive.google.com/file/d/1fSi4GL1KClNT5_pC--gqlhL_8KQeMyVj/view?usp=sharing>`__ herunter und speichert sie an geeigneter Stelle in eurem neu
    erstellten Ordnersystem (Zip-Ordner müssen nach dem Speichern und vor dem Hereinladen ins GIS entpackt werden). In welchem Datenformat liegen die Daten zu Exercise 0 vor?
 
 5. Öffnet QGIS und nehmt erste `Einstellungen <https://geopython-gdm.readthedocs.io/de/latest/gis-info/einstellungen.html>`__ in eurem GIS nach den Empfehlungen im Wiki vor (ändert zum Beispiel die Sprache).
