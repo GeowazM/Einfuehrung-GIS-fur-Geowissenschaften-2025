@@ -55,24 +55,3 @@ Ein QGIS-Projekt anlegen, Layer hinzufügen und speichern.
    :width: 800px
 
    Layer in QGIS zeigen Platten, Plattengrenzen & Erdbeben
-
-
-Optionale Aufgabe
---------
-
-.. tip::
-
-    Du bist früher fertig als angedacht? Dann versuche die obigen Geodaten selbstständig herunterzuladen.
-
-
-Die aktuellen Erdbebendaten findest du bei `United State Geological Suvey (USGS) <https://earthquake.usgs.gov/earthquakes/map/?extent=3.86425,-135.08789&extent=61.93895,-54.93164>`__
-Die Platten und PLattengrenzen findest du bei `Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252) <https://github.com/fraxen/tectonicplates>`__)
-    
-**Lade die Geodaten selbstständig herunter & importiere diese in dein QGIS Projekt!**.
-
-**So (oder ähnlich) kann es am Ende aussehen**
-
-.. figure:: https://raw.githubusercontent.com/fraxen/tectonicplates/master/example_plates.png
-   :alt: Beispielkarte der Platten und der Plattengrenzen
-
-   Beispielkarte der Platten und der Plattengrenzen nach Hugo Ahlenius, Nordpil and Peter Bird (doi: 10.1029/2001GC000252)
