@@ -1,8 +1,9 @@
 Arbeiten mit Attributtabellen
 ========================
 
-Das zentrale Merkmal von Vektordatentypen ist die Attributtabelle. In dieser Stecken die Sachdaten, die über mit der Geometrie verknüpft sind. 
-Beispiel: Der Punkt beschreibt die Position eines Vulkans auf der Erde. In der Attributtabelle befindet sich der Name des Vulkans, das Datum der letzten Eruption und weitere Informationen zur Aktivität.
+Das zentrale Merkmal von Vektordatentypen ist die Attributtabelle. In dieser Stecken die Sachdaten, die mit der Geometrie verknüpft sind. 
+Beispiel: Der Punkt beschreibt die Position eines Vulkans auf der Erde. In der Attributtabelle befindet sich die Sachdaten wie der Name des Vulkans 
+und das Datum der letzten Eruption.
 
 Manuelle Auswahl
 ----------------
@@ -79,10 +80,6 @@ Logische Operatoren
 
    </video>
 
-*Further Resources* Die QGIS Dokumentation zu logischen Operatoren kann
-unter folgendem Link gefunden werden:
-
-https://docs.qgis.org/3.10/en/docs/user_manual/working_with_vector/attribute_table.html#selecting-features
 
 Selektierte Features als neue Datei speichern
 ---------------------------------------------
@@ -98,28 +95,6 @@ Selektierte Features als neue Datei speichern
    </video>
 
 
-Learning goals
---------------
 
-After this weeks lesson your should be able to:
-
-- Create a ``for`` loop and use it to repeat a section of code
-- Use ``if``, ``elif``, and ``else`` statements to make decisions in your programs
-- Explain how values can be compared using comparison operators
-
-Lesson videos
--------------
-
-.. admonition:: Lesson 3.1 - Repeating tasks with loops
-    :class: admonition-youtube
-
-    ..  youtube:: SSoEpgKAvl8
-
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
-
-.. admonition:: Lesson 3.2 - Conditional statements
-    :class: admonition-youtube
-
-    ..  youtube:: yyE26GU5wLk
-    
-    Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
+Weitere Informationen findest du in der `QGIS Dokumentation <https://docs.qgis.org/3.40/en/docs/user_manual/working_with_vector/attribute_table.html#introducing-the-attribute-table-interface
+>`__

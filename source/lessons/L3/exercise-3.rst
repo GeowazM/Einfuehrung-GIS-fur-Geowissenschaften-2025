@@ -13,19 +13,15 @@ Wiki:
 -----
 
 -  `Nicht-Räumliche Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Nicht-Räumliche-Abfragen>`__
--  `Räumliche
-   Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Abfragen>`__
+-  `Räumliche Abfragen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Räumliche-Abfragen>`__
 -  `Geometrieoperationen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Geometrieoperationen>`__
 
 Daten
 -----
 
-Ladet euch `die Daten herunter <exercise_03_data.zip>`__ und speichert
-sie auf eurem PC. \* World Administrative Boundaries Level 0 (Countries)
-(Polygon) (Quelle: `World Food Programme
-WFPGeonode <https://geonode.wfp.org/layers/geonode%3Awld_bnd_adm0_wfp>`__)
-\* Urban Agglomerations Datensatz (Point) (Quelle: `UN World
-Urbanization Prospects 2018 <https://population.un.org/wup/>`__)
+Ladet euch `die Daten herunter <exercise_03_data.zip>`__ und speichert sie auf eurem PC. \* World Administrative Boundaries Level 0 (Countries)
+(Polygon) (Quelle: `World Food Programme WFPGeonode <https://geonode.wfp.org/layers/geonode%3Awld_bnd_adm0_wfp>`__)
+\* Urban Agglomerations Datensatz (Point) (Quelle: `UN World Urbanization Prospects 2018 <https://population.un.org/wup/>`__)
 
 Aufgaben
 --------
