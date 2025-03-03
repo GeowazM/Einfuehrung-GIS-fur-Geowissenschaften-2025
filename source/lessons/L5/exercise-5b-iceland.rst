@@ -17,7 +17,7 @@ Exercise 5 b
 .. seealso::
 
    Daten
-      * Ladet euch `die Daten herunter <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_05a/exercise_5a_iceland/exercise_5a_data_iceland.zip>`__ und
+      * Ladet euch `die Daten herunter <https://drive.google.com/file/d/14Qof99ifXiDkFRDx1wYTVXet7Lr_bT2g/view?usp=sharing>`__ und
       * Speichert sie auf eurem PC
       * Legt einen lokalen Ordner an und
       * Speichert dort die obigen Daten. (.zip Ordner müssen vorher entpackt werden.)
