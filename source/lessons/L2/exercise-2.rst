@@ -16,9 +16,9 @@ Exercise 2
 
 .. seealso::
 
-   Ladet euch die `Daten herunter <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_02/exercise_02_data.zip>`__ und speichert sie auf eurem PC.
-      *  Punkt-Layer - Bodenschätze Punkte (`Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) <https://services.bgr.de/atomfeeds/dataset_e2ea5cd4-87f4-4751-980a-3451fe2f5758.xml>`__)
-      *  Polygon-Layer - Landesgrenze (`Landesamt für Geoinformation und Landentwicklung <https://www.lgl-bw.de/Produkte/Open-Data/>`__)
+   Ladet euch die `Daten herunter <https://drive.google.com/file/d/150_7K97KphV44j0tOa2BAQ4VzfQpbAP4/view?usp=drive_link>`__ und speichert sie auf eurem PC.
+      *  Punkt-Layer - Bodenschätze Punkte (Quelle: `Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) <https://services.bgr.de/atomfeeds/dataset_e2ea5cd4-87f4-4751-980a-3451fe2f5758.xml>`__)
+      *  Polygon-Layer - Landesgrenze (Quelle: `Landesamt für Geoinformation und Landentwicklung <https://www.lgl-bw.de/Produkte/Open-Data/>`__)
 
 Aufgaben
 --------
@@ -41,4 +41,4 @@ So (oder ähnlich) kann das Ergebnis aussehen
    :alt: Karte erstellt in QGIS 
    :width: 800px
 
-   Einfache Karte der Bidenschätze in Baden-Württemberg. Quelle: Eigene Erhebung mit Daten des LGL & des BGR.
+   Einfache Karte der Bodenschätze in Baden-Württemberg. Quelle: Eigene Erhebung mit Daten des LGL & des BGR.

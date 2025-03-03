@@ -1,7 +1,7 @@
 QGIS Print Composer
 ===============
 
-Hier wird der QGIS Print Composer erläutert. Er ist das Zentrale Tool in QGIS, um Karten zu erstellen.
+Hier wird der QGIS Print Composer erläutert. Er ist das zentrale Tool in QGIS, um Karten zu erstellen.
 
 .. figure:: https://docs.qgis.org/3.34/de/_images/print_composer_complete.png
    :alt: Der QGIS Print Composer
@@ -185,17 +185,16 @@ Zusammenstellung durch sukzessives STRG + V).
 Weitere Ressourcen
 ==================
 
--  `QGIS Doku: Using Print
-   Layout <https://docs.qgis.org/testing/en/docs/training_manual/map_composer/map_composer.html>`__
+-  `QGIS Doku: Using Print  Layout <https://docs.qgis.org/testing/en/docs/training_manual/map_composer/map_composer.html>`__
+-  `QGIS Kartographie des Lehrstuhls GISciene der Uni Heidelbergt <https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung>`__
+
 
 Erinnerung zu den Richtlinien der Kartengestaltung
 ==================================================
 
-https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung
-
-.. admonition:: Ein Videotutorial zur Nutzung des QGIS Print Composer
+.. admonition:: Ein Videotutorial-Reihe zur Nutzung des QGIS Print Composer
     :class: admonition-youtube
 
-    ..  youtube:: rpkeBZHrXVQ&t=320s
+    ..  youtube:: rpkeBZHrXVQ&list=PL5sBg4szdujUY-w6wvivTfxnCFzDQvrIi
 
     `Marshall Mappers channel on Youtube - Ganze Playlist: <https://www.youtube.com/watch?v=rpkeBZHrXVQ&list=PL5sBg4szdujUY-w6wvivTfxnCFzDQvrIi>`_.

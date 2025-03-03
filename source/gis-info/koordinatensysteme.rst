@@ -65,11 +65,8 @@ Dies stellt die physische Projektion von Lichtstrahlen durch den Globus nach.
 
 
 
-
-
-****************************
 Mit Koordinatenbezugssystemen arbeiten
-****************************
+=====================================
 
 Jeder Layer sollte ein Koordinatensystem besitzen, d.h. jeder Geodatensatz befindet ich in einem definiertem Koordinatensystem. In
 QGIS werden alle Layer eines Projektes in der Kartenansicht im selben Koordinatensystem dargestellt.
@@ -218,20 +215,6 @@ Projektkoordinatensystem
 
    </video>
 
-Benutzerdefinierte Projektion
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Man kann auch eigene Koordinatensysteme definieren. I.d.R. auf Basis existierender Koordinatensysteme, deren Parameter (z.B. Schnittpunkte
-oder Schnittkreise so wählen, dass die darzustellende Region möglichst wenig verzerrt wird).
-
-.. raw:: html
-
-   <video width="100%" controls src="https://courses.gistools.geog.uni-heidelberg.de/giscience/kartographie_uebung/-/wikis/uploads/videos/customProjection.mp4">
-
-.. raw:: html
-
-   </video>
-
 Layerkoordinatensystem
 ----------------------
 
@@ -254,7 +237,9 @@ Koordinatensystem eines Layers ändern
 Vektordaten
 ^^^^^^^^^^^
 
-Liegen die Daten im Vektorformat vor (Punkte, Linien, Polygone), dann kann man ihr Koordinatensystem über ``Vektor`` > ``Datenmanagement-Werkzeuge`` > ``Layer umprojizieren`` verändern.
+Liegen die Daten im Vektorformat vor (Punkte, Linien, Polygone), dann kann man ihr Koordinatensystem über ``Vector`` > ``Data managment Tools`` > ``Reproject Layer...`` verändern.
+
+Noch einfacher geht es über ``Rechtsklick auf Layer`` > ``Export`` > ``Save Feature as...``.
 
 Die Daten werden mit diesem Werkzeug umprojiziert und es wird ein neues Layer mit den veränderten Daten ausgegeben.
 
@@ -270,6 +255,9 @@ Rasterdaten
 ^^^^^^^^^^^
 
 Liegen die Daten im Rasterdatenformat vor, dann kann man ihr Koordinatensystem über ``Raster`` > ``Projektionen`` > ``Transformieren (Reprojizieren)`` verändern.
+
+Noch einfacher geht es über ``Rechtsklick auf Layer`` > ``Export`` > ``Save As...``.
+
 
 Projection Wizard
 =================

@@ -13,6 +13,7 @@ Die Platten und PLattengrenzen findest du bei `Hugo Ahlenius, Nordpil and Peter 
     
 - **Lade die Geodaten selbstständig herunter &** 
 - **importiere diese in dein QGIS Projekt!**
+- **Nutze die Projektion EPSG: 54030** - Ist es eine metrische Projektion?
 - **Kopiere den Layerstil von den bisherigen zu neuen Geodaten**
 
 **So (oder ähnlich) kann es am Ende aussehen**

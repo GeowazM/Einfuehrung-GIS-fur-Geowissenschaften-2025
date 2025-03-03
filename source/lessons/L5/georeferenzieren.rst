@@ -36,13 +36,13 @@ Vorgehen in QGIS
 
 Reihenfolge in der Regel:
 
-   1. `nicht-georeferenziertes Bild öffnen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
-   2. `Zielprojektion festlegen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
-   3. `Transformationseinstellungen wählen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#transformationseinstellungen>`__
-   4. `Passpunkte setzen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
-   5. `Passpunkte speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
-   6. `Georeferenziertes Bild speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#georeferenziertes-bild-speichern>`__
-   7. Georeferenzierung überprüfen
+1. `nicht-georeferenziertes Bild öffnen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
+2. `Zielprojektion festlegen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#bild-oeffnen-und-zielprojektion-festlegen>`__
+3. `Transformationseinstellungen wählen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#transformationseinstellungen>`__
+4. `Passpunkte setzen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
+5. `Passpunkte speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#passpunkte-setzen-und-speichern>`__
+6. `Georeferenziertes Bild speichern </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#georeferenziertes-bild-speichern>`__
+7. Georeferenzierung überprüfen
 
 -  `Weitere Ressourcen </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#weitere-ressourcen>`__
 -  `Allgemeine Fehlerhinweise </content/gis/06_georef-digitalize/qgis-Georeferenzierung.md#allgemeine-fehlerhinweise>`__
@@ -63,8 +63,6 @@ Bild öffnen und Zielprojektion festlegen
 **Hinweis:** Wenn das Programm die Zielprojektion nicht von alleine abfragt, müssen die Einstellungen zu den KBS geändert werden. Das
 funktioniert unter *Einstellungen/Settings* in den Toolbars, *Optionen/Options* und dann unter dem Reiter *KBS/CRS*. In diesem muss
 unter *KBS für neue Layer/CRS for new layers* die Option *KBS abfragen/Prompt for CRS* gewählt werden.
-
-|Einstellungen_KBS-abfragen|\ |Einstellungen_KBS-abfragen_01|
 
 Transformationseinstellungen
 ----------------------------
@@ -136,9 +134,7 @@ Georeferenziertes Bild speichern
 Weitere Ressourcen:
 -------------------
 
--  `Digital Geography Tutorial: wie georeferenziere ich eine gescannte
-   Karte in
-   QGIS? <http://de.digital-geography.com/QGIS-tutorial-teil-1-wie-georeferenziere-ich-eine-gescannte-karte-mit-QGIS/>`__
+-  `Tutorial: Wie georeferenziere ich eine gescannte Karte in QGIS? <http://de.digital-geography.com/QGIS-tutorial-teil-1-wie-georeferenziere-ich-eine-gescannte-karte-mit-QGIS/>`__
 
 Allgemeine Fehlerhinweise
 -------------------------
@@ -152,4 +148,4 @@ Fehler können unter anderem zu Stande kommen durch:
 
     ..  youtube:: qZUQ_keQnAc
 
-    Bonn Center for Digital Humanities @ `Geo-Python channel on Youtube <https://www.youtube.com/watch?v=qZUQ_keQnAc>`_.
+    `Bonn Center for Digital Humanities on Youtube <https://www.youtube.com/watch?v=qZUQ_keQnAc>`_.

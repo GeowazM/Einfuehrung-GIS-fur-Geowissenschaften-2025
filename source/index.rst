@@ -135,8 +135,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :maxdepth: 2
     :caption: Das Layerprinzip
 
-    lessons/L1/overview
-    lessons/L1/exercise-1-germany
     lessons/L1/exercise-1-tectonicplates
     lessons/L1/exercise-1-tectonicplates_additional
 
