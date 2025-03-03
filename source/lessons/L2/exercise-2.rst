@@ -16,7 +16,7 @@ Exercise 2
 
 .. seealso::
 
-   Daten
+   Ladet euch die `Daten herunter <https://github.com/GeowazM/Einfuehrung-GIS-fur-Geowissenschaften/blob/main/exercise_02/exercise_02_data.zip>`__ und speichert sie auf eurem PC.
       *  Punkt-Layer - Bodenschätze Punkte (`Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) <https://services.bgr.de/atomfeeds/dataset_e2ea5cd4-87f4-4751-980a-3451fe2f5758.xml>`__)
       *  Polygon-Layer - Landesgrenze (`Landesamt für Geoinformation und Landentwicklung <https://www.lgl-bw.de/Produkte/Open-Data/>`__)
 
