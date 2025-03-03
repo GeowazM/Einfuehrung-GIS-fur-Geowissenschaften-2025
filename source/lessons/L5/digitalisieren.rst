@@ -47,8 +47,7 @@ Ein neues Layer erstellen
 -  Geometrietyp wählen
 -  Koordinatensystem wählen
 -  Attributfelder anlegen
--  erstellt zunächst lediglich ein leeres File –> Geometrien und
-   Attribute müssen anschließend noch eingetragen werden
+-  erstellt zunächst lediglich ein leeres File –> Geometrien und Attribute müssen anschließend noch eingetragen werden
 
 .. raw:: html
 
@@ -76,9 +75,9 @@ Geometrien zu einem Layer hinzufügen
 
 -  Ringe hinzufügen (z.B. Innenhof eines Gebäudes kartieren)
 
--  (evtl. advanced Digitizing-Toolbar öffnen –> unter: ``Ansicht``; ``Werkzeugkästen``; ``Erweiterte Digitalisierungswerkzeugleiste``)
+-  (evtl. advanced Digitizing-Toolbar öffnen –> unter: ``View (Ansicht)``; ``Toolbar (Werkzeugkästen)``; ``Advanced Digitizing Toolbar(Erweiterte Digitalisierungswerkzeugleiste``)
 
--  Rechtecke können außerdem ‘automatischer’ mit der “Werkzeugleiste für Formen”/ “Shape Digitizing Toolbar” hinzugefügt werden (zu öffnen unter –> ``Ansicht/View``; ``Werkzeugkästen/Toolbars``)
+-  Rechtecke können außerdem ‘automatischer’ mit der “Werkzeugleiste für Formen”/ “Shape Digitizing Toolbar” hinzugefügt werden (zu öffnen unter –> ``View (Ansicht)``; ``Toolbars (Werkzeugkästen)``)
 
 .. raw:: html
 
