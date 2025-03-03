@@ -21,10 +21,10 @@ Lernziele
 -  Übertragung von Konzepten aus der Vorlesung in praktische Anwendung
 -  Betrachtung des Workflows von GIS-Analysen (EVAP nach ?)
 
-   -  **E**rhebung     
-   -  **V**erarbeitung
-   -  **A**nalyse 
-   -  **P**räsentation
+   -  Erhebung     
+   -  Verarbeitung
+   -  Analyse 
+   -  Präsentation
 
 -  Einführung in das Desktop GIS QGIS (open source)
 
