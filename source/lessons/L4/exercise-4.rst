@@ -12,7 +12,7 @@ Exercise 4
 .. seealso::
 
    Daten
-   Ladet euch `die Daten herunter <exercise_04_data.zip>`__ und speichert
+   Ladet euch `die Daten herunter <https://drive.google.com/file/d/1wbN5zWaWHttQC9utpWYRTOWSA01cHxcF/view?usp=drive_link>`__ und speichert
    sie auf eurem PC. Legt einen lokalen Ordner an und speichert dort die
    obigen Daten (.zip Ordner müssen vorher entpackt werden.).
       * Osnabrück Fluss Hase (Line) (Quelle: `OpenStreetMap <https://www.openstreetmap.org>`__)
