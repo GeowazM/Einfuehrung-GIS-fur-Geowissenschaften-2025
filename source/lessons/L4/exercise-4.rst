@@ -37,7 +37,7 @@ Hochwasserbereich ermitteln
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 3. Verbindet alle Teilstücke der Hase zu einer einzelnen Geometrie. Nutzt dazu die **Dissolve** Funktion.
-4. Zur Berechnung der Hochwassergefahr nutzen wir einen vereinfachten Ansatz. Berechnet 3 Stufen der Hochwassergefahr mithilfe der **(Multiple)Buffer**-Funktion:
+4. Zur Berechnung der Hochwassergefahr nutzen wir einen vereinfachten Ansatz. Berechnet 3 Stufen der Hochwassergefahr mithilfe der **(Multiple-Ring) Buffer**-Funktion:
 
 (a) alle Bereiche in Abstand von maximal 100 m zur Hase,
 (b) alle Bereiche zwischen 100 m und 200 m Abstand,
