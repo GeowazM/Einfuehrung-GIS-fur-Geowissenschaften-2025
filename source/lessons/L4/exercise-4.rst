@@ -31,7 +31,7 @@ Datenvorbereitung
 ~~~~~~~~~~~~~~~~~
 
 1. Schneidet den Gebäude-Datensatz und den Straßen-Layer auf das Stadtgebiet Osnabrücks zu (**Clip** Funktion).
-2. Projiziert anschließend alle Daten in ein metrisches Koordinatensystem (z.B. WGS 84 / UTM 32N).
+2. Achtet darauf, dass alle Daten in einem metrischen Koordinatensystem (z.B. WGS 84 / UTM 32N) vorliegen.
 
 Hochwasserbereich ermitteln
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
