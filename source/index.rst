@@ -161,7 +161,6 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     :caption: Vektorgeometrien verarbeiten
 
     lessons/L4/exercise-4
-    lessons/L4/exercise-4_ahrweiler
 
 .. toctree::
     :maxdepth: 2
