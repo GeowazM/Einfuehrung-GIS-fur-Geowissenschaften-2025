@@ -36,10 +36,12 @@ Aufgaben
 Arbeiten mit Geländemodellen
 
 1. Verbinde die SRTM-Kacheln miteinander (z.B. mit merge).
-2. Bringe das SRTM-Höhenmodell in eine metrische Projektion (z.B. 25832).
+2. Bringe das SRTM-Höhenmodell in eine metrische Projektion (z.B. 32632).
 3. Verschaffe dir einen Überblick über die Höhenwerte. Was sind die maximalen und minimalen Höhen im Untersuchungsgebiet. Schaue dies in den Layer-Eigenschaften nach (bspw. mit einem Histogramm).
-4. Berechnet aus dem SRTM-Höhenmodell Konturlinien 100 Meter Schritten.
-5. Berechnet ein Hillshade (dt. Schummerung).
+4. Berechne aus dem SRTM-Höhenmodell `Slope <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Fokale-Funktionen>`__
+5. Berechne aus dem SRTM-Höhenmodell `Aspekt <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Fokale-Funktionen>`__
+6. Berechne aus dem SRTM-Höhenmodell Konturlinien 100 Meter Schritten.
+7. Berechne ein Hillshade (dt. Schummerung).
 
 🛰 Aufgabe 2
 --------
