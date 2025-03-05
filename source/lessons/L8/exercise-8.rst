@@ -262,7 +262,7 @@ Aufgabe 2: Temperaturwerte anpassen und Interpolation durchführen.
    
    .. code-block::
 
-         “Interpolated@1” - ( “germany_dem_eprojected@1”/100 \* 0.54)
+         "Interpolated@1" - ( "germany_dem_eprojected@1" / 100 * 0.54 )
 
    .. raw:: html
 
