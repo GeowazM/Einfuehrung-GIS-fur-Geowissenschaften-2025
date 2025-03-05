@@ -68,7 +68,7 @@ Vorbereitung des DEM's
 〰 Aufgabe 2 - Ein Höhenprofil erstellen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Installiere das Plugin `QuickMapServices <https://plugins.qgis.org/plugins/profiletool/>`__
+-  Installiere das Plugin `Profile tools <https://plugins.qgis.org/plugins/profiletool/>`__
 
 .. caution::
 
