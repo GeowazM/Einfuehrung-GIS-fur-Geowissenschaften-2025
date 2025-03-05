@@ -72,7 +72,7 @@ Vorbereitung des DEM's
 
 .. caution::
 
-      Plugins können etwas undurchsichtig sein. Achte auf die einzelnen `Schritte des Erklärvideos <https://plugins.qgis.org/plugins/profiletool/>`__. Kleinigkeiten können hier entscheidend sein.
+      Plugins können etwas undurchsichtig sein. Achte auf die einzelnen `Schritte des Erklärvideos <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/qgis-Weitere-Rasterfunktionen>`__. Kleinigkeiten können hier entscheidend sein.
 
 
 -  Erstelle für den Transect_1-Layer ein Höhenprofil (bspw. Profil_1a).
