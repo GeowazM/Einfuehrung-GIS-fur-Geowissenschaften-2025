@@ -174,9 +174,8 @@ Aufgabe 2: Temperaturwerte anpassen und Interpolation durchführen.
 
       <li>
 
-   Prüfe die Attributtabelle auf die neue Spalte (Field) "YEAR". Prüfe zusätzlich in den Layer Eigenschaften (Properties) den Feldtyp (siehe Fields). Liegt die Spalte "Year"
-   als “double (real)” vor? Die Normalisierung der Temperaturwerte kann
-   über den “field calculator” erfolgen. Mit dem Ausdruck:
+   Prüfe die Attributtabelle auf die neue Spalte (Field) "YEAR". Prüfe zusätzlich in den Layer Eigenschaften (Properties) den Feldtyp (siehe Fields). 
+   Liegt die Spalte "YEAR" als “double (real)” vor? Die Normalisierung der Temperaturwerte kann über den “field calculator” erfolgen. Nutze folgenden Ausdruck:
 
       .. code-block::
 
