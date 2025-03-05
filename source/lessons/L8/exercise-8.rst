@@ -133,15 +133,6 @@ Aufgabe 1: Vorbereitung
 
       <li>
 
-   Übereinstimmende Felder: “TEMP_STA_1” von ``temp_stations`` und “STATION_ID” von ``mean_temp``. Allerdings ist “TEMP_STA_1” als Zahl
-   (Integer) und “STATION_ID” als Text (String) abgespeichert. Mögliche Lösung: Erstelle ein neues Feld in z.B. dem ``temp_stations``-Layer
-   mit der Funktion Field calculator. Dort als result field type “Text (string)” auswählen und als Ausdruck nur ‘“TEMP_STA_1”’ eingeben
-   (Name des neuen Feldes z.B. “ID”).
-
-   .. raw:: html
-
-      <li>
-
    Funktion Join attributes by field value, Inputlayer ``temp_stations``  Table field “ID”, Inputlayer 2 ``mean_temp`` Table field
    “STATION_ID”, optional bei Layer 2 fields to copy die Spalte “YEAR” auswählen, da es die einzige ist, die wir weiterhin brauchen
 
@@ -183,20 +174,13 @@ Aufgabe 2: Temperaturwerte anpassen und Interpolation durchführen.
 
       <li>
 
-   Beachte, dass die “YEAR”-Spalte im Textformat vorliegt und nicht für die Interpolationgenutzt werden kann bevor der Datentyp geändert wurde.
-
-   .. raw:: html
-
-      <li>
-
-   Da für diese Aufgabe sowieso noch eine Umrechnung stattfindet, bei der der Datentyp automatisch angepasst werden kann, ist das nicht
-   unbedingt nötig. Falls doch gwünscht, kann hierfür wieder die Funktion field calculator genutzt werden. Das result field sollte
-   diesmal “decimal number (real)” genutzt werden und als Ausdruck nur “YEAR”. Ansonsten kann die Normalisierung der Temperaturwerte auch
+   Prüfe die Attributtabelle auf die neue Spalte (Field) "YEAR". Prüfe zusätzlich in den Layer Eigenschaften (Properties) den Feldtyp (siehe Fields). Liegt die Spalte "Year"
+   als “double (real)” vor? Die Normalisierung der Temperaturwerte kann
    über den “field calculator” erfolgen. Mit dem Ausdruck:
 
       .. code-block::
 
-         “YEAR” + (“ELEV” / 100 \* 0.54)
+         "YEAR"  + ("ELEV" / 100 * 0.54)
 
    .. raw:: html
 
@@ -234,10 +218,11 @@ Aufgabe 2: Temperaturwerte anpassen und Interpolation durchführen.
 
       <li>
 
-   Für die Interpolation sollte die Funktion IDW Interpolation genutzt werden. Hier den bearbeiteten “temp_stations”-Layer als Inputlayer
-   und als Interpolation attribute das zuvor berechnete Feld mit der normalisierten Temperatur. Anschließendauf das grüne Plus drücken.
-   Beim Extent rechts calculate from layer auswählen und den bearbeiteten “temp_stations”-Layer nutzen. Anschließend muss noch die
-   Pixel size X angepasst werden (Pixel size Y) wird automatisch mit angepasst. Wir empfehlen eine pixel size X von 1000 (in diesem Fall Metern).
+   Für die Interpolation nutze die Funktion IDW Interpolation genutzt werden. 
+   - Nutze den neuen Layer, der die normalisierten Temperaturen enthält. 
+   - Anschließend auf das grüne Plus drücken. 
+   - Definiere den Extent (Calculate from layer; bspw. kannst du den “temp_stations”-Layer nutzen). 
+   - Als letztes müssen wir noch die Auflösung des Ergebnisses festlegen. Das machen wir mit Pixel size X angepasst (Pixel size Y wird automatisch mit angepasst). Wir empfehlen eine Pixel size X von 1000 (in diesem Fall Meter).
 
    .. raw:: html
 

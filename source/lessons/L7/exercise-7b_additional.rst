@@ -112,13 +112,3 @@ Aufgabe 1 b - Analysieren
 
       </details>
 
-
-.. raw:: html
-
-   <details>
-     <summary>Lösung</summary>
-
-     <p><a href="https://services.bgr.de/wms/inspire_ge/guek250/?REQUEST=GetCapabilities&SERVICE=wms&VERSION=1.3.0">Der WMS-Layer liegt als XML Datei vor</a></p>
-     <p>Link:https://services.bgr.de/wms/inspire_ge/guek250/?REQUEST=GetCapabilities&SERVICE=wms&VERSION=1.3.0</p>
-
-   </details>
