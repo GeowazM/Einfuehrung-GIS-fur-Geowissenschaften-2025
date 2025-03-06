@@ -133,8 +133,8 @@ Aufgabe 1: Vorbereitung
 
       <li>
 
-   Funktion Join attributes by field value, Inputlayer ``temp_stations``  Table field “ID”, Inputlayer 2 ``mean_temp`` Table field
-   “STATION_ID”, optional bei Layer 2 fields to copy die Spalte “YEAR” auswählen, da es die einzige ist, die wir weiterhin brauchen
+   Funktion Join attributes by field value, Input layer 1 ``temp_stations``  Table field "TEMP_STA_1" input layer 2 ``mean_temp`` Table field
+   "STATION_ID", optional bei Layer 2 fields to copy die Spalte “YEAR” auswählen, da es die einzige ist, die wir weiterhin brauchen
 
    .. raw:: html
 
@@ -221,7 +221,7 @@ Aufgabe 2: Temperaturwerte anpassen und Interpolation durchführen.
    - Nutze den neuen Layer, der die normalisierten Temperaturen enthält. 
    - Anschließend auf das grüne Plus drücken. 
    - Definiere den Extent (Calculate from layer; bspw. kannst du den “temp_stations”-Layer nutzen). 
-   - Als letztes müssen wir noch die Auflösung des Ergebnisses festlegen. Das machen wir mit Pixel size X angepasst (Pixel size Y wird automatisch mit angepasst). Wir empfehlen eine Pixel size X von 1000 (in diesem Fall Meter).
+   - Als letztes müssen wir noch die Auflösung des Ergebnisses festlegen. Das machen wir mit Pixel size X (Pixel size Y wird automatisch) angepasst. Wir empfehlen eine Pixel size X von 1000 (in diesem Fall Meter).
 
    .. raw:: html
 
