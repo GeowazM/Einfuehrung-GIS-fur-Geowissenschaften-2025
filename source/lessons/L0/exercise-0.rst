@@ -18,7 +18,7 @@ Aufgaben
 3. Öffnet QGIS und nehmt erste `QGIS Einstellungen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/einstellungen.html>`__ in eurem GIS nach den Empfehlungen im Wiki vor (ändert zum Beispiel die Sprache).
 
 4. Ladet die Daten zu Exercise 0 in `QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Layer-Konzept>`__
-   und macht euch mit der `QGIS Benutzeroberfläche vertraut <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/nutzeroberflaeche.html>`__).
+   und macht euch mit der `QGIS Benutzeroberfläche vertraut <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/nutzeroberflaeche.html>`__.
 
 5. Verschafft euch einen Überblick über die beste Vorgehensweise bei `Problemen <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/home-Probleme>`__,
    die in der Arbeit mit einem GIS auftreten können.
