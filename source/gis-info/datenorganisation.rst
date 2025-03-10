@@ -9,7 +9,7 @@ Speicherort
 
 Die GIS-Dateien sollten auf einem lokalen Speichermedium abgelegt werden, um schnelle Abläufe zu gewährleisten und Komplikationen zu
 vermeiden. Vom Speichern der Daten in einem Cloud-Server wird abgeraten, da dies durch fehlerhafte Datenzugriffe eures GIS Programms zu
-Fehlermeldungen oder einfrierenden Programmen führen kann (siehe dazu auch “Umlaute/Sonderzeichen/Leerzeichen in Dateipfaden” auf der Seite `Hinweise <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/hinweise.html>`__).
+Fehlermeldungen oder einfrierenden Programmen führen kann (siehe dazu auch “Umlaute/Sonderzeichen/Leerzeichen in Dateipfaden” auf der Seite `Hinweise <ttps://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/hinweise.html>`__).
 
 Datenbenennung
 --------------
