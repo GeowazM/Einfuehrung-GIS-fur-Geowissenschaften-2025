@@ -85,31 +85,4 @@ ersichtlich. Dies bedeutet jedoch nicht, dass die Änderungen nicht
 nötig, um die Änderungen zu übernehmen (QGIS weist euch nicht darauf
 hin, dass ein Neustart benötigt wird).
 
-Versionsunterschiede
---------------------
-
-Das Wiki und insbesondere die darin enthaltenen Videos sind immer nur
-eine Momentaufnahme. QGIS selbst, sowie auch die installierbaren
-Erweiterungen, werden durchgehend weiterentwickelt und verbessert.
-Zwischen den verschiedenen Versionen kann es somit zu Unterschieden in
-der Erscheinungsform der Benutzeroberfläche oder in seltenen Fällen
-sogar in der Funktion kommen. Folglich kann es zu Abweichungen zwischen
-dem Wiki und dem auf eurem PC installierten QGIS kommen.
-
-Solltet ihr Unterschiede zwischen dem Wiki und QGIS feststellen, könnt
-ihr gerne eure TutorInnen in den Übungsgruppen darüber informieren,
-sodass diese bei Bedarf das Wiki anpassen oder ergänzen können.
-
-Videofunktionen
----------------
-
-Die Videos in diesem Wiki sind über ein Plugin des Browsers *Mozilla
-Firefox* implementiert. `Auf dieser
-Website `__
-im Abschnitt *Steuerelemente* könnt ihr die verschiedenen Funktionen und
-Einstellungsmöglichkeiten für den Videoplayer nachlesen.
-
-| **Hinweis:**
-| Die Funktionalität des Videoplayers kann bei der Verwendung von
-  anderen Browsern (Chrome, Edge, Safari, etc.) eingeschränkt sein.
 
