@@ -9,12 +9,12 @@ Speicherort
 
 Die GIS-Dateien sollten auf einem lokalen Speichermedium abgelegt werden, um schnelle Abläufe zu gewährleisten und Komplikationen zu
 vermeiden. Vom Speichern der Daten in einem Cloud-Server wird abgeraten, da dies durch fehlerhafte Datenzugriffe eures GIS Programms zu
-Fehlermeldungen oder einfrierenden Programmen führen kann (siehe dazu auch “Umlaute/Sonderzeichen/Leerzeichen in Dateipfaden” auf der Seite `Hinweise <Hinweise-Arbeiten-mit-GIS>`__).
+Fehlermeldungen oder einfrierenden Programmen führen kann (siehe dazu auch “Umlaute/Sonderzeichen/Leerzeichen in Dateipfaden” auf der Seite `Hinweise <Hhttps://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/hinweise.html>`__).
 
 Datenbenennung
 --------------
 
-Wie bereits in den `Hinweisen <Hinweise-Arbeiten-mit-GIS>`__ beschrieben, können bestimmte Schriftzeichen zu Fehlern in der
+Wie bereits in den `Hinweisen <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/hinweise.html>`__ beschrieben, können bestimmte Schriftzeichen zu Fehlern in der
 Verarbeitung von Daten durch euer GIS Programm führen. Sowohl der Dateipfad, unter dem die GIS-Daten gespeichert werden, als auch die
 Namen der Daten selbst sollten daher keine Leerzeichen, Sonderzeichen oder Umlaute(ä,ö,ü) enthalten. Versucht zudem eure Datennamen kurz zu
 halten. Zum einen werden dadurch Fehlerquellen reduziert. Zum Anderen muss für lange Datennamen die `Layers
@@ -22,7 +22,7 @@ List <http://giscience.courses-pages.gistools.geog.uni-heidelberg.de/qgis-book//
 verbreitert werden, um den vollständigen Namen lesen zu können. Dies reduziert die Größe der
 `Kartenansicht <http://giscience.courses-pages.gistools.geog.uni-heidelberg.de/qgis-book//content/karto//benutzeroberfläche/GUI>`__
 und somit die Übersichtlichkeit beim Arbeiten im GIS Programm (siehe dazu auch “Umlaute/Sonderzeichen/Leerzeichen in Dateipfaden” auf der
-Seite `Hinweise <Hinweise-Arbeiten-mit-GIS>`__).
+Seite `Hinweise <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/hinweise.html>`__).
 
 Ordnerstruktur
 --------------
