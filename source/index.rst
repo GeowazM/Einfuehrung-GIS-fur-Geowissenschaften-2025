@@ -19,7 +19,7 @@ Lernziele
 ---------
 
 -  Übertragung von Konzepten aus der Vorlesung in praktische Anwendung
--  Betrachtung des Workflows von GIS-Analysen (EVAP nach ?)
+-  Betrachtung des Workflows von GIS-Analysen (EVAP nach Bill (2016))
 
    -  Erhebung     
    -  Verarbeitung
@@ -101,6 +101,11 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 .. admonition:: Hilfe
 
     Starte mit dem Kurs indem du im Navigationsfesnter (links) die "Kursinhalte" & den Bereich "Wissenswertes" anschaust.
+
+.. admonition:: Literatur
+
+    1. Bill, R. (2016): Grundlagen der Geo-Informationssysteme. Berlin-Offenbach. Wichmann Verlag. 855 Seiten, 6. Auflage.
+    2. `OpenGeoEdu <https://www.opengeoedu.de/>`__ 
 
 .. toctree::
     :maxdepth: 2
