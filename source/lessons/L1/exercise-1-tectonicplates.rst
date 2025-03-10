@@ -42,7 +42,7 @@ Ein QGIS-Projekt anlegen, Layer hinzufügen und speichern.
 4. Mache dich mit dem Layer-Fenster (*Layer List*) vertraut. Blende abwechselnd verschiedene Layer ein und aus und verschiebe die Layer
    in der Hierarchie. Benennt den Layer *PB2002_plates* sinnvoll um. Beachte, dass letzteres keine Auswirkung auf die Datenquellen (Dateinamen, Speicherort) hat.
 5. Schau dir die **Attributdaten der Layer** an. Schaue dir zu diesem Zweck die Attributtabelle an und mache dich mit der zugehörigen
-   Nutzeroberfläche vertraut. a) Wie viele Features gibt es im Layer *PB2002_plates*? b) Welche Magnitude hatte das Erdbeben vor der Küste Neuseelands?
+   Nutzeroberfläche vertraut. a) Wie viele Features gibt es im Layer *PB2002_plates*? b) Welche Magnitude hatte das Erdbeben vor der Küste Hawaiis?
 6. Ändere die **Projektion in der Kartenansicht** zu WGS84 / Pseudo-Mercator (EPSG-Code: 3857). **Beachte, dass dies nichts an der Projektion
    (den Koordinaten) der Dateien ändert.** Überprüfe dies in den Eigenschaften des Punkt-Layers. Welche Projektion ist dort angegeben?
 7. Speichere nun den Plattengrenzen-Layer in der Projektion WGS84 / Pseudeo-Mercator. **Dies ändert die Projektion der Datei.** Überprüft dies in den Eigenschaften des neu erstellten Layers.
