@@ -49,7 +49,7 @@ Aufgabe 1: Vorbereitung
 
       <li>
 
-   ``germany_dem`` -> Funktion Warp (Reproject), Ziel-KBS “EPSG: 25832 - ETRS 84 / UTM zone 32N”
+   ``germany_dem`` -> Funktion Warp (Reproject), Ziel-KBS “EPSG: 25832 - ETRS 89 / UTM zone 32N”
 
    .. raw:: html
 
