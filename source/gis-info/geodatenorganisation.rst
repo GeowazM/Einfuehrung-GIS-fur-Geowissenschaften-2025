@@ -1,4 +1,4 @@
-Datenorganisation
+Geodatenmanagment
 =================
 
 Im Rahmen der Aufgaben werden eine Vielzahl von Daten heruntergeladen. Eine ordentliche Verwaltung beugt nicht nur Fehlern und Komplikationen
@@ -18,9 +18,9 @@ Wie bereits in den `Hinweisen <https://einfuhrung-gis-fur-geowissenschaften.read
 Verarbeitung von Daten durch euer GIS Programm führen. Sowohl der Dateipfad, unter dem die GIS-Daten gespeichert werden, als auch die
 Namen der Daten selbst sollten daher keine Leerzeichen, Sonderzeichen oder Umlaute(ä,ö,ü) enthalten. Versucht zudem eure Datennamen kurz zu
 halten. Zum einen werden dadurch Fehlerquellen reduziert. Zum Anderen muss für lange Datennamen die `Layers
-List <http://giscience.courses-pages.gistools.geog.uni-heidelberg.de/qgis-book//content/karto/benutzeroberfläche/GUI>`__
+List <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/nutzeroberflaeche.html>`__
 verbreitert werden, um den vollständigen Namen lesen zu können. Dies reduziert die Größe der
-`Kartenansicht <http://giscience.courses-pages.gistools.geog.uni-heidelberg.de/qgis-book//content/karto//benutzeroberfläche/GUI>`__
+`Kartenansicht <https://giscience.courses-pages.gistools.geog.uni-heidelberg.de/qgis-book//content/karto/layerkonzept/Layer.html>`__
 und somit die Übersichtlichkeit beim Arbeiten im GIS Programm (siehe dazu auch “Umlaute/Sonderzeichen/Leerzeichen in Dateipfaden” auf der
 Seite `Hinweise <https://einfuhrung-gis-fur-geowissenschaften.readthedocs.io/de/latest/gis-info/hinweise.html>`__).
 
@@ -46,7 +46,7 @@ Somit würde der Teil des Dateisystems für die Übung z.B. wie folgt aussehen:
 
    Screenshot_from_2021-08-13_08-43-20
 
-**Hinweis:** Achtet bei der Ordnerstruktur darauf diese nachträglich möglichst nicht mehr zu verändern. Ansonsten kann es wie
+**Hinweis:** Achtet bei der Ordnerstruktur darauf diese nachträglich nicht zu verändern. Ansonsten kann es wie
 `hier <http://giscience.courses-pages.gistools.geog.uni-heidelberg.de/qgis-book//content/karto/benutzeroberfläche/GUI>`__
 beschrieben zu Problemen beim Öffnen alter Projektdateien kommen, die dann in mühseliger Kleinstarbeit manuell wieder repariert werden müssen
 oder unbrauchbar geworden sind. Macht euch also wirklich vor dem Bearbeiten der ersten Aufgaben bereits darüber Gedanken welche Ordner
