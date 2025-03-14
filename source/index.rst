@@ -84,9 +84,10 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     **WICHTIG:** Die **Abgabe des Abschlussprojekts** erfolgt ausschließlich per Mail. Achtet darauf, dass ein anderer Nutzer dein QGIS Projekt inkl. allen relevanten Layern öffnen kann. 
     Die aus der Gesamt-Punktzahl resultierende Note wird dem Prüfungssekretariat gemeldet.
 
-.. warning::
+.. attention::
 
-    The content of the course and some resources is based on open source data and materials. A special thanks refers to the following persons and institutions:
+    The content of the course and some resources is based on open source data and materials. A special thanks refers to the following persons and institutions.
+    
     - `GIS-Station - Research Group for Earth Observation (rgeo), Heidelberg University of Education <https://rgeo.de/>`__
     - `GIScience & HeiGIT of the Heidelberg University <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung>`__
     - `Håvard Aagesen & Team of the University of Helsinki <https://geo-python-site.readthedocs.io/en/latest/course-info/theteam.html>`__
@@ -95,10 +96,16 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
 .. admonition:: Interessante Links
 
-    - https://arcg.is/1vqrur 
-    - https://www.geotis.de/geotisapp/geotis.php
-    - https://www.nlog.nl/southern-permian-basin-atlas
-    - https://nibis.lbeg.de/cardomap3/
+    - `One Geology <https://onegeology.org/>`__
+    - `European Geological Data Infrastructure <https://www.europe-geology.eu/>`__
+    - `Bundesanstalt für Geowissenschaften und Rohstoffe <https://www.bgr.bund.de/DE/Themen/Geodatenmanagement/Geoportal/geoportal_node.html>`__
+    - `British Geological Survey <https://www.bgs.ac.uk/hosted-websites/>`__
+    - `USGS Earth Explorer <https://earthexplorer.usgs.gov/>`__
+    - `USGS Earthquakes <https://earthquake.usgs.gov/earthquakes/map/?extent=-45.08904,-173.67188&extent=84.9901,251.01563>`__
+    - `PaleoClim <http://www.paleoclim.org/>`__
+    - `Southern Permian Basin Atlas <https://www.nlog.nl/southern-permian-basin-atlas>`__
+    - `Geothermisches Informationssystem <https://www.geotis.de/geotisapp/geotis.php>`__
+    - `NIBIS KARTENSERVER <https://nibis.lbeg.de/cardomap3/>`__
 
 .. admonition:: Hilfe
 
