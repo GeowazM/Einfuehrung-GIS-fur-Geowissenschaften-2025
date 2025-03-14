@@ -101,6 +101,7 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 .. admonition:: Websites, Programme und Geoportale für geowissenschaftliche Anwendungen
 
     - `One Geology <https://onegeology.org/>`__
+    - `Open Topography <https://portal.opentopography.org/datasets>`__
     - `European Geological Data Infrastructure <https://www.europe-geology.eu/>`__
     - `Bundesanstalt für Geowissenschaften und Rohstoffe <https://www.bgr.bund.de/DE/Themen/Geodatenmanagement/Geoportal/geoportal_node.html>`__
     - `British Geological Survey <https://www.bgs.ac.uk/hosted-websites/>`__
