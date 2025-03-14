@@ -2,7 +2,7 @@ Installation
 ===============
 
 -  Installation
-   `QGIS <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/wikis/qgis-Installation>`__
+   `QGIS <https://qgis.org/resources/installation-guide/>`__
 
 
 Installation
@@ -27,7 +27,7 @@ Auch für *MacOS* stehen Installer auf der Downloadseite bereit.
 
     ..  youtube:: jXf1EI2GuVE
 
-    `Geodata Academy <https://www.youtube.com/watch?v=jXf1EI2GuVE>`_.
+    `Geodatenwelten <https://www.youtube.com/watch?v=jXf1EI2GuVE>`_.
 
 
 Older version
