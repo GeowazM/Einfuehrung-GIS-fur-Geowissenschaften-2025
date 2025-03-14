@@ -93,8 +93,12 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
     - `Håvard Aagesen & Team of the University of Helsinki <https://geo-python-site.readthedocs.io/en/latest/course-info/theteam.html>`__
     - `Zertifikatsstudium Geodatenmanager/-in <https://www.geodatenmanagerin-tuebingen.de/>`__
 
+.. admonition:: Literatur
 
-.. admonition:: Interessante Links
+    1. Bill, R. (2016): Grundlagen der Geo-Informationssysteme. Berlin-Offenbach. Wichmann Verlag. 855 Seiten, 6. Auflage.
+    2. `OpenGeoEdu <https://www.opengeoedu.de/>`__ 
+
+.. admonition:: Websites, Programme und Geoportale für geowissenschaftliche Anwendungen
 
     - `One Geology <https://onegeology.org/>`__
     - `European Geological Data Infrastructure <https://www.europe-geology.eu/>`__
@@ -109,18 +113,14 @@ Anhand der Übungen lernt ihr, **wie** ihr praktisch vorgeht, um ans Ziel zu kom
 
 .. admonition:: Hilfe
 
+    Starte mit dem Kurs indem du im Navigationsfesnter (links) die "Kursinhalte" & den Bereich "Wissenswertes" anschaust.
+
+.. admonition:: Hilfe
+
     Im Laude der Übungen werden euch typische Probleme von Geodaten und GIS-Software begegnen. Das Auftreten dieser Probleme ist i.d.R. beabsichtig. 
     Lösungen, Herangehensweisen zu diesen Problemen besprechen wir in der Vorlesung und während der gesamten Kurswoche.
     Online Hilfe findet ihr im `Wiki <https://courses.gistools.geog.uni-heidelberg.de/giscience/gis-einfuehrung/-/wikis/home>`__ des Geographischen Instituts der Uni Heidelberg und ganz allgemein im Internet.
 
-.. admonition:: Hilfe
-
-    Starte mit dem Kurs indem du im Navigationsfesnter (links) die "Kursinhalte" & den Bereich "Wissenswertes" anschaust.
-
-.. admonition:: Literatur
-
-    1. Bill, R. (2016): Grundlagen der Geo-Informationssysteme. Berlin-Offenbach. Wichmann Verlag. 855 Seiten, 6. Auflage.
-    2. `OpenGeoEdu <https://www.opengeoedu.de/>`__ 
 
 .. toctree::
     :maxdepth: 2
